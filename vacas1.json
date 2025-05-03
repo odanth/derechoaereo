@@ -1,0 +1,1882 @@
+[
+  {
+    "pregunta": "¿Cuáles son las clases de espacio aéreo controladas?",
+    "respuestas": {
+      "a": "A, B, e, D, E, F y G.",
+      "b": "A, B, C y D.",
+      "c": "G y F.",
+      "d": "A, B, C, D y E."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la afirmación incorrecta:",
+    "respuestas": {
+      "a": "Los vehículos cederán el paso a aeronaves aterrizando, despegando o rodando",
+      "b": "los vehículos cederán el paso a otros vehículos remolcando aeronaves",
+      "c": "los vehículos respetaran procedimientos locales e instrucciones de la torre.",
+      "d": "Los vehículos cederán el paso a aeronaves solo cuando estas se aproximen por la derecha."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Una aeronave volando en IMC deberá cumplir el siguiente reglamento:",
+    "respuestas": {
+      "a": "Reglas Generales, reglas VFR y reglas IFR.",
+      "b": "Reglas Generales y reglas IFR.",
+      "c": "Reglas Generales, reglas VMC e IMC.",
+      "d": "Reglas Generales y reglas VFR."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale el orden de prioridad de los siguientes cuerpos aéreos.",
+    "respuestas": {
+      "a": "Avión propulsado, planeador, dirigible, globo aerostático.",
+      "b": "Globo aerostático, planeador, dirigible, Avión propulsado.",
+      "c": "Globo aerostático, dirigible, planeador, Avión propulsado.",
+      "d": "Planeador, dirigible, avión propulsado, globo aerostático."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el espacio aéreo tipo B:",
+    "respuestas": {
+      "a": "vlslbllldad de vuelo debe de ser siempre 5 km.",
+      "b": "la visibilidad de vuelo debe de ser 5 km por encima de 10.000 ft AMSL.",
+      "c": "la visibilidad de vuelo debe de ser 8 km por debajo de 10.000 ft AMSL.",
+      "d": "la visibilidad de vuelo debe de ser 8 km por encima de 10.000 ft AMSL."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuáles son las condiciones por las que no se despega ni se aterriza en VFR como norma general?",
+    "respuestas": {
+      "a": "8 km de visibilidad y 2000 ft de techo.",
+      "b": "3 km de visibilidad y 1000 ft de techo.",
+      "c": "5 km de visibilidad y 1500 ft de techo.",
+      "d": "1 km de visibilidad y 1000 ft de techo."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es la letra que se utiliza para pasar de IFR a VFR?",
+    "respuestas": {
+      "a": "Y",
+      "b": "I",
+      "c": "V",
+      "d": "Z"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los códigos SSR 7700, 7600 y 7500 se reservarán para:",
+    "respuestas": {
+      "a": "Situación de emergencia, interferencia ilícita y fallo de comunicación, respectivamente.",
+      "b": "Situación de emergencia, fallo de comunicación e interferencia ilícita, respectivamente.",
+      "c": "Interferencia ilícita, fallo de comunicación y situación de emergencia, respectivamente.",
+      "d": "Interferencia ilícita, situación de emergencia y fallo de comunicación."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Que señalrecibirá un piloto por parte de la torre de control si tiene fallo radio, Y quieren indicarle que está autorizado a aterrizar:",
+    "respuestas": {
+      "a": "Luz verde continua.",
+      "b": "Luz verde intermitente.",
+      "c": "Luz roja.",
+      "d": "Luz roja intermitente."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Tras realizar un vuelo desde LELC a LETO. es decir. desde la Academia a Torrejón, 1 piloto de la aeromsve necesita lanzar su plan de vuelos de vuelta por lo tanto quiere  encontrar la oficina de preparación de vuelos (ATS reporting office), que señal le puede ayudar a encontrarla:",
+    "respuestas": {
+      "a": "La letra \"C\" en negro, bajo un fondo amarillo.",
+      "b": "La letra \"A\" en negro, bajo un fondo amarillo.",
+      "c": "La letra \"C\" en negro, bajo un fondo blanco.",
+      "d": "la letra \"A\" en negro, bajo un fondo blanco."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Referente al certificado de aeronavegabilidad:",
+    "respuestas": {
+      "a": "Está sujeto a las normas del país donde se ha registrado la aeronave y  normalmente podemos encontrarlo en el libro del avión.",
+      "b": "Está sujeto a las normas del país donde va a aterrizar la aeronave y normally podemos encontrarlo en el libro del avión.",
+      "c": "Está sujeto a las normas del país donde va a despegar la aeronave y no hace falta tenerlo en vigor para realizar un vuelo.",
+      "d": "Está sujeto a las normas del país donde se ha registrado la aeronave y no hace falta tenerlo en vigor para realizar un vuelo."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Indique la opción falsa, referente al certificado de aeronavegabilidad:",
+    "respuestas": {
+      "a": "Es un certificado con duración indefinida, no es necesario renovarlo.",
+      "b": "Al aterrizar en un aeropuerto o antes de ir, pueden pedírnoslo para comprobar que tenemos la documentación en regla.",
+      "c": "Indica que la aeronave cumple una serie de requisitos de aeronavegabilidad necesarios para una correcta operación de la aeronave.",
+      "d": "Debe reflejar el número de serie de la aeronave."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "LETO (Torrejón) tiene una elevación media de 2026 fts, si tenemos calado el QFf del campo a la hora del aterrizaje cuanto marcará nuestro altímetro:",
+    "respuestas": {
+      "a": "2026 fts.",
+      "b": "O fts.",
+      "c": "2526 fts.",
+      "d": "1013 mb."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Porencima de la altitud de transición, una vez calado 1013 mb,hablaremosde:",
+    "respuestas": {
+      "a": "Niveles de vuelo.",
+      "b": "Altitud de vuelo.",
+      "c": "Altura de vuelo.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La MSA (Minimun Sector Altitude) es definida dentro de las \tNM alrededor del aeródromo.",
+    "respuestas": {
+      "a": "20",
+      "b": "25",
+      "c": "30",
+      "d": "100"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Respecto al QNE, indique la respuesta incorrecta:",
+    "respuestas": {
+      "a": "Es usado cuando el valor de QNH es inferior a la escala del altímetro {normalmente 930 mb).",
+      "b": "El piloto deberá ajustar 1013 mb en el altímetro y aterrizar con una altitud de referencia.",
+      "c": "Es la altitud reflejada a la hora de la toma con un valor de 1013 mb ajustado en el altímetro.",
+      "d": "QNE es SPS {Standard Pressure Setting)"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿El implica el servicio de asesoramiento en vuelo?",
+    "respuestas": {
+      "a": "No avisa de peligros de colisión.",
+      "b": "No autoriza, \"asesora o sugiere\"",
+      "c": "Tiene la misma seguridad y responsabilidades que el servicio de control.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En cuanto a la cooperación entre estados en materia de servicio de búsquedaY salvamento, ¿señale cual es la respuesta incorrecta?",
+    "respuestas": {
+      "a": "Establecer autorizaciones de entrada sin comunicar los detalles de la misión y sin comunicar al otro estado de las condiciones de lamisión.",
+      "b": "Desarrollar procedimientos comunes.",
+      "c": "Autorízar a sus RCC a ofrecer ayuda si es solicitada.",
+      "d": "Establecer acuerdos de entrenamiento conjuntos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cual.seria el orden correcto de las distintas fases de activación para los casos de alarma SAR en caso de producirse una emergencia real?",
+    "respuestas": {
+      "a": "Alerta, lncerfa, y Oestresfa.",
+      "b": "lncerfa, Detresfa y Alerta.",
+      "c": "lncerfa, Alerta y Detresfa.",
+      "d": "Ninguna de Jas anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Ordene de menor a mayor distancia declarada de pista:",
+    "respuestas": {
+      "a": "Take Off Distance Available (TODA) > Accelerate-Stop Distance Available (ASDA) > Take Off Run Avaliable (TORA) > Landing Distance Available (LDA).",
+      "b": "Take Off Distance Available (TODA)> Take Off Run Avaliable (TORA)> Landing Distance Available (LOA) > Accelerate-Stop Distance Available (ASDA)",
+      "c": "Laodíng Dístance Available (LOA) > Take Off Distance Available (TODA) > Acceterate-Stop Oistance Available (ASDA) > Take Off Run Avaliable (TORA).",
+      "d": "Accelerate-Stop Distance Available (ASDA) > Take Off Distance Available (TODA) > Take Off Run Avaliable (TORA) > Landing Distance Available {LOA)."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Señale la respuesta correcta?",
+    "respuestas": {
+      "a": "Stopway: espacio rectangular sobre tierra, no utilizable para detener el avión situada al final de la TORA y misma anchura que la pista.",
+      "b": "Clearway: Espacio rectangular sobre tierra o mar, no es utilizable para parte ascenso inicial, esta situada al final de la TORA, su longitud max. no mas de ½ TORA y su anchura es de al menos 65 m respecto centre líne.",
+      "c": "Stopway: espacio rectangular sobre tierra, utilizable para detener el avión en caso necesario y que además tiene la misma anchura que la  pista.",
+      "d": "Clearway: E spacio rectangular sobre tierra o mar, es utilizable para parte ascenso inicial, esta situada al final de la TORA, su longitud max. no mas de la mitad de la TORA v su anchura: al menos 70m respecto centre line."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Sobre el PAPI, ¿Cuando tendremos la certeza de estar en senda durante una aproximación visual?",
+    "respuestas": {
+      "a": "Cuando tengamos: Tres luces blancas y una roja.",
+      "b": "Cuando tengamos: Cuatro luces blancas.",
+      "c": "Cuando tengamos: Tres luces rojas y una blanca.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cual de las siguientes afirmaciones es correcta en cuanto a la distancia disponible de pista en caso de touchdown, según el número de parejas en pista?",
+    "respuestas": {
+      "a": "Si tenemos 2 parejas de marcas en pista, tendremos ente menos de 900m de pista disponible para la toma.",
+      "b": "Si tenemos 3 parejas de marcas en pista, tendremos ente 900-1200m (ni) de pista disponible para la toma.",
+      "c": "Si tenemos 4 parejas de marcas en pista, tendremos ente 1500-2400m (ni) de pista disponible para la toma.",
+      "d": "Si tenemos 5 parejas de marcas en pista, tendremos 2400m o menos de pista disponible para la toma."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Las secciones en las que se divide AIP-ESPAÑA (Publicación de Información Aeronáutica) son:",
+    "respuestas": {
+      "a": "GEN (Generalidades), ENR (En Ruta), AD (Aeródromos).",
+      "b": "GEN (Generalidades), ENR (Reglamento del aire y Serv. De tráfico aéreo.), AD (Aeródromos).",
+      "c": "GEN (Generalidades), ENR ((Reglamento del aire y Serv. De tráfico aéreo.), AD (Aproximaciones Directas).",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los NOTAM's (Notice To Airmen):",
+    "respuestas": {
+      "a": "Da información urgente.",
+      "b": "La a) Y en general será de carácter temporal y de corta duración.",
+      "c": "La b) Y también podrá ser de carácter permanente o temporales de larga duración que no hayan podido ser previstos con antelación para publicarlos por AMDT o SUP.",
+      "d": "La c) y sólo tendrá difusión nacional."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Respecto a las clases de Espacio Aéreo:",
+    "respuestas": {
+      "a": "Existen varios tipos, controlados y no controlados, y los vuelos IFR no pueden volar en todos.",
+      "b": "Las clases A, B, C, D y E son espacios aéreos controlados y F y G son no controlados.",
+      "c": "Las clases F y G son espaciosaéreoscontrolados y A, B, e,O y E son no controlados.",
+      "d": "Todos los espacios aéreos son controlados, pero se diferencian en lo tipos de vuelos admitidos(VFR, e IFR)."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Respecto a las zonas prohibidas:",
+    "respuestas": {
+      "a": "Las restricciones en estas zonas son mlnlm",
+      "b": "Son espacios de vuelos restringidos de acuerdo con determinadas condiciones especificas, cuyo paso es llbre para toda aeronave.",
+      "c": "Son slmllares a las zonas restringidas cuya diferencia es la temporalidad,  siendo unas publicadas de forma permanente y otras no.",
+      "d": "Suponen restricciones máximas y su utlllzaclón está prohlblda para las aeronaves."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes claslflcaclones es correcta respecto a volumen de espacio aéreo controlado?:",
+    "respuestas": {
+      "a": "TMA > CTR > ATZ",
+      "b": "CTR > TMA > ATZ",
+      "c": "ATZ > TMA > CTR",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Aproximándonos a un aeropuerto, la secuencia normal de cambio de control será:",
+    "respuestas": {
+      "a": "Pasaremos de TWR a APP.",
+      "b": "Siempre se mantendrá la misma frecuencia.",
+      "c": "Pasaremos de APP a TWR.",
+      "d": "Pasaremos de APP al cuartelero del segundo edificio."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Del Convenio de Chlcago (1944) surge lo creación de:",
+    "respuestas": {
+      "a": "EASA",
+      "b": "OACI",
+      "c": "EUROCONTROL",
+      "d": "Todas las anteriores son correctas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señala qué afirmación acerca de OACI es correcta:",
+    "respuestas": {
+      "a": "Está compuesta por 139 estados miembros.",
+      "b": "El Consejo es un órgano permanente formado por representantes de 36 estados.",
+      "c": "Entre las funciones de la Asamblea está adoptar las normas internacionales y métodos recomendados.",
+      "d": "Ninguna de las anteriores es cierta."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El servicio de control de aproximación...:",
+    "respuestas": {
+      "a": "Será responsable de dar autorizaciones para despegue en VMC.",
+      "b": "Controlará a todas las aeronaves que transitan por el FIR/UIR.",
+      "c": "En aeródromos con CTR es obligatorio.",
+      "d": "No es responsable de dar separación a las aeronaves en salidas IFR."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale la FALSA:",
+    "respuestas": {
+      "a": "En salidas instrumentales la separación mínima entre aviones será de 1 minuto si divergen al menos 452.",
+      "b": "En salidas instrumentales la separación mínima entre aviones será de 2 minutos si la aeronave precedente vuela a 5 kt más rápido.",
+      "c": "En salidas instrumentales la separación mínima entre aviones será de 5 minutos si las aeronaves llevan la misma derrota y la posterior procede a un nivel superior.",
+      "d": "Si la separación por estela es diferente, se aplicará la mayor."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la afirmación correcta referente al Servicio de Control de Área:",
+    "respuestas": {
+      "a": "Es responsable del control del ATZ.",
+      "b": "Será suministrado por el servicio de control de aproximación cuando no se ha establecido un centro de ccmtrol de área.",
+      "c": "Proporciona una separación vertical mínima (SVM) de 1000 ft por debajo de FL290y de 2000 ft a FL290 o superior en espacio aéreo no designado.",
+      "d": "B y C son correctas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Respecto a la matriculación de aeronaves, indique la correcta:",
+    "respuestas": {
+      "a": "La matrícula precede a la marca de nacionalidad o marca común.",
+      "b": "La designación para aeronave militar de reabastecimiento es Q.",
+      "c": "EC-AA8 avión de construcción artesanal.",
+      "d": "EC-001 avión en prueba y entrega."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señala qué afirmación incorrecta:",
+    "respuestas": {
+      "a": "SIGMET, para fenómenos meteorológicos en ruta.",
+      "b": "GAMET, pronóstico por encima de FL150 en un FIR o Subzona.",
+      "c": "AIRMET, información vuelos por debajo de FL150 fenómenos meteo no incluidos en GAMET.",
+      "d": "METAR, informe meteorológico rutinario de aeródromo."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Selecciona la correcta en orden de menor a mayor categoría de licencia:",
+    "respuestas": {
+      "a": "LAPL-PPL-CPL-MPL-IR.",
+      "b": "LAPL-CPL-BPL-MPL-ATPL.",
+      "c": "LAPL-SPL-CPL-MPL-ATPL.",
+      "d": "PPL-CPL-MPL-ATPL-IR."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la FALSA:",
+    "respuestas": {
+      "a": "CPL corresponde con la licencia de piloto comercial.",
+      "b": "Con la licencia LAPL podría alquilar un avión y volar con mis 10 mejores  amigos a Ibiza para ver a David Guetta.",
+      "c": "MPL acredita para actuar como copiloto en un avión que requiera copiloto.",
+      "d": "IR corresponde con Instrumento/ roting."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la afirmación correcta referente al Servicio de Información:",
+    "respuestas": {
+      "a": "Se da a aeronaves que les afecte.",
+      "b": "A las que se ofrece servicio ATC.",
+      "c": "A cualquier otra conocida por ATS.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la afirmación correcta referente a la licencia APTL:",
+    "respuestas": {
+      "a": "Experiencia mínima 1000 horas de vuelo.",
+      "b": "200 horas e vuelo en operaciones multipuloto en aviones.",
+      "c": "75 horas de vuelo de instrumentos de las cuales 35 horas pueden ser en tierra.",
+      "d": "100 horasde vuelo nocturno como PIC o coplloto."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "EN CUANTO A EUROCONTROL, SEÑALE LA FALSA:",
+    "respuestas": {
+      "a": "SU OBJETIVO ES ESTABLECER \"UN CIELO UNICO EUROPEO\"",
+      "b": "TIENE SU SEDE EN BRUSELAS",
+      "c": "FUE FUNDADA EN 1944",
+      "d": "ES LA ORGANIZACIÓN EUROPEA PARA LA SEGURIDAD EN LA NAVEGACIÓN AÉREA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "SEÑALE LA FALSA:",
+    "respuestas": {
+      "a": "TWR. DARÁ LA AUTORIZACIÓN DE ATERRIZAR ANTES DE QUE LA AERONAVE ESTÉ A 2NM DEL UMBRAL",
+      "b": "EN IMC, APP SOLICITARÁ AUTORIZACIÓN A TWR. PARA ATERRIZAR CUANDO LA AERONAVE ESTE A 2NM.",
+      "c": "APP DARÁ AUTORIZACIÓN CONDICIONAL A LA TWR. PARA DESPEGUES IFR/VFR",
+      "d": "EN IMC, APP AUTORIZARA DIRECTAMENTE LOS DESPEGUES"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "RESPECTO AL SERVICIO DE INFORMACION SEÑALA LA FALSA:",
+    "respuestas": {
+      "a": "METAR ES UN INFORME METEOROLOGICO RUTINARIO DE AERODROMO",
+      "b": "GAMET SE EXPIDE CADA 6 HORAS",
+      "c": "AIRMET PROPORCIONA INFORMACIÓN SOBRE FENÓMENOS METEOROLÓGICOS EN RUTA, POR DEBAJO DE FL200.",
+      "d": "SIGMET. PROPORCIONA INFORMACION SOBRE FENOMENOS METEOROLOGICOS EN RUTA QUE SEAN FACTOR PARA LA SEGURIDAD"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "CON RESPECTO A LA INFORMACION EN PANTALLA DE UN RADAR:",
+    "respuestas": {
+      "a": "EL RADAR PRIMARIO OFRECE MAS INFORMACION QUE EL SECUNDARIO",
+      "b": "EL TRANSPONDER ESTA A BORDO DEL AVION, PARA AYUDAR A IDENTIFICAR A LAS AERONAVES",
+      "c": "EL RADAR TERCIARIO ES EL MAS COMPLETO DE TODOS.",
+      "d": "EL IFF ES UN INSTRUMENTO INCLUIDO DENTRO DE UN RADAR SECUNDARIO"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "CUAL ES LA EDAD MINIMA PARA OBTENER LICENCIA\tATPL(A)?",
+    "respuestas": {
+      "a": "16 AÑOS",
+      "b": "21 AÑOS",
+      "c": "18 AÑOS",
+      "d": "20 AÑOS Y MINIMO DE DOS AÑOS DE LA LICENCIA CPL(A)"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "CUAL ES EL PRINCIPAL PROPOSITO DE LOS SERVICIOS DE TRANSITO AEREO?",
+    "respuestas": {
+      "a": "APLICAR LA SEPARACION ENTRE LAS AERONAVES Y EL SUELO",
+      "b": "ACELERAR Y COORDINAR EL FLUJO DE LAS AERONAVES",
+      "c": "PREVENIR COLISIONES ENTRE AERONAVES",
+      "d": "NINGUNA ES CORRECTA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "SEÑALE LA RESPUESTA INCORRECTA DE LAS SIGUIENTES AFIRMACIONES",
+    "respuestas": {
+      "a": "EL COMANDANTE DE LA AERONAVE (COMMANDER) ES EL RESPONSABLE DEL VUELO",
+      "b": "EL PIC NUNCA PODRA SER COMMANDER AL MISMO TIEMPO",
+      "c": "EL PIC PODRA INCUMPLIR EL REGLAMENTO DEL AIRE POR MOTIVOS DE SEGURIDAD",
+      "d": "EL PILOT IN COMMAND (PIC) ES EL RESPONSABLE DE PILOTAR LA AERONAVE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "UNA AERONAVE VOLANDO EN IMC DEBERA CUMPLIR EL SIGUIENTE REGLAMENTO",
+    "respuestas": {
+      "a": "REGLAS IFR, Y VFR",
+      "b": "REGLAS GENERALES, Y REGLAS IFR",
+      "c": "REGLAS GENERALES, VFR, Y REGLAS IFR",
+      "d": "REGLAS GENERALES UNICAMENTE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "DURANTE EL VUELO, AL PASAR LA CAPA DE TRANSICION DEBEREMOS:",
+    "respuestas": {
+      "a": "PASAR DE QNE A QNH",
+      "b": "ACTUALIZAR EL QFE",
+      "c": "PASAR DE QNH A QNE",
+      "d": "PONER EL QNH A 1027 HPA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "RESPECTO AL SERVICIO DE BUSQUEDA Y SALVAMENTO, SEÑALE LA FALSA:",
+    "respuestas": {
+      "a": "EXISTE UNICAMENTE UN CENTRO COORDINADOR, SITUADO EN MADRID",
+      "b": "SE PRESTARAN 24 HORAS AL DIA",
+      "c": "AYUDA A LAS AERONAVES EN PELIGRO",
+      "d": "EL SERVICIO DE BUSQUEDA Y SALVAMENTO PUEDE TAMBIEN PRESTAR AUXILIO A BARCOS EN PELIGRO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "RESPECTO A LAS CLASES DE ESPACIO AEREO ATS:",
+    "respuestas": {
+      "a": "LA CLASE A ES LA MENOS RESTRICTIVA",
+      "b": "LOS ESPACIOS AEREOS CONTROLADOS SON LOS DE LA CLASE A, B, C, D, E",
+      "c": "LOS VUELOS VFR NO SE VEN AFECTADOS",
+      "d": "EXISTEN 6 TIPOS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿DONDE ESTAN LOCALIZADES LAS UNIDADES SAR DE ESPAÑA?",
+    "respuestas": {
+      "a": "CANARIAS, BALEARES Y MADRID",
+      "b": "MADRID, BARCELONA Y CANARIAS",
+      "c": "CANARIAS, BALEARES Y SEVILLA",
+      "d": "BARCELONA, SEVILLA Y CANARIAS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿QUE SIGNIFICAN LAS SIGLAS RCC?",
+    "respuestas": {
+      "a": "CENTRO COORDINADOR DE EMERGENCIA",
+      "b": "CENTRO COORDINADOR DE SALVAMENTO",
+      "c": "REGION COMBINADA CONJUNTA",
+      "d": "REGION DE CONTROL COMBINADO"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "SEÑALE LA CORRECTA SOBRE LA PRESENTACION DE LOS PLANES DE VUELO",
+    "respuestas": {
+      "a": "SI SE REQUIERE CONTROL DE AFLUENCIA SE DEBERA PRESENTAR 1 HORA ANTES DE EOBT",
+      "b": "TODAS SON CIERTAS",
+      "c": "ES OBLIGATORIO PRESENTAR EL PLAN DE VUELOS 30 MINUTOS ANTES DEL VUELO, SI SE REQUIERE SERVICIO DE CONTROL O ASESORAMIENTO.",
+      "d": "EN VUELO 10 MINUTOS ANTES DE ENTRAR EN UN AREA QUE REQUIERA SERVICIO DE CONTROL O ASESORAMIENTO"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "CUANDO HABLAMOS DE LA POSICION DE UNA AERONAVE RESPECTO AL NIVEL MEDIO DEL MAR, HABLAMOS DE:",
+    "respuestas": {
+      "a": "LATITUD",
+      "b": "ELEVACION",
+      "c": "ALTITUD",
+      "d": "ALTURA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "SEÑALE EL ORDEN DE PRIORIDAD DE LOS SIGUIENTES CUERPOS AEREOS DE MAYOR PRIORIDAD A MENOR.",
+    "respuestas": {
+      "a": "PLANEADOR, DIRIGIBLE, AVION A PROPULSION Y GLOBO",
+      "b": "LA ESTRELLA DE LA MUERTE, EL HALCON MILENARIO, LA TAMIZ Y EL 101",
+      "c": "GLOBO AEROSTATICO, AERODINO, ZEPELIN Y DIRIGIBLE",
+      "d": "GLOBO AEROSTATICO, PLANEADOR, DIRIGIBLE, Y AVION PROPULSADO"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿CUAL ES LA SEPARACION VERTICAL DE LOS ESPACIO EN ESPACIO AEREO RVSM?",
+    "respuestas": {
+      "a": "1000 FT ENTRE FL290 Y FL410",
+      "b": "2000 FT ENTRE FL 290 Y FL 4200",
+      "c": "2000 FT ENTRE FL 290 Y FL 410",
+      "d": "750 FT ENTRE FL 290 Y FL 420"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿CUALES SON LAS FASES DE ACTIVACION DEL SAR EN ORDEN CRECIENTE?",
+    "respuestas": {
+      "a": "ALERFA, DETRESFA, GETRESTA",
+      "b": "INCERFA, DETRESFA Y ALERFA",
+      "c": "DETRESFA, ALERFA, INCERFA",
+      "d": "INCERFA, ALERFA Y DETRESFA"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "LA LIMITACION DE ALTURA SOBRE AGLOMERACIONES DE EDIFICIO ES:",
+    "respuestas": {
+      "a": "1000 FT Y 450M DE RADIO",
+      "b": "2000FT Y 300M DE RADIO",
+      "c": "1000 FT Y 600M DE RADIO",
+      "d": "LAS RASCADAS A 100M ESTAN PERMITIDAS SIEMPRE QUE SEA PARA VER A TU PAREJA O FAMILIA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿QUIENES ESTAN EXENTOS DE PRESENTAR PLAN DE VUELOS DE LAS SIGUIENTES OPCIONES?",
+    "respuestas": {
+      "a": "VUELOS DE ENSEÑANZA O ADIESTRAMIENTO, SIEMPRE QUE LO AUTORICE EL JEFE DE LA ESCUELA",
+      "b": "VUELOS MILITARES EN MISION DE ENTRENAMIENTO",
+      "c": "VUELOS MILITARES, VUELOS SAR, Y VUELOS EXPRESAMENTE AUTORIZADOS POR LA AUTORIDAD COMPETENTE.",
+      "d": "VUELOS MILITARES EN MISIONES TACTICAS O DE DEFENSA AEREA."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En la casilla 18 de nuestro plan de vuelos pondremos EET/ para:",
+    "respuestas": {
+      "a": "Indicar la duración prevista de vuelo.",
+      "b": "Los detalles relativos a la ruta que lleva el nuevo aeródromo de destino, seguido del indicador de lugar OACI, de cuatro letras, correspondiente a dicho aeródromo. La ruta revisada debe ser objeto de renovación en vuelo de la autorización.",
+      "c": "Designadores de puntos significativos o límites de la FIR y duración total prevista hasta esos puntos, o designadores de límites de la FIR cuando esté prescrito en acuerdos regionales de navegación aérea o por la autoridad ATS competente.",
+      "d": "Datos de características de la aeronave, cuando así lo prescriba la autoridad ATS competente."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Refiriéndonos a la reglamentación del aire… Una aeronave que va sobrevolando espacio aéreo extranjero deberá obedecer:",
+    "respuestas": {
+      "a": "Únicamente el reglamento del Estado de la aeronave.",
+      "b": "Las normas del país que sobrevuela.",
+      "c": "Las normas del país que sobrevuele con prioridad sobre las del Estado de la aeronave.",
+      "d": "Las normas del país que sobrevuela así como las del Estado de la aeronave según el criterio del Comandante de la aeronave."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La Ley 48/1960 sobre Navegación Aérea regula:",
+    "respuestas": {
+      "a": "Soberanía del espacio aéreo y tráfico aéreo, Aeronaves, Aeropuertos, Sanciones, entre otros.",
+      "b": "Coordinación entre defensa y fomento, investigación de accidentes, seguridad, entre otros.",
+      "c": "Inspección aeronáutica, infracciones, entre otros.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El Instrumental Rating IR:",
+    "respuestas": {
+      "a": "Es imprescindible para todos los pilotos que pretendan realizar una actividad remunerada como PIC o copiloto.",
+      "b": "Se concede automáticamente al obtener la licencia CPL.",
+      "c": "Es imprescindible para disponer del título ATPL.",
+      "d": null
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La limitación de altura (excepto TO / LAND) sobre tierra o agua en un vuelo visual es de:",
+    "respuestas": {
+      "a": "500 metros.",
+      "b": "500 ft.",
+      "c": "100 ft.",
+      "d": "1000 ft sobre el obstáculo más alto en un radio de 600 metros."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Se define área de maniobras como aquella parte del aeródromo:",
+    "respuestas": {
+      "a": "Destinada únicamente al aterrizaje o despegue de aeronaves.",
+      "b": "Destinada únicamente al rodaje de aeronaves.",
+      "c": "Que ha de utilizarse para el despegue, aterrizaje y rodaje de aeronaves, excluyendo las plataformas.",
+      "d": "Que ha de utilizarse para el despegue, aterrizaje y rodaje de aeronaves, incluyendo las plataformas."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La información solicitada al piloto relativa a fenómenos meteorológicos se conoce como:",
+    "respuestas": {
+      "a": "SIGMET.",
+      "b": "AFIS.",
+      "c": "VOLMET.",
+      "d": "AIRMET."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Respecto al servicio radar:",
+    "respuestas": {
+      "a": "En caso de interrupción o terminación del servicio se le comunicará cuando se considere oportuno a la aeronave.",
+      "b": "Al proporcionar guía vectorial para evitar alguna zona, el controlador se cerciorará de que la aeronave regresa a su ruta de vuelo dentro de la cobertura radar.",
+      "c": "Al terminar la guía vectorial de una aeronave, el controlador radar dará instrucciones al piloto para que continúe sus instrucciones.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El procedimiento para cancelar vuelos en VFR es:",
+    "respuestas": {
+      "a": "Suspender las salidas no IFR, suspender vuelos locales VFR u obtener permisos para VFR especiales, y notificar medidas tomadas al ACC.",
+      "b": "Suspender las salidas no IFR, suspender vuelos locales VFR u obtener permisos para VFR especiales, notificar medidas tomadas al ACC y notificar a los explotadores.",
+      "c": "Suspender las salidas no IFR, obtener permisos para VFR especiales, y notificar a los explotadores.",
+      "d": "Suspender las salidas no IFR, suspender vuelos locales VFR, notificar medidas tomadas al ACC, y notificar a los explotadores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién puede suspender las condiciones VFR cuando la seguridad lo exija?",
+    "respuestas": {
+      "a": "El ACC en cuya área esté el aeródromo.",
+      "b": "El controlador de aeródromo en servicio.",
+      "c": "Todas son correctas.",
+      "d": "La autoridad ATS competente."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Las categorías de las aeronaves son:",
+    "respuestas": {
+      "a": "Pesada (P) de 136.000 kg o más, Media (M) entre 136.000 y 8.000 kg, y Ligera (L) de menos de 8.000 kg.",
+      "b": "Pesada (H) de 136.000 kg o más, Media (M) entre 136.000 y 7.000 kg, y Ligera (L) de menos de 7.000 kg.",
+      "c": "Pesada (P) de 136.000 kg o más, Media (M) entre 136.000 y 7.000 kg, y Ligera (L) de menos de 7.000 kg.",
+      "d": "Pesada (H) de 140.000 kg o más, Media (M) entre 140.000 y 7.000 kg, y Ligera (L) de menos de 7.000 kg."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En cuanto a las señales de emergencia:",
+    "respuestas": {
+      "a": "Se indica señal de socorro cuando hay un peligro grave y se requiere asistencia inmediata mediante la fórmula MAYDAY tres veces, entre otras cosas.",
+      "b": "Se indica señal de urgencia sobre la seguridad de las personas o propiedad a bordo mediante la fórmula MAYDAY tres veces, entre otras cosas.",
+      "c": "Ninguna es correcta.",
+      "d": "Cuando no se necesite asistencia apagaremos los faros de aterrizaje y las luces de navegación."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Al cambiar de nivel de vuelo, ¿qué aeronave tendrá prioridad?",
+    "respuestas": {
+      "a": "La que llega al nivel de vuelo.",
+      "b": "La que primero avise al control por radio.",
+      "c": "La que ya estaba volando en ese nivel.",
+      "d": "Indistintamente, ya que queda a criterio del controlador."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Se establece para aeronaves que salen, una separación mínima por estela turbulenta entre una aeronave que despega detrás de una de categoría superior (despegando ambas desde el inicio de la misma pista) de:",
+    "respuestas": {
+      "a": "2 min.",
+      "b": "3 min.",
+      "c": "4 min.",
+      "d": "5 min."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Como norma general no se despegará ni aterrizará en VFR si:",
+    "respuestas": {
+      "a": "El techo es inferior a 2500 ft y la visibilidad es superior a 5 km.",
+      "b": "El techo es inferior a 1500 ft y la visibilidad es inferior a 5 km.",
+      "c": "El techo es inferior a 1000 m y la visibilidad es inferior a 5 km.",
+      "d": "El techo es inferior a 1500 ft y la visibilidad es superior a 5 km."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la falsa. Según el Convenio de Chicago, los principios contenidos son (entre otros):",
+    "respuestas": {
+      "a": "Buena fe.",
+      "b": "Independencia.",
+      "c": "No discriminación.",
+      "d": "Igualdad de los estados."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Quienes de los siguientes están exentos de presentar el plan de vuelos:",
+    "respuestas": {
+      "a": "Vuelos militares y vuelos SAR y vuelos expresamente autorizados por la autoridad competente.",
+      "b": "Vuelos militares en misiones tácticas o de defensa aérea, de búsqueda y salvamento en misiones de urgencia y vuelos expresamente autorizados por la autoridad competente.",
+      "c": "Vuelos militares en misiones de entrenamiento y expresamente autorizados por la autoridad competente.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "QNH es:",
+    "respuestas": {
+      "a": "Presión al nivel del aeródromo deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar.",
+      "b": "Presión al nivel del mar deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar.",
+      "c": "Presión atmosférica en el aeródromo.",
+      "d": "Aquel que, cuando lo seleccionamos en el aeródromo, nos indicará 0 ft."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debemos hacer siempre al pasar por la altitud de transición?",
+    "respuestas": {
+      "a": "En ascenso seleccionar el QNH.",
+      "b": "En descenso seleccionar el QNE.",
+      "c": "En ascenso seleccionar el QNE.",
+      "d": "En descenso seleccionar el QFE."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La maniobra de frustrada o “missed approach” se debe iniciar…",
+    "respuestas": {
+      "a": "Siempre que lo ordene el controlador.",
+      "b": "Cuando, teniendo contacto visual, el piloto considere que si continuase con el aterrizaje pondría en peligro la aeronave y el pasaje.",
+      "c": "Siempre que al llegar al punto de frustrada no se consiga contacto visual con la pista o con los elementos de referencia.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la FALSA. Respecto a la clearway:",
+    "respuestas": {
+      "a": "Es un espacio rectangular sobre tierra o mar.",
+      "b": "Tiene la misma anchura que la pista.",
+      "c": "Su longitud no debe ser más de ½ de la TORA.",
+      "d": "Utilizable para la parte inicial del ascenso."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué distancias en pista incluye la STOPWAY?",
+    "respuestas": {
+      "a": "TORA y ASDA.",
+      "b": "LDA y TORA.",
+      "c": "ASDA y TODA.",
+      "d": "TODA y LDA."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Enumere en orden las diferentes partes de un tráfico tras el despegue:",
+    "respuestas": {
+      "a": "Viento cruzado, viento en cola, base, final.",
+      "b": "Viento en cola, viento cruzado, final, base.",
+      "c": "Base, final, viento cruzado, viento en cola.",
+      "d": "Viento cruzado, viento en cola, base, APP."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué reglas se pueden seguir dentro de un espacio aéreo clase A?",
+    "respuestas": {
+      "a": "Sólo VFR.",
+      "b": "Sólo IFR.",
+      "c": "Ambas (según las condiciones meteorológicas).",
+      "d": "Sólo IMC."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la afirmación correcta:",
+    "respuestas": {
+      "a": "Se puede volar VFR en IMC, e IFR en VMC.",
+      "b": "Se puede volar IFR en VFR, pero no VFR en IFR.",
+      "c": "Se debe volar IFR en IMC, y VFR en VMC.",
+      "d": "Todas las anteriores son falsas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las JAR FCL 3 tratan de:",
+    "respuestas": {
+      "a": "Licencias para helicópteros.",
+      "b": "Transporte Aéreo Comercial (Helicópteros).",
+      "c": "Licencias para requerimientos médicos sin englobar a los mecánicos de vuelo.",
+      "d": "Licencias para requerimientos médicos."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las fases de activación SAR en orden creciente son:",
+    "respuestas": {
+      "a": "DETRESFA, INCERFA, ALERFA.",
+      "b": "ALERFA, DETRESFA, INCERFA.",
+      "c": "INCERFA, ALERFA, DETRESFA.",
+      "d": "ALERFA, INCERFA, DETRESFA."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Los códigos SSR 7700, 7600 y 7500 se reservarán para:",
+    "respuestas": {
+      "a": "Situación de emergencia, interferencia ilícita y fallo de comunicación, respectivamente.",
+      "b": "Interferencia ilícita, fallo de comunicación y situación de emergencia, respectivamente.",
+      "c": "Situación de emergencia, fallo de comunicaci´pon e interferencia ilícita, respectivamente.",
+      "d": "Interferencia ilícita, situación de emergencia y fallo de comunicación."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El servicio de control de área:",
+    "respuestas": {
+      "a": "Es proporcionado por un centro de control de área (ACC).",
+      "b": "Es proporcionado por un control de aproximación (APP) en una CTA/CTR sin ACC.",
+      "c": "Su indicativo es por ejemplo “Madrid Control”.",
+      "d": "Todas las anteriores son ciertas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Entre aeronaves con RVSM la separación vertical mínima entre FL290 y FL410 será:",
+    "respuestas": {
+      "a": "2000 ft.",
+      "b": "1000 metros.",
+      "c": "2000 metros.",
+      "d": "1000 ft."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿El controlador radar puede pedir a la aeronave un ajuste de la velocidad?",
+    "respuestas": {
+      "a": "Sí, siempre que la aeronave no haya superado los 4 NM del umbral en la aproximación final.",
+      "b": "No.",
+      "c": "Sí, pero sólo si es por una emergencia o causa muy grave.",
+      "d": "Sí en cualquier momento si la situación lo requiere."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Dónde se colocará el señalero para dirigir un avión?",
+    "respuestas": {
+      "a": "Delante del ala izquierda, a la vista del piloto",
+      "b": "Justo en el morro del avión para que le vea bien",
+      "c": "Delante del ala derecha, a la vista del piloto",
+      "d": "Justo en la cola del avión, para que el piloto lo vea por el retrovisor"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El servicio de Control de Aeródromo:",
+    "respuestas": {
+      "a": "Es proporcionado por un ACC",
+      "b": "Es proporcionado por un APP",
+      "c": "Es proporcionado por una TWR",
+      "d": "Es proporcionado por un FIC"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de reglas de vuelo se puede utilizar en VMC?",
+    "respuestas": {
+      "a": "Solo VFR",
+      "b": "Solo IFR e IMC en SVFR",
+      "c": "IFR o VFR para aeronaves de Estado",
+      "d": "VFR si el tipo de espacio aéreo lo permite o IFR si lo precisa el piloto o el control"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale lo que indica este tipo (descripción: monigote con dos palos indicadores, brazos estirados a 45 grados, cruza los palos repetidamente):",
+    "respuestas": {
+      "a": "Avance de frente",
+      "b": "Fuego en ambos motores",
+      "c": "Calzos fuera",
+      "d": "Alto"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Si pretendo aterrizar en un campo sin designador OACI, utilizaré en el plan de vuelos:",
+    "respuestas": {
+      "a": "ZZZZ en la casilla 13 (aeródromo de salida) y DEP/ seguido de el nombre del destino en casilla 18 (otros datos)",
+      "b": "ZZZZ en la casilla 13 (aeródromo de salida) y DEST/ seguido del nombre del destino en casilla 18 (otros datos)",
+      "c": "El nombre del destino en la casilla de observaciones precedido de RMK/",
+      "d": "No es necesario cumplimentar el plan de vuelos, puede cumplimentarse durante el vuelo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El servicio de control de aproximación es proporcionado a aeronaves:",
+    "respuestas": {
+      "a": "Que llegan o salen de un aeródromo en una CTR",
+      "b": "Que llegan o salen de un aeródromo en una ATZ",
+      "c": "Que llegan o salen de un aeródromo en una TMA",
+      "d": "Ninguna de las respuestas anteriores es correcta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En VMC ¿de quién es responsabilidad evitar una colisión?",
+    "respuestas": {
+      "a": "Siempre del servicio de control de tránsito aéreo",
+      "b": "Siempre del comandante de la aeronave",
+      "c": "Del control de área si se utiliza radar secundario SSR",
+      "d": "Depende de si se utilizan reglas VFR o IFR"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El Servicio de Control de Tráfico Aéreo está formado por distintos espacios y unidades de control. De menor a mayor amplitud, son los siguientes:",
+    "respuestas": {
+      "a": "ATZ (TWR), CTR (ACC) y TMA (APP)",
+      "b": "CTR (TWR), ATZ (APP) y TMA (ACC)",
+      "c": "ATZ (TWR), CTR (APP) y TMA/CTA (ACC)",
+      "d": "TMA (ACC), CTR (APP) y ATZ (TWR)"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la letra que se debe poner en un plan de vuelos para pasar de VFR a IFR?",
+    "respuestas": {
+      "a": "V.",
+      "b": "I.",
+      "c": "Z.",
+      "d": "Y."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Refiriéndonos a la reglamentación del aire, una aeronave que va sobrevolando espacio aéreo extranjero deberá obedecer:",
+    "respuestas": {
+      "a": "Únicamente el reglamento del Estado de la aeronave.",
+      "b": "Las normas del país que sobrevuela.",
+      "c": "Las normas del país que sobrevuele con prioridad sobre las del Estado de la aeronave.",
+      "d": "Las normas del país que sobrevuela así como las del Estado de la aeronave según el criterio del Comandante de la aeronave."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La Ley 48/1960 sobre Navegación Aérea regula, entre otros:",
+    "respuestas": {
+      "a": "Regulación de las normas internacionales.",
+      "b": "Aeropuertos y Aeronaves.",
+      "c": "A y B son correctas.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la afirmación correcta:",
+    "respuestas": {
+      "a": "La edad requerida para conseguir la CPL es 21 años, en cambio para conseguir el ATPL es 18 años.",
+      "b": "La habilitación instrumental (IR) se concede automáticamente al obtener la licencia CPL.",
+      "c": "El periodo de validez es la misma para la habilitación de instructor e instrumental.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "d"
+  }
+  {
+    "pregunta": "La limitación de altura (excepto TO / LAND) sobre tierra o agua en un vuelo visual es de:",
+    "respuestas": {
+      "a": "5000 metros",
+      "b": "5000 ft",
+      "c": "500 ft",
+      "d": "1500 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta: V-ATIS y D-ATIS son un METAR o un TAFOR transmitidos por FIR; El VOLMET es información transmitida por voz en VHF; El VOLMET es METAR y TAFOR transmitidos por FIS.; Ninguna de las anteriores.",
+    "respuestas": {
+      "a": "V-ATIS y D-ATIS son un METAR o un TAFOR transmitidos por FIR",
+      "b": "El VOLMET es información transmitida por voz en VHF",
+      "c": "El VOLMET es METAR y TAFOR transmitidos por FIS.",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la opción que considere CORRECTA respecto al uso del PAPI:",
+    "respuestas": {
+      "a": "Es una ayuda que nos informa sobre la desviación que llevamos lateralmente respecto de la pista",
+      "b": "Si vemos que tiene dos luces del mismo color es porque vamos altos",
+      "c": "Es una ayuda visual para el controlador de la torre",
+      "d": "Ninguna de las anteriores es correcta"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Quién puede suspender las condiciones VFR cuando la seguridad lo exija?",
+    "respuestas": {
+      "a": "El ACC en cuya área esté el aeródromo",
+      "b": "La autoridad ATS competente",
+      "c": "El controlador de aeródromo en servicio",
+      "d": "Todas las respuestas anteriores son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las categorías de las aeronaves son:",
+    "respuestas": {
+      "a": "Pesada (H) de 140 000 kg o más; Media (M) entre 140 000 y 7 000 kg; Ligera (L) de menos de 7 000 kg",
+      "b": "Pesada (P) de 136 000 kg o más; Media (M) entre 136 000 y 7 000 kg; Ligera (L) de menos de 7 000 kg",
+      "c": "Pesada (H) de 13 600 kg o más; Media (M) entre 13 600 y 8 000 kg; Ligera (L) de menos de 8 000 kg",
+      "d": "Pesada (H) de 136 000 kg o más; Media (M) entre 136 000 y 7 000 kg; Ligera (L) de menos de 7 000 kg"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta:",
+    "respuestas": {
+      "a": "Se activará la fase DETRESFA cuando se considere el combustible de la aeronave agotado o sus condiciones anómalas requieran un aterrizaje forzoso",
+      "b": "Se activará la fase ALERFA si una aeronave autorizada para aterrizar no lo hace dentro de los 5 min tras su ATA",
+      "c": "Se activará la fase INCERFA si no se recibe comunicación de una aeronave transcurridos 60 min desde la hora prevista de notificación, o no se logra comunicar con ella",
+      "d": "Todas las respuestas anteriores son correctas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Al cambiar de nivel de vuelo, ¿qué aeronave tendrá prioridad?",
+    "respuestas": {
+      "a": "La que llega al nivel de vuelo",
+      "b": "La que ya estaba volando en ese nivel",
+      "c": "La que primero avise al control por radio",
+      "d": "Indistintamente, dependerá del criterio del controlador"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Se establece para aeronaves que salen, una separación mínima por estela turbulenta entre una aeronave que despega detrás de una de categoría superior (despegando ambas desde el inicio de la misma pista) de:",
+    "respuestas": {
+      "a": "1 min",
+      "b": "2 min",
+      "c": "3 min",
+      "d": "4 min"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Como norma general no se despegará ni aterrizará en VFR si:",
+    "respuestas": {
+      "a": "El techo de nubes es inferior a 1500 ft y la visibilidad (RVR) es superior a 5 km",
+      "b": "El techo de nubes es inferior a 1000 ft y la visibilidad (RVR) es inferior a 3 km",
+      "c": "El techo de nubes es inferior a 1500 m y la visibilidad (RVR) es inferior a 5 km",
+      "d": "El techo de nubes es inferior a 1500 ft y la visibilidad (RVR) es inferior a 5 km"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Los servicios de tránsito aéreo se proporcionan con el fin de, entre otros:",
+    "respuestas": {
+      "a": "Prevención de una colisión entre aeronaves",
+      "b": "Acelerar y mantener el flujo ordenado del tránsito aéreo",
+      "c": "Aplicar la separación entre aeronaves",
+      "d": "Todas las anteriores son falsas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cómo empiezan las matrículas de las aeronaves españolas?",
+    "respuestas": {
+      "a": "EC",
+      "b": "EA",
+      "c": "ED",
+      "d": "EB"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Indique cuál de las siguientes no es una libertad del aire:",
+    "respuestas": {
+      "a": "Libertad para tomar pasajeros destinados al estado de nacionalidad de la aeronave",
+      "b": "Libertad para aterrizar con fines no comerciales",
+      "c": "Libertad para realizar pasadas a baja cota sobre la población",
+      "d": "Libertad para volar sobre el territorio de un estado sin aterrizar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En un aeródromo, si vemos destellos rojos nos indican:",
+    "respuestas": {
+      "a": "Que hemos de apartarnos del área de aterrizaje o calle de rodaje por presencia de aeronave",
+      "b": "Que hemos de parar",
+      "c": "Que hemos de desalojar la calle de rodaje y observar torre",
+      "d": "Que podemos continuar"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "QNH es:",
+    "respuestas": {
+      "a": "Presión al nivel del aeródromo deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar",
+      "b": "Presión al nivel del mar deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar",
+      "c": "Presión estándar al nivel del mar (29,92″ o 1013 milibares)",
+      "d": "Presión estándar atmosférica en el aeródromo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un avión en ascenso, ¿qué debe hacer al llegar a la altitud de transición?",
+    "respuestas": {
+      "a": "Calar en sus altímetros el QFE",
+      "b": "Calar en sus altímetros el QNE",
+      "c": "Calar en sus altímetros el QNH dado por el controlador",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Respecto al Convenio de Chicago, señale la opción VERDADERA:",
+    "respuestas": {
+      "a": "La OACI nace de este Convenio en 1948",
+      "b": "La OACI no tiene nada que ver con la ICAO, ya que el primero es la Organización de Aviación Civil Internacional y el segundo es el Instituto de Circulación Aérea Operativa que depende directamente de Eurocontrol",
+      "c": "Los anexos al Convenio constituyen el segundo escalafón normativo",
+      "d": "Todas las anteriores son falsas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué distancia debe mantener en el punto de espera antes de entrar en pista (Punto de Espera)?",
+    "respuestas": {
+      "a": "La que estime oportuna para que no colisione con un avión que aterrice o despegue",
+      "b": "Al menos 50 metros si la pista mide 900 metros o más y 30 metros si la pista mide menos de 900 metros",
+      "c": "Nunca se parará en el punto de espera, ese punto es para vehículos que circulan por las inmediaciones de la pista",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Enumere en orden las diferentes partes de un tráfico tras el despegue:",
+    "respuestas": {
+      "a": "Viento en cola, viento cruzado, final, base",
+      "b": "Viento cruzado, viento en cola, base, APP",
+      "c": "Viento cruzado, viento en cola, base, final y larga final",
+      "d": "Viento cruzado, viento en cola, base, final"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la VERDADERA, respecto a la STOPWAY:",
+    "respuestas": {
+      "a": "Tiene la misma anchura que la pista",
+      "b": "Está al final de la ASDA",
+      "c": "Es creada para que sea utilizable para el ascenso inicial",
+      "d": "Espacio rectangular sobre tierra o mar"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale la afirmación correcta: Se puede volar VFR en IMC, e IFR en VMC; Se puede volar IFR en VFR, pero no VFR en IFR; En IMC solo y exclusivamente se puede volar IFR; Todas las anteriores son falsas.",
+    "respuestas": {
+      "a": "Se puede volar VFR en IMC, e IFR en VMC",
+      "b": "Se puede volar IFR en VFR, pero no VFR en IFR",
+      "c": "En IMC solo y exclusivamente se puede volar IFR",
+      "d": "Todas las anteriores son falsas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué distancias en pista incluye la STOPWAY?",
+    "respuestas": {
+      "a": "TORA y ASDA",
+      "b": "ASDA y TODA",
+      "c": "LDA y TORA",
+      "d": "TODA y LDA"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las fases de activación SAR en orden creciente son:",
+    "respuestas": {
+      "a": "INCERFA, ALERFA, DETRESFA",
+      "b": "ALERFA, DETRESFA, INCERFA",
+      "c": "DETRESFA, INCERFA, ALERFA",
+      "d": "ALERFA, INCERFA, DETRESFA"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las JAR FCL 3 tratan de:",
+    "respuestas": {
+      "a": "Licencias para helicópteros",
+      "b": "Transporte Aéreo Comercial (Helicópteros)",
+      "c": "Licencias para requerimientos médicos sin englobar a los mecánicos de vuelo",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En el caso de que realice un vuelo controlado pero sin código asignado por el ATC:",
+    "respuestas": {
+      "a": "El código que deberé de llevar en mi transponder es 7700",
+      "b": "El código que deberé de llevar en mi transponder es 2000",
+      "c": "El código que deberé de llevar en mi transponder es 7000",
+      "d": "El código que deberé de llevar en mi transponder es 7600"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Entre aeronaves en espacio RVSM, la separación vertical mínima entre FL290 y FL410 será:",
+    "respuestas": {
+      "a": "2000 ft",
+      "b": "1000 m",
+      "c": "1500 ft",
+      "d": "1000 ft"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Respecto al empleo del radar en el servicio de control de tránsito, en cuanto a los mínimos de separación radar, hay que decir que:",
+    "respuestas": {
+      "a": "Como norma general 5 NM aunque puede disminuirse",
+      "b": "Siempre es 5 NM la distancia mínima",
+      "c": "Como norma general 5 NM aunque puede incrementarse",
+      "d": "Siempre es 10 NM la distancia mínima"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Dónde se colocará el señalero para dirigir una aeronave de ala fija?",
+    "respuestas": {
+      "a": "Justo en el morro del avión en sentido del avión",
+      "b": "Delante del ala izquierda (en sentido del avión) a la vista del piloto",
+      "c": "Delante del ala derecha, a la vista del piloto",
+      "d": "Se pondrá en el lugar en el que esté a la vista de toda la tripulación"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El servicio de Control de Aeródromo:",
+    "respuestas": {
+      "a": "Es proporcionado por un ACC",
+      "b": "Es proporcionado por un APP",
+      "c": "Es proporcionado por una TWR",
+      "d": "Es proporcionado por un FIC"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale lo que me está indicando este individuo si voy en mi avión:",
+    "respuestas": {
+      "a": "Gira a la izquierda",
+      "b": "Gira a la derecha",
+      "c": "Arranque el motor derecho",
+      "d": "Arranque el motor izquierdo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una aeronave que se declare en emergencia tendrá prioridad:",
+    "respuestas": {
+      "a": "Siempre que sea aeronave de estado",
+      "b": "Solo cuando exista riesgo evidente para la aeronave o sus pasajeros",
+      "c": "Sobre todas las aeronaves excepto las que tengan prevista salida inmediata o hayan iniciado aproximación",
+      "d": "Sobre todas las aeronaves"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Si pretendo aterrizar en un campo sin designador OACI, utilizaré en el plan de vuelos:",
+    "respuestas": {
+      "a": "ZZZZ en la casilla 13 (aeródromo de salida) y DEP/ seguido del nombre del destino en casilla 18 (otros datos)",
+      "b": "ZZZZ en la casilla 13 (aeródromo de llegada) y DEST/ seguido del nombre del destino en casilla 18 (otros datos)",
+      "c": "El nombre del destino en la casilla de observaciones precedido de RMK/",
+      "d": "No es necesario cumplimentar el plan de vuelos, puede cumplimentarse durante el vuelo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el espacio aéreo de clase A ¿a quién se da separación?",
+    "respuestas": {
+      "a": "IFR-IFR",
+      "b": "VFR-VFR",
+      "c": "VFR-IFR",
+      "d": "VFR-VFRN"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Referente a la previsión de colisiones. Si dos aeronaves se aproximan de frente una a la otra… Señale la respuesta correcta:",
+    "respuestas": {
+      "a": "Ambas aeronaves realizarán un viraje a la derecha",
+      "b": "Una continuará su rumbo y la otra virará a la derecha",
+      "c": "Una ascenderá y la otra descenderá",
+      "d": "Una se mantendrá fuera de la trayectoria de la otra al menos con una diferencia de 70°"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El Servicio de Control de Tráfico Aéreo está formado por distintos espacios y unidades de control. Los espacios y sus correspondientes unidades de control, de menor a mayor amplitud, son los siguientes:",
+    "respuestas": {
+      "a": "ATZ (TWR), CTR (ACC) y TMA (APP)",
+      "b": "CTR (TWR), ATZ (APP) y TMA (ACC)",
+      "c": "ATZ (TWR), CTR (APP) y TMA (ACC)",
+      "d": "TMA (ACC), CTR (APP) y ATZ (TWR)"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señala la afirmación correcta:",
+    "respuestas": {
+      "a": "El despegue es opcional, el aterrizaje obligatorio",
+      "b": "Es comúnmente aceptado por los pilotos que un avión en vuelo solo tiene demasiado combustible cuando está ardiendo",
+      "c": "Comienzas a volar con dos cestas, una llena de suerte y otra vacía de experiencias; el truco consiste en llenar la de experiencia antes de que se vacíe la de suerte",
+      "d": "Todas son correctas y serán sin duda de gran utilidad a lo largo de mi carrera"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es la máxima distancia de despegue en la pista?",
+    "respuestas": {
+      "a": "TORA",
+      "b": "TODA, incluyendo la zona CLEARWAY",
+      "c": "TODA, excluyendo la zona CLEARWAY",
+      "d": "LDA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Los ACC proporcionan autorizaciones con el propósito de:",
+    "respuestas": {
+      "a": "Proporcionar separación entre los vuelos IFR",
+      "b": "Proporcionar servicio de información de vuelo",
+      "c": "Proporcionar servicio de asesoramiento",
+      "d": "Proporcionar separación entre los vuelos controlados"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En un espacio aéreo de clase C ¿se proporcionará separación entre vuelos VFR?",
+    "respuestas": {
+      "a": "Sí, pero solo si es nocturno",
+      "b": "No, nunca. Solo información",
+      "c": "Sí, siempre",
+      "d": "Sí, pero solo si es diurno"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Condic10nes del aeródromo:",
+    "respuestas": {
+      "a": "En condic10nes VFR precisa un control de aeródromo con certificación",
+      "b": "En condiciones FR no precisa un control de aeródromo con certificación",
+      "c": "La necesidad de control de aeródromo con certificación es independiente de las condiciones VFR, IFR",
+      "d": "Si es IFR recisa de control de aeródromo con certificación"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿cuáles son las condiciones por las que no se despega ni se aterriza en VFR?",
+    "respuestas": {
+      "a": "8 km de visibilidad y 2000 ft de techo",
+      "b": "3 km de visibilidad y 1000 ft de techo",
+      "c": "5 km de visibilidad y 1500 ft de techo",
+      "d": "1 km de visibilidad y 1000 ft de techo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "QNH es:",
+    "respuestas": {
+      "a": "Presión al nivel del aeródromo deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar",
+      "b": "Presión al nivel del mar deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar",
+      "c": "Presión al nivel del mar: 29,92” o 1013 milibares",
+      "d": "Presión estándar al nivel del mar: 29,58” o 1018 milibares"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debemos hacer si estamos ascendiendo y cruzamos la altitud de transición?",
+    "respuestas": {
+      "a": "Calar el QNE",
+      "b": "Poner el QNH a 1013 hPa",
+      "c": "Establecer el QFE en el altímetro",
+      "d": "a y b son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué información se proporciona a las aeronaves antes del rodaje?",
+    "respuestas": {
+      "a": "Pista, dirección y velocidad del viento, visibilidad(si inferior a 10km) y hora exacta",
+      "b": "Pista, dirección y velocidad del viento, visibilidad(si inferior a 10km), hora exacta, temperatura en pista(avos. con turbina) y QNH",
+      "c": "Pista, dirección y velocidad del viento, visibilidad(si inferior a 10km), hora exacta y QNH",
+      "d": "Pista, dirección y velocidad del viento, temperatura en pista(avos. con turbina) y QNH"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debemos hacer siempre al pasar por la altitud de transición?",
+    "respuestas": {
+      "a": "En ascenso seleccionar el QNH",
+      "b": "En descenso seleccionar el QNE",
+      "c": "En ascenso seleccionar el QNE",
+      "d": "En descenso seleccionar el QFE"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la respuesta falsa sobre el Reglamento de la Circulación Aérea Operativa (RCAO):",
+    "respuestas": {
+      "a": "El RCAO se aplica únicamente a las aeronaves militares",
+      "b": "El RCAO se aplica a aeronaves militares españolas y extranjeras en espacio aéreo español",
+      "c": "El RCAO se aplica a aeronaves militares españolas en el extranjero cuando no se oponga a la normativa vigente en dicho país",
+      "d": "El RCAO no es compatible con el RCA"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Refiriéndonos a la reglamentación del aire... Una aeronave que va sobrevolando espacio aéreo extranjero deberá obedecer:",
+    "respuestas": {
+      "a": "Únicamente el reglamento del Estado de la aeronave",
+      "b": "Reglamento del país que sobrevuela",
+      "c": "El anexo 2 de las Reglas OACI",
+      "d": "Las normas del país que sobrevuela con prioridad sobre las del Estado de la aeronave"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Determine cuál de los siguientes es un objetivo de la OACI:",
+    "respuestas": {
+      "a": "Lograr el desarrollo seguro y ordenado de la aviación civil internacional en todo el mundo",
+      "b": "Estimular el desarrollo de aerovías, aeropuertos e instalaciones y servicios de navegación aérea para la aviación civil internacional",
+      "c": "Promover la seguridad de vuelo en la navegación aérea internacional",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué año y cuántos países se reunieron en la Convención de Chicago, fuente del Derecho Aéreo?",
+    "respuestas": {
+      "a": "1944 y 16",
+      "b": "1992 y 16",
+      "c": "1992 y 52",
+      "d": "1944 y 52"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En espacio aéreo tipo \"A\", ¿se separan los UFR y los IFR?",
+    "respuestas": {
+      "a": "Depende de la Autoridad",
+      "b": "Sí, pero solo si es nocturno",
+      "c": "No, no se puede volar en VFR en un espacio Clase A",
+      "d": "Sí, siempre"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué tipo de espacio o espacios aéreos se ofrece el servicio de separación entre VFR?",
+    "respuestas": {
+      "a": "A, C, D",
+      "b": "B, D",
+      "c": "A",
+      "d": "B"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué tipo de vuelo no necesita presentar plan de vuelos?",
+    "respuestas": {
+      "a": "Cualquier IFR",
+      "b": "Cualquier VFR",
+      "c": "Todas correctas",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Indique qué cambios de un plan de vuelos deberán ser notificados:",
+    "respuestas": {
+      "a": "Todos los cambios que se realicen en un vuelo IFR o en un vuelo VFR controlado",
+      "b": "Todos los cambios importantes que se realicen en el resto de los vuelos VFR",
+      "c": "Todas las anteriores",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Si un aérodromo solo usa VFR, ¿deberá tener servicio de control de aeródromo?",
+    "respuestas": {
+      "a": "Sí",
+      "b": "No",
+      "c": "Solo si el aeródromo presenta difícil acceso",
+      "d": "Solo si se presentan IMC"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En VMC ¿de quién es responsabilidad evitar una colisión?",
+    "respuestas": {
+      "a": "Siempre del servicio de control de transito aéreo",
+      "b": "Siempre del comandante de la aeronave",
+      "c": "Del control de área si se utiliza radar secundario SSR",
+      "d": "Depende de si se utilizan reglas FR o IFR"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Si las luces del PAPI están todas blancas significa que:",
+    "respuestas": {
+      "a": "Vas muy a la derecha para tomar",
+      "b": "Vas muy alto para tomar",
+      "c": "Vas muy a la izquierda para tomar",
+      "d": "Vas muy bajo para tomar"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Respecto a la estela turbulenta, en aeronaves que llegan en aproximaciones cronometradas, la separación entre ellas ha de ser:",
+    "respuestas": {
+      "a": "Aeronave Media detrás de una Pesada son 3 minutos",
+      "b": "Aeronave Ligera detrás de una Pesada son 3 minutos pero detrás de una Media son siempre 2 minutos",
+      "c": "Aeronave Pesada detrás de una Pesada es 1 minuto",
+      "d": "Aeronave Media detrás de una Pesada son 2 minutos"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la falsa. Según el Convenio de Chicago, los principios contenidos son (entre otros):",
+    "respuestas": {
+      "a": "Buena fe",
+      "b": "No discriminación y soberanía",
+      "c": "Independencia",
+      "d": "Igualdad de los estados"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la afirmación correcta: El espacio aéreo F es controlado; El espacio aéreo G es no controlado; El espacio aéreo A es no controlado; Ninguna de las anteriores es correcta.",
+    "respuestas": {
+      "a": "El espacio aéreo F es controlado",
+      "b": "El espacio aéreo G es no controlado",
+      "c": "El espacio aéreo A es no controlado",
+      "d": "Ninguna de las anteriores es correcta"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Respecto al servicio de información: El ATIS se usa para reducir la carga de las comunicaciones. El V-ATIS se transmite por UHF.; Nos da información de peligro de colisión solo en el espacio aéreo tipo C, D, E, F y G.; El VOLMET nos da únicamente información de estado del aeródromo.; Todas las anteriores son verdaderas.",
+    "respuestas": {
+      "a": "El ATIS se usa para reducir la carga de las comunicaciones. El V-ATIS se transmite por UHF",
+      "b": "Nos da información de peligro de colisión solo en el espacio aéreo tipo C, D, E, F y G",
+      "c": "El VOLMET nos da únicamente información de estado del aeródromo",
+      "d": "Todas las anteriores son verdaderas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los códigos SSR 7700, 7600 y 7500 se reservarán para:",
+    "respuestas": {
+      "a": "Situación de emergencia, interferencia ilícita y fallo de comunicación, respectivamente",
+      "b": "Interferencia ilícita, fallo de comunicación y situación de emergencia, respectivamente",
+      "c": "Situación de emergencia, fallo de comunicación e interferencia ilícita, respectivamente",
+      "d": null
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿El controlador radar puede pedir a la aeronave un ajuste de la velocidad?",
+    "respuestas": {
+      "a": "Sí, siempre que la aeronave no haya superado los 4 NM del umbral en la aproximación final",
+      "b": "No",
+      "c": "Sí, pero solo si es por una emergencia o causa muy grave",
+      "d": "Sí, en cualquier momento si la situación lo requiere"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué tipo de reglas de vuelo se puede utilizar en IMC?",
+    "respuestas": {
+      "a": "Solo VFR",
+      "b": "Solo IFR e IMC en SVFR",
+      "c": "IFR o VFR para aeronaves de estado",
+      "d": "Solo IFR"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta con respecto a los requisitos generales de la Subparte-A del Part-FCL:",
+    "respuestas": {
+      "a": "La edad mínima para volar SOLO como Student Pilot es de 14 años para el caso de dirigibles y globos",
+      "b": "La edad máxima para actuar como piloto en vuelo comercial, en cualquier circunstancia, es de 60 años",
+      "c": "Las respuestas a y b son ambas falsas",
+      "d": "Las respuestas a y b son ambas correctas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Para la obtención de la licencia CPL, la edad y requerimientos médicos mínimos son:",
+    "respuestas": {
+      "a": "21 años y únicamente Clase 1",
+      "b": "17 años y cualquiera entre Clase 1 o Clase 2",
+      "c": "18 años y únicamente Clase 1",
+      "d": "18 años y cualquiera entre Clase 1 o Clase 2"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta: B) C) y D) son correctas; Se activará la fase INCERFA si no se recibe comunicación...; Se activará la fase ALERFA si una aeronave es autorizada...; Se activará la fase DETRESFA cuando se considere el combustible agotado...",
+    "respuestas": {
+      "a": "B) C) y D) son correctas",
+      "b": "Se activará la fase INCERFA si no se recibe comunicación...",
+      "c": "Se activará la fase ALERFA si una aeronave es autorizada...",
+      "d": "Se activará la fase DETRESFA cuando se considere el combustible agotado..."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En caso de emergencia y fallo de comunicación:",
+    "respuestas": {
+      "a": "Toda aeronave en emergencia tendrá prioridad solo si tiene ATPL",
+      "b": "Tendrá prioridad si está en su país de registro",
+      "c": "Tendrá prioridad si fue notificada 25 minutos antes",
+      "d": "Toda aeronave en emergencia tendrá prioridad"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Una aeronave volando en IMC deberá cumplir el siguiente reglamento:",
+    "respuestas": {
+      "a": "Reglas Generales, reglas VFR y reglas IFR",
+      "b": "Reglas Generales y reglas IFR",
+      "c": "Reglas Generales, reglas VMC e IMC",
+      "d": "Reglas Generales y reglas VFR"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "De las siguientes afirmaciones... Señale la incorrecta:",
+    "respuestas": {
+      "a": "Pilot in Command (PIC) es el responsable de pilotar la aeronave",
+      "b": "El comandante de la aeronave (Commander) es el responsable del vuelo",
+      "c": "El PIC nunca podrá ser Commander al mismo tiempo",
+      "d": "El PIC podrá incumplir el reglamento del aire solo en caso de emergencia y/o por seguridad"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale el orden de prioridad de los siguientes cuerpos aéreos:",
+    "respuestas": {
+      "a": "Avión propulsado, planeador, dirigible, globo aerostático",
+      "b": "Globo aerostático, planeador, dirigible, avión propulsado",
+      "c": "Globo aerostático, dirigible, planeador, avión propulsado",
+      "d": "Planeador, dirigible, avión propulsado, globo aerostático"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién de los siguientes está obligado a presentar un plan de vuelo?:",
+    "respuestas": {
+      "a": "Cualquier vuelo que requiera servicio ATC y cualquier VFR a través de fronteras internacionales",
+      "b": "Cualquier IFR y cualquier vuelo en áreas designadas, dependencias militares y ATS de otros estados",
+      "c": "Cualquier vuelo que necesite servicio de información, alerta y SAR",
+      "d": "Todas las anteriores son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Quiénes de los siguientes están exentos de presentar el plan de vuelos?:",
+    "respuestas": {
+      "a": "Vuelos militares y vuelos SAR y vuelos expresamente autorizados por la autoridad competente",
+      "b": "Vuelos militares en misiones tácticas o de defensa aérea y vuelos expresamente autorizados por la autoridad competente",
+      "c": "Vuelos de búsqueda y salvamento en misiones de urgencia",
+      "d": "B y C son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué se considerará un cambio importante en lo referente al plan de vuelos?",
+    "respuestas": {
+      "a": "Los que se refieren a la autonomía o al número total de personas a bordo",
+      "b": "Los que se refieren a la autonomía y los que se refieren al número total de personas si varía más de un 50%",
+      "c": "Los que se refieren al número total de personas a bordo si varía menos de un 50%",
+      "d": "Los que se refieren a la autonomía y los que se refieren al número total de personas si varía más de un 25%"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuáles son las tres fases que utiliza el SAR para clasificar el estado de una emergencia?",
+    "respuestas": {
+      "a": "Localfa, alerfa, detresfa",
+      "b": "Incerfa, alerfa, retresfa",
+      "c": "Incertidumbre, alerta, rescate",
+      "d": "Incerfa, alerfa, detresfa"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué distancia deben tener las nubes en un espacio aéreo C?",
+    "respuestas": {
+      "a": "Libre de nubes",
+      "b": "Libre de nubes y a la vista de la superficie",
+      "c": "1500 m horizontalmente y 300 m verticalmente",
+      "d": "1500 m verticalmente y 300 m horizontalmente"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la letra que se utiliza para pasar de IFR a VFR?",
+    "respuestas": {
+      "a": "Y",
+      "b": "I",
+      "c": "V",
+      "d": "P"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es el mínimo de visibilidad para los helicópteros?",
+    "respuestas": {
+      "a": "Inferior a 1500 m si la velocidad de maniobra permite observar el tráfico",
+      "b": "Inferior a 1250 m si las condiciones meteorológicas no son muy adversas",
+      "c": "Inferior a 1700 m si es autorizado por la torre",
+      "d": "No inferior a 1500 m"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Para que el controlador interprete “enterado”, el piloto deberá de hacer:",
+    "respuestas": {
+      "a": "Alabea y picar ligeramente para asegurarse de que el controlador se cerciore",
+      "b": "Alabea y aumentar bruscamente la potencia",
+      "c": "Tanto la “a” como la “b” son correctas",
+      "d": "Alabea y encender dos veces las luces si es de noche"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Para decir alto, el señalero:",
+    "respuestas": {
+      "a": "Saltará para llamar la atención y que el piloto pare lo antes posible",
+      "b": "Moverá la mano izquierda rápidamente",
+      "c": "Moverá la mano derecha rápidamente",
+      "d": "Irá juntando las manos hasta cruzarlas y así pararemos"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En cuanto al servicio radar, el botón Ident. sirve para:",
+    "respuestas": {
+      "a": "Mostrar el código SSR asignado a la aeronave",
+      "b": "Llamar la atención de ATC",
+      "c": "Introducir un nuevo código SSR",
+      "d": "Iniciar transpondedor SSR"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Flight Level es:",
+    "respuestas": {
+      "a": "Posición vertical que mantiene una altura constante",
+      "b": "Posición vertical que mantiene una elevación constante",
+      "c": "Posición vertical que mantiene una presión constante",
+      "d": "Posición vertical que mantiene una altitud constante"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué distancia de maniobrabilidad en pista es mayor?",
+    "respuestas": {
+      "a": "TORA",
+      "b": "LDA",
+      "c": "ASDA",
+      "d": "TODA"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Si las luces del PAPI están todas rojas significa que:",
+    "respuestas": {
+      "a": "Vas muy a la derecha para tomar",
+      "b": "Vas muy alto para tomar",
+      "c": "Vas muy a la izquierda para tomar",
+      "d": "Vas muy bajo para tomar"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué marcas de pista nos encontraremos en el umbral de la misma?",
+    "respuestas": {
+      "a": "3 dígitos que indican el rumbo de la pista y el ARC",
+      "b": "2 dígitos de indicación de rumbo y el ARC",
+      "c": "Una flecha que nos indica el sentido de la toma",
+      "d": "2 dígitos que nos dan el rumbo de la pista y una L, R o C, dependiendo de la situación"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Seleccione los FIR españoles:",
+    "respuestas": {
+      "a": "Canarias, Madrid y Baleares",
+      "b": "Madrid, Canarias, Barcelona y Baleares",
+      "c": "Madrid, Canarias, Barcelona y parte de Casablanca",
+      "d": "Barcelona, Madrid y Canarias"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿De qué color son las líneas que delimitan el taxi de un aeródromo?",
+    "respuestas": {
+      "a": "Amarillas",
+      "b": "Azules",
+      "c": "Rojas",
+      "d": "Blancas"
+    },
+    "correcta": "a"
+  }
+]
