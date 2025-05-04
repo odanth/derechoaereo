@@ -1,0 +1,302 @@
+[
+  {
+    "pregunta": "¿Cuál es el medio/informe por el cual la célula de operaciones puede dar una información urgente a la célula de planeamiento respecto al ATO en curso, saltándose de esta manera a la célula de estrategia en el ciclo del ATO?",
+    "respuestas": {
+      "a": "AOD - Air Operation Directiva",
+      "b": "ACO - Air Coordination Order",
+      "c": "Ninguna de las anteriores",
+      "d": "ATOA - Air Tactical Operational Assessment"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Si estamos hablando de una plataforma MPA, estamos hablando de:",
+    "respuestas": {
+      "a": "Una plataforma de misiles",
+      "b": "Ninguna de las anteriores",
+      "c": "Múltiples plataformas avanzadas",
+      "d": "Un avión de patrulla marítima"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "SACEUR es el jefe supremo del mando europeo de la OTAN y su Cuartel General se encuentra localizado en Bélgica",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El principal elemento del Tactical Air Control Party es:",
+    "respuestas": {
+      "a": "Joint Terminal Attack Controller",
+      "b": "Ninguna de las anteriores",
+      "c": "Joint Terminal Attack Coordinator",
+      "d": "Joint Terminal Attack Chief"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Dentro de las Actividades Ofensivas, las misiones de ataque se clasifican según el AJP‑3.3 en:",
+    "respuestas": {
+      "a": "Ataques estratégicos, Ataques tácticos y Ataques de oportunidad",
+      "b": "Ataques estratégicos, Contra superficie y Actividades de la Información",
+      "c": "Ataques estratégicos, Ataques Contra superficie y Ataques de oportunidad",
+      "d": "Ataques terrestres, Ataques marítimos, Ataques aéreos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En la División de Planes, en la secuencia de planeamiento, lo último que se planifica es el Reabastecimiento en Vuelo (AAR)",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los vuelos de transporte logístico que se realizan dentro de la zona de operaciones se llaman Inter‑teatro",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un objetivo, que para poder atacarlo hay que aprovechar una ventana de tiempo limitada se llama:",
+    "respuestas": {
+      "a": "TBT - Time Battle Target",
+      "b": "CoG - Center of Gravity",
+      "c": "TVT - Time Vulnerable Target",
+      "d": "TST - Time Sensitive Target"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las misiones de ataque aéreo en apoyo de operaciones marítimas se desarrollan siempre en las zonas donde se encuentran los medios navales propios.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué equipo es el responsable de producir el ATO?",
+    "respuestas": {
+      "a": "Current Ops",
+      "b": "GAT",
+      "c": "Strategy Division",
+      "d": "MAOP"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale cuál de las siguientes Divisiones no participa en el ciclo del ATO:",
+    "respuestas": {
+      "a": "Current Plans Division",
+      "b": "Current Operations Division",
+      "c": "Strategy Division",
+      "d": "Airlift Coordination Division"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "La persona responsable de hacer un seguimiento del ATO durante todo su planeamiento y ejecución es el ATO Supervisor.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La evacuación que se realizó en Kabul en 2021 mediante los A400M del Ala 31, fue una operación:",
+    "respuestas": {
+      "a": "Personal Recovery",
+      "b": "MEDEVAC",
+      "c": "NEO",
+      "d": "Air Support"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El CAOC Torrejón es una Unidad multinacional que pertenece al Ejército del Aire.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Cuál de las siguientes opciones son formas de planeamiento de operaciones aéreas defensivas.",
+    "respuestas": {
+      "a": "Ninguna de las anteriores",
+      "b": "COMAO",
+      "c": "SEAD y AI",
+      "d": "CAP y GALT"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las restricciones que ponen los países para el uso de sus medios se llaman",
+    "respuestas": {
+      "a": "Operational Limitations",
+      "b": "ROE's",
+      "c": "Assessments",
+      "d": "Caveats"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El JFAC Commander tiene un grupo de asesores entre el que se encuentra el LEGAD. Una de sus funciones es:",
+    "respuestas": {
+      "a": "Verificar que las operaciones planificadas cumplen con las ROE's",
+      "b": "Valorar las consecuencias políticas de un ataque",
+      "c": "Comprobar la habilitación OTAN del personal del JFAC",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En la OTAN existen varios Mandos Componentes. El número total de estos es:",
+    "respuestas": {
+      "a": "2",
+      "b": "4",
+      "c": "5",
+      "d": "3"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El objetivo principal de las misiones ASW es la destrucción de todo buque enemigo.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las siglas GAT significan Guidance, Apportionment and Tracking.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Por norma general, el ATO (Air Tasking Order) tiene una duración de:",
+    "respuestas": {
+      "a": "18 horas",
+      "b": "6 horas",
+      "c": "24 horas",
+      "d": "48 horas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El documento en el que se encuentra el listado de los objetivos propios a defender se llama:",
+    "respuestas": {
+      "a": "JPDAL",
+      "b": "JPTL",
+      "c": "ATOA",
+      "d": "PTL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El Master Air Operations Plan es presentado durante el AOM (Air Operation Meeting) al JFAC Commander para su aprobación.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El documento en el que se expone la ubicación en la que han sido desplegados los medios aéreos se llama ... y se encuentra incluido en ...",
+    "respuestas": {
+      "a": "RESALLOC, Joint Coordination Order",
+      "b": "RESALLOC, Air Operation Guidance",
+      "c": "APPORTIONMENT, Air Operation Guidance",
+      "d": "APPORTIONMENT, Joint Coordination Order"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A día de hoy existen 3 CAOC (Combined Air Operations Center) en la OTAN. Señale la respuesta correcta:",
+    "respuestas": {
+      "a": "Ninguna de las anteriores",
+      "b": "CAOC Torrejón, CAOC Izmir y el CAOC desplegable en Poggio Renatico",
+      "c": "CAOC Torrejón, CAOC Uedem y el CAOC desplegable en Poggio Renatico",
+      "d": "CAOC Uedem, CAOC Izmir y el CAOC desplegable de Torrejón"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La División de Planeamiento está formada por:",
+    "respuestas": {
+      "a": "ATO y ACO",
+      "b": "GAT y MAOP",
+      "c": "Ninguna de las anteriores",
+      "d": "AOD y AOM"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el ATO Assessment, la métrica usada para medir los efectos producidos en un objetivo es la Measure of Effectiveness (MOE).",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas JFAC?",
+    "respuestas": {
+      "a": "Joint Force Air Component",
+      "b": "Joint Force Air Command",
+      "c": "Ninguna de las anteriores",
+      "d": "Joint Force Aerial Command"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El informe por el cual se evalúa la efectividad de un ataque a un objetivo es el:",
+    "respuestas": {
+      "a": "SBAO - Surface Based Attack Damage",
+      "b": "COE - Collateral Damage Estimation",
+      "c": "EOE - Enemy Damage Estimation",
+      "d": "BOA - Battle Damage Assessment"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Los medios que se tienen disponibles para planear y el rol que tienen que cumplir se presentan en el GAT to MAOP briefing.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "a"
+  }
+]
