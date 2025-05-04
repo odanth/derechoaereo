@@ -30,7 +30,7 @@
     "correcta": "a"
   },
   {
-    "pregunta": "Según la IG 10‑19, las UCO que albergan unidades de combate esenciales se clasifican como de …",
+    "pregunta": "Según la IG 10-19, las UCO que albergan unidades de combate esenciales se clasifican como de …",
     "respuestas": {
       "a": "Alta seguridad",
       "b": "Seguridad reforzada",
@@ -40,7 +40,7 @@
     "correcta": "a"
   },
   {
-    "pregunta": "La IG 40‑03 sobre el Plan de Seguridad y Defensa de bases aéreas tiene el carácter …",
+    "pregunta": "La IG 40-03 sobre el Plan de Seguridad y Defensa de bases aéreas tiene el carácter …",
     "respuestas": {
       "a": "Confidencial",
       "b": "Reservado",
@@ -60,11 +60,11 @@
     "correcta": "a"
   },
   {
-    "pregunta": "¿Qué plan es más amplio y garantiza niveles adecuados de seguridad según el RD 393/2007?",
+    "pregunta": "¿Qué plan es más amplio y garantiza niveles adecuados de seguridad según el RD 393/2007?",
     "respuestas": {
       "a": "El Plan de Autoprotección",
       "b": "El Plan de Seguridad",
-      "c": "El Sub‑plan de Rutina",
+      "c": "El Sub-plan de Rutina",
       "d": "El Manual de Mando y Control"
     },
     "correcta": "a"
@@ -72,9 +72,9 @@
   {
     "pregunta": "La Doctrina de Protección de la Fuerza del Ejército del Aire se recoge en la …",
     "respuestas": {
-      "a": "IG 00‑3",
-      "b": "IG 10‑19",
-      "c": "IG 40‑03",
+      "a": "IG 00-3",
+      "b": "IG 10-19",
+      "c": "IG 40-03",
       "d": "Instrucción 96/2011"
     },
     "correcta": "a"
@@ -165,7 +165,7 @@
       "a": "Instrucción 96/2011 (COSDEF)",
       "b": "Orden Ministerial 13/2012",
       "c": "Real Decreto 194/2010",
-      "d": "IG 40‑03"
+      "d": "IG 40-03"
     },
     "correcta": "a"
   },
@@ -221,7 +221,7 @@
   },
   {
     "pregunta": "Entre las medidas básicas de autoprotección en la residencia se encuentra …",
-    "respuestas": {
+    "respuestas": {  
       "a": "No franquear la puerta a desconocidos",
       "b": "Comentar ausencias en redes sociales",
       "c": "Colocar pegatinas militares visibles",
@@ -272,7 +272,7 @@
   {
     "pregunta": "Según el temario de traslados a pie, el momento más crítico para detectar un secuestro es …",
     "respuestas": {
-      "a": "Los primeros 100 metros tras salir de casa",
+      "a": "Los primeros 100 metros tras salir de casa",
       "b": "Al llegar al destino",
       "c": "Durante la noche",
       "d": "Después de comer"
@@ -284,7 +284,7 @@
     "respuestas": {
       "a": "Equilibrio personal",
       "b": "Capacidad de camuflaje",
-      "c": "Altura superior a 1,90 m",
+      "c": "Altura superior a 1,90 m",
       "d": "Experiencia en derecho"
     },
     "correcta": "a"
@@ -345,7 +345,7 @@
       "a": "Ligeramente retrasado",
       "b": "Delante del VIP",
       "c": "A la derecha en paralelo",
-      "d": "A distancia de 10 m"
+      "d": "A distancia de 10 m"
     },
     "correcta": "a"
   },
@@ -390,7 +390,7 @@
     "correcta": "a"
   },
   {
-    "pregunta": "Las áreas que componen la Protección de la Fuerza según la IG 00‑3 son …",
+    "pregunta": "Las áreas que componen la Protección de la Fuerza según la IG 00-3 son …",
     "respuestas": {
       "a": "Defensa activa, defensa pasiva, recuperación y área de seguridad",
       "b": "Prevención, evacuación y análisis",
