@@ -1,0 +1,352 @@
+[
+  {
+    "pregunta": "¿Cuál es el objetivo principal del Air Tasking Cycle (ATC)?",
+    "respuestas": {
+      "a": "Producir la Airspace Control Order",
+      "b": "Transformar objetivos estratégicos en misiones aéreas concretas",
+      "c": "Coordinar la ayuda humanitaria",
+      "d": "Evaluar los daños de batalla"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuántas fases doctrinales componen el Air Tasking Cycle?",
+    "respuestas": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué fase del ATC se elabora la Air Operations Directive (AOD)?",
+    "respuestas": {
+      "a": "Fase 1",
+      "b": "Fase 3",
+      "c": "Fase 4",
+      "d": "Fase 5"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué documento sirve de puente entre la AOD y la ATO?",
+    "respuestas": {
+      "a": "ACP",
+      "b": "MAOP",
+      "c": "ACM",
+      "d": "SPINS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué división del JFAC es responsable de la elaboración de la ATO?",
+    "respuestas": {
+      "a": "Strategy Division",
+      "b": "ISR Division",
+      "c": "Combat Plans Division",
+      "d": "Combat Operations Division"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El producto que asigna misiones específicas a las aeronaves durante un periodo de 24 h se denomina:",
+    "respuestas": {
+      "a": "ACO",
+      "b": "MAOP",
+      "c": "AOD",
+      "d": "ATO"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una función de la Air Operations Directive?",
+    "respuestas": {
+      "a": "Definir los efectos operacionales",
+      "b": "Establecer restricciones operativas",
+      "c": "Asignar aeronaves a cada misión",
+      "d": "Sincronizar el poder aéreo con la maniobra conjunta"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En la fase GAT del ATC, la “A” de Apportionment hace referencia a:",
+    "respuestas": {
+      "a": "Asignación detallada de plataformas",
+      "b": "Proporción de esfuerzo aéreo por tarea u objetivo",
+      "c": "Autorización política",
+      "d": "Análisis de daños"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué célula dentro de la Combat Plans Division realiza el proceso de “weaponeering & allocation”?",
+    "respuestas": {
+      "a": "Strategy Cell",
+      "b": "Targeting Cell",
+      "c": "MAAP Cell",
+      "d": "ALCC"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En la estructura del JFAC, ¿quién suele ejercer la autoridad de Airspace Control Authority (ACA)?",
+    "respuestas": {
+      "a": "COM JFAC",
+      "b": "Chief of Staff",
+      "c": "JFC",
+      "d": "DCOM JFAC"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es el tamaño aproximado del Core JFAC permanente?",
+    "respuestas": {
+      "a": "40 personas",
+      "b": "120 personas",
+      "c": "350 personas",
+      "d": "1000 personas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cada cuánto se genera normalmente una nueva Air Tasking Order?",
+    "respuestas": {
+      "a": "Cada 6 horas",
+      "b": "Cada 12 horas",
+      "c": "Cada 24 horas",
+      "d": "Semanalmente"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué método de Airspace Control se basa en la identificación y seguimiento electrónico mediante radar y data‑link?",
+    "respuestas": {
+      "a": "Procedural Control",
+      "b": "Positive Control",
+      "c": "Estratégic Control",
+      "d": "Tactical Control"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La Airspace Control Plan (ACP) es desarrollada, en operaciones, por:",
+    "respuestas": {
+      "a": "El JFC",
+      "b": "El JACC en nombre del ACA",
+      "c": "La MAAP Cell",
+      "d": "El COD"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un ejemplo histórico utilizado para ilustrar la importancia del Airspace Control?",
+    "respuestas": {
+      "a": "Barking Creek, 1939",
+      "b": "Operación Husky, 1943",
+      "c": "Iraq No‑Fly Zone, 1994",
+      "d": "Operación Allied Force, 1999"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En el incidente del Iraq No‑Fly Zone (1994), los helicópteros Blackhawk fueron derribados por:",
+    "respuestas": {
+      "a": "F‑14",
+      "b": "F‑15",
+      "c": "F‑16",
+      "d": "A‑10"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento contiene las Airspace Control Means (ACM) activas para un periodo concreto?",
+    "respuestas": {
+      "a": "ACP",
+      "b": "ACO",
+      "c": "AOD",
+      "d": "MAOP"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la misión principal del HQ AIRCOM dentro de la estructura de mando de la OTAN?",
+    "respuestas": {
+      "a": "Dirigir las operaciones terrestres aliadas",
+      "b": "Proporcionar poder aéreo y espacial para la Alianza",
+      "c": "Coordinar apoyo logístico conjunto",
+      "d": "Defender las líneas marítimas de comunicación"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El secretario general de la OTAN desde el 1 de octubre de 2024 es:",
+    "respuestas": {
+      "a": "Jens Stoltenberg",
+      "b": "Mark Rutte",
+      "c": "Ursula von der Leyen",
+      "d": "Anders Fogh Rasmussen"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes países se unió a la OTAN en 2024?",
+    "respuestas": {
+      "a": "Finlandia",
+      "b": "Suecia",
+      "c": "Macedonia del Norte",
+      "d": "Montenegro"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El Military Committee (MC) está compuesto por:",
+    "respuestas": {
+      "a": "Ministros de exteriores de los Estados miembros",
+      "b": "Jefes de defensa de los países miembros",
+      "c": "Comandantes de fuerzas terrestres",
+      "d": "Embajadores permanentes ante la OTAN"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la principal responsabilidad de la Combat Operations Division (COD)?",
+    "respuestas": {
+      "a": "Desarrollar la estrategia aérea",
+      "b": "Ejecutar y ajustar en tiempo real la ATO",
+      "c": "Elaborar la MAOP",
+      "d": "Evaluar los daños de batalla"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En la fase 5 del ATC (“Force Execution”), la gestión de Dynamic Targeting (DT) se realiza principalmente por:",
+    "respuestas": {
+      "a": "Strategy Division",
+      "b": "MAAP Cell",
+      "c": "Combat Operations Division",
+      "d": "JACC"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento doctrinal aliado define las operaciones aéreas conjuntas OTAN?",
+    "respuestas": {
+      "a": "AJP‑3.3(B)",
+      "b": "AJP‑5",
+      "c": "AXP‑101",
+      "d": "STANAG 5516"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo de la Airspace Management dentro del JFAC?",
+    "respuestas": {
+      "a": "Maximizar la potencia de fuego",
+      "b": "Asegurar el uso seguro y eficiente del espacio aéreo",
+      "c": "Reducir el consumo de combustible",
+      "d": "Definir ROE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el esquema de maniobra aérea, los objetivos y áreas que deben ser defendidas se identifican en:",
+    "respuestas": {
+      "a": "Fase 1 del ATC",
+      "b": "Fase 2 del ATC",
+      "c": "Fase 3 del ATC",
+      "d": "Fase 6 del ATC"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas JACC?",
+    "respuestas": {
+      "a": "Joint Air Command Centre",
+      "b": "Joint Airspace Coordination Centre",
+      "c": "Joint Allied Control Cell",
+      "d": "Joint Assessment and Coordination Committee"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La asignación fina de aeronaves a cada misión (número, tipo, callsign, TOT, armamento) se refleja en:",
+    "respuestas": {
+      "a": "AOD",
+      "b": "ACP",
+      "c": "ATO",
+      "d": "AOM"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué fase del ATC produce el OPS Assessment y el Battle Damage Assessment?",
+    "respuestas": {
+      "a": "Fase 4",
+      "b": "Fase 5",
+      "c": "Fase 6",
+      "d": "Fase 3"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En un JFAC de 24/7 con dos turnos, el personal aproximado es de:",
+    "respuestas": {
+      "a": "40",
+      "b": "160",
+      "c": "350",
+      "d": "1000"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El JFAC suele integrarse bajo la cadena de mando OTAN. La sede permanente que actúa como núcleo para activarlo se denomina:",
+    "respuestas": {
+      "a": "SHAPE",
+      "b": "Core JFAC",
+      "c": "CAOC",
+      "d": "AIRCOM"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad principal del MAOP Team Meeting “Air Operations Meeting (AOM)”?",
+    "respuestas": {
+      "a": "Publicar la ATO",
+      "b": "Revisar y aprobar el MAOP antes de pasar a la ATO",
+      "c": "Validar el BDA",
+      "d": "Coordinar CAS dinámico"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La sigla “ACA” hace referencia a:",
+    "respuestas": {
+      "a": "Airspace Control Authority",
+      "b": "Air Combat Assessment",
+      "c": "Allied Command for Air",
+      "d": "Aerial Coordination Agency"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué tipo de Control del Espacio Aéreo permite a los usuarios libertad dentro de restricciones publicadas y divide el aire por volumen y tiempo?",
+    "respuestas": {
+      "a": "Positive Control",
+      "b": "Procedural Control",
+      "c": "Integrative Control",
+      "d": "Dynamic Control"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El documento que reúne órdenes, instrucciones y procedimientos específicos para asegurar el tránsito seguro de aeronaves durante una crisis se denomina:",
+    "respuestas": {
+      "a": "ACP",
+      "b": "ACO",
+      "c": "SPINS",
+      "d": "AOD"
+    },
+    "correcta": "a"
+  }
+]
