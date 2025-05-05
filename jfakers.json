@@ -1,0 +1,332 @@
+[
+  {
+    "pregunta": "¿Qué es el Airspace Control (ASC)?",
+    "respuestas": {
+      "a": "El conjunto de misiones de combate aéreo.",
+      "b": "El sistema de comunicaciones tácticas.",
+      "c": "El ciclo de planificación de misiones aéreas.",
+      "d": "El proceso para planificar, coordinar y ejecutar el uso seguro y eficiente del espacio aéreo."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Quién es la Airspace Control Authority (ACA)?",
+    "respuestas": {
+      "a": "El jefe de la escuadrilla de policía aérea.",
+      "b": "El Comandante que asume la responsabilidad general del sistema ASC.",
+      "c": "El piloto designado para cada misión.",
+      "d": "El oficial de inteligencia del JFAC."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué función principal realiza el Joint Airspace Coordination Centre (JACC)?",
+    "respuestas": {
+      "a": "Emite la Air Tasking Order (ATO).",
+      "b": "Supervisa las operaciones de combate aéreo.",
+      "c": "Gestiona y coordina las peticiones de control de espacio aéreo y publica el ACP y el ACO.",
+      "d": "Realiza el Battle Damage Assessment (BDA)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué contiene un Airspace Control Plan (ACP)?",
+    "respuestas": {
+      "a": "Sólo las autorizaciones de vuelo para cada aeronave.",
+      "b": "Órdenes específicas, instrucciones, procedimientos y estructuras en tiempo y espacio.",
+      "c": "La lista de pilotos y aeronaves disponibles.",
+      "d": "Los resultados de la evaluación de amenazas enemigas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia fundamental entre Airspace Control Means (ACM) y Airspace Control Order (ACO)?",
+    "respuestas": {
+      "a": "Los ACMs son procedimientos y el ACO es el documento que los implementa.",
+      "b": "Los ACMs son órdenes tácticas y el ACO es un informe de inteligencia.",
+      "c": "Los ACMs sólo reservan espacio y el ACO sólo lo libera.",
+      "d": "No existe diferencia, son sinónimos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Por qué es primordial el Airspace Control (ASC)?",
+    "respuestas": {
+      "a": "Reduce el consumo de combustible.",
+      "b": "Mejora el confort de la tripulación.",
+      "c": "Incrementa la velocidad de los aviones.",
+      "d": "Disminuye los incidentes “blue-on-blue” y optimiza el uso del espacio aéreo."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de estos fue un ejemplo histórico de fallo de ASC en la Segunda Guerra Mundial?",
+    "respuestas": {
+      "a": "La Batalla de Midway.",
+      "b": "La Batalla de Barking Creek, donde Spitfires fueron derribados por error.",
+      "c": "El Bombardeo de Hiroshima.",
+      "d": "La Operación Market Garden."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué método de ASC se basa en la identificación y seguimiento electrónico de aeronaves?",
+    "respuestas": {
+      "a": "Control Procedimental.",
+      "b": "Control Positivo.",
+      "c": "Control Visual.",
+      "d": "Control Manual."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué método de ASC se apoya en órdenes y procedimientos preestablecidos sin seguimiento continuo?",
+    "respuestas": {
+      "a": "Control Visual.",
+      "b": "Control Positivo.",
+      "c": "Control Procedimental.",
+      "d": "Control Dinámico."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la fase 1 del Air Tasking Cycle (ATC)?",
+    "respuestas": {
+      "a": "Force Execution.",
+      "b": "Strategy & Plan Development.",
+      "c": "ATO Development.",
+      "d": "OPS Assessment."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento emite el COM JFAC al comienzo del ciclo de planificación de misiones aéreas?",
+    "respuestas": {
+      "a": "Airspace Control Order (ACO).",
+      "b": "Air Tasking Order (ATO).",
+      "c": "Air Operations Directive (AOD).",
+      "d": "Master Air Operations Plan (MAOP)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué fase del ATC se elabora el Master Air Operations Plan (MAOP)?",
+    "respuestas": {
+      "a": "Phase 1.",
+      "b": "Phase 2.",
+      "c": "Phase 3 “Weaponeering & Allocation”.",
+      "d": "Phase 5."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del Air Tasking Order (ATO)?",
+    "respuestas": {
+      "a": "Definir los objetivos estratégicos.",
+      "b": "Asignar misiones específicas a aeronaves y coordinar el espacio aéreo.",
+      "c": "Publicar el ACP.",
+      "d": "Evaluar daños tras una misión."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué fase del ATC corresponde a la ejecución real de las misiones planificadas?",
+    "respuestas": {
+      "a": "Phase 2.",
+      "b": "Phase 4.",
+      "c": "Phase 5 “Force Execution”.",
+      "d": "Phase 6."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué división del JFAC se encarga de traducir la estrategia en planes y generar el ATO?",
+    "respuestas": {
+      "a": "Combat Support Division.",
+      "b": "Combat Operations Division.",
+      "c": "Combat Plans Division.",
+      "d": "ISR Division."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué división del JFAC supervisa en tiempo real la ejecución del ATO?",
+    "respuestas": {
+      "a": "Strategy Division.",
+      "b": "Combat Operations Division.",
+      "c": "Combat Support Division.",
+      "d": "Air-Land Coordination Cell."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué función realiza la ISR Division en el JFAC?",
+    "respuestas": {
+      "a": "Emite el AOD.",
+      "b": "Proporciona inteligencia, vigilancia y reconocimiento para apoyar operaciones.",
+      "c": "Gestiona el reabastecimiento aéreo.",
+      "d": "Desarrolla la doctrina OTAN."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la Air-Land Coordination Cell (ALCC)?",
+    "respuestas": {
+      "a": "Coordinar CAS y operaciones aéreas con fuerzas terrestres.",
+      "b": "Publicar el ACO.",
+      "c": "Monitorear los efectos meteorológicos.",
+      "d": "Gestionar las alertas nucleares."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué principio de C2 Aéreo garantiza la estandarización de procesos?",
+    "respuestas": {
+      "a": "Idoneidad de Mando.",
+      "b": "Estructura única.",
+      "c": "Estandarización de procesos.",
+      "d": "Interoperabilidad."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Según el temario, ¿qué documento constituye el puente entre la estrategia (AOD) y la ejecución detallada (ATO)?",
+    "respuestas": {
+      "a": "Airspace Control Plan.",
+      "b": "Master Air Operations Plan (MAOP).",
+      "c": "Air Tasking Order (ATO).",
+      "d": "Air Operations Directive (AOD)."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es el Core JFAC en la estructura de la OTAN?",
+    "respuestas": {
+      "a": "Una unidad de combate aéreo permanente en zona de conflicto.",
+      "b": "La célula integrada de apoyo logístico.",
+      "c": "El núcleo preestablecido para activar rápidamente un JFAC.",
+      "d": "El centro de inteligencia estratégica."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué documento de la OTAN se recogen las directrices estratégicas para operaciones aéreas?",
+    "respuestas": {
+      "a": "AJP-3.3.",
+      "b": "NATO AIR C2 CONOPS.",
+      "c": "JFAC Handbook.",
+      "d": "Air Operations Directive (AOD)."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cómo se denomina la fase del ATC en la que se evalúan los resultados y se formulan recomendaciones?",
+    "respuestas": {
+      "a": "Phase 4 “ATO Development”.",
+      "b": "Phase 5 “Force Execution”.",
+      "c": "Phase 6 “OPS Assessment”.",
+      "d": "Phase 1 “Strategy & Plan Development”."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué división del IMS apoya la planificación de operaciones y ejerce la evaluación de amenazas?",
+    "respuestas": {
+      "a": "International Staff (IS).",
+      "b": "Operations and Plans (O&P) del IMS.",
+      "c": "Joint Intelligence and Security Division.",
+      "d": "Cooperative Security."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la organización civil principal de la OTAN donde se reúnen los representantes permanentes?",
+    "respuestas": {
+      "a": "Military Committee (MC).",
+      "b": "International Military Staff (IMS).",
+      "c": "NATO Headquarters en Bruselas.",
+      "d": "Allied Command Operations (ACO)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué artículo del Tratado de Washington establece la defensa colectiva de la OTAN?",
+    "respuestas": {
+      "a": "Artículo 3.",
+      "b": "Artículo 4.",
+      "c": "Artículo 5.",
+      "d": "Artículo 6."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuántos países miembros tiene la OTAN según el temario?",
+    "respuestas": {
+      "a": "30.",
+      "b": "32.",
+      "c": "28.",
+      "d": "26."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál de estos no es un comando operacional de nivel estratégico de la OTAN?",
+    "respuestas": {
+      "a": "Allied Command Operations (ACO).",
+      "b": "Allied Command Transformation (ACT).",
+      "c": "Combined Air Operations Centre (CAOC).",
+      "d": "Joint Force Air Component (JFAC)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué país se convirtió en el miembro más reciente de la OTAN según el temario?",
+    "respuestas": {
+      "a": "Finlandia.",
+      "b": "Suecia.",
+      "c": "Macedonia del Norte.",
+      "d": "Montenegro."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué división del JFAC desarrolla la estrategia aérea y define los objetivos?",
+    "respuestas": {
+      "a": "Combat Plans Division.",
+      "b": "Strategy Division.",
+      "c": "Combat Operations Division.",
+      "d": "Combat Support Division."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la misión principal del CAOC (Combined Air Operations Centre)?",
+    "respuestas": {
+      "a": "Planificar y ejecutar operaciones aéreas combinadas.",
+      "b": "Emitir directivas políticas del Consejo Atlántico.",
+      "c": "Coordinar misiones navales.",
+      "d": "Supervisar programas de entrenamiento terrestre."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué célula del JFAC se encarga del “Battle Damage Assessment” tras misiones aéreas?",
+    "respuestas": {
+      "a": "ALCC.",
+      "b": "ISR Division.",
+      "c": "Combat Support Division.",
+      "d": "Combat Operations Division."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad del Partnership for Peace (PfP) de la OTAN?",
+    "respuestas": {
+      "a": "Garantizar la cobertura de defensa aérea.",
+      "b": "Fomentar la cooperación y estabilidad en el área euroatlántica.",
+      "c": "Planificar operaciones navales conjuntas.",
+      "d": "Ejecutar ejercicios de misiles balísticos."
+    },
+    "correcta": "b"
+  }
+]
