@@ -338,5 +338,193 @@
       "d": "A y B CIERTAS."
     },
     "correcta": "d"
+  },
+    {
+    "pregunta": "La regulación de las zonas e instalaciones de interés para la Defensa Nacional se recoge en la …",
+    "respuestas": {
+      "a": "Ley 8/1975, de 12 de marzo",
+      "b": "Ley 17/2005, de Defensa",
+      "c": "Real Decreto 194/2010",
+      "d": "Orden Ministerial 13/2012"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué disposición aprueba las Normas sobre seguridad en las Fuerzas Armadas?",
+    "respuestas": {
+      "a": "Real Decreto 194/2010, de 26 de febrero",
+      "b": "Real Decreto 393/2007",
+      "c": "Orden DEF/245/2015",
+      "d": "Ley 8/1975"
+    },
+    "correcta": "a"
+  },
+    "pregunta": "Según la IG 10-19, las UCO que albergan unidades de combate esenciales se clasifican como de …",
+    "respuestas": {
+      "a": "Alta seguridad",
+      "b": "Seguridad reforzada",
+      "c": "Seguridad normal",
+      "d": "Apoyo logístico"
+    },
+    "correcta": "a"
+  },
+    "pregunta": "¿Qué plan es más amplio y garantiza niveles adecuados de seguridad según el RD 393/2007?",
+    "respuestas": {
+      "a": "El Plan de Autoprotección",
+      "b": "El Plan de Seguridad",
+      "c": "El Sub-plan de Rutina",
+      "d": "El Manual de Mando y Control"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Un ciberataque se define como …",
+    "respuestas": {
+      "a": "Una acción en el ciberespacio que compromete la confidencialidad, integridad o disponibilidad de la información",
+      "b": "La simple creación de malware",
+      "c": "Un acceso autorizado a una red militar",
+      "d": "Un corte eléctrico accidental"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Un observador oculto tras un quiosco se corresponde con un puesto de observación …",
+    "respuestas": {
+      "a": "Disimulado",
+      "b": "Abierto",
+      "c": "Cerrado",
+      "d": "Ciego"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El lugar público que brinda mayor iniciativa para detectar seguimientos es …",
+    "respuestas": {
+      "a": "Una estación de tren o un aeropuerto",
+      "b": "Un templo",
+      "c": "Un museo",
+      "d": "Una administración de lotería"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La ciberseguridad del Ministerio de Defensa se regula en la …",
+    "respuestas": {
+      "a": "Instrucción 96/2011 (COSDEF)",
+      "b": "Orden Ministerial 13/2012",
+      "c": "Real Decreto 194/2010",
+      "d": "IG 40-03"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Forman parte del elemento activo del Sistema de Seguridad y Defensa del Aire …",
+    "respuestas": {
+      "a": "Las Fuerzas Permanentes de Seguridad y Defensa",
+      "b": "Las áreas prohibidas",
+      "c": "Los medios pasivos",
+      "d": "La zona perimetral"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Dentro de las Medidas Especiales del Plan de Actuación está …",
+    "respuestas": {
+      "a": "Montar un servicio especial de protección a la persona amenazada",
+      "b": "Reducir el número de vigilantes",
+      "c": "Suspender la formación",
+      "d": "Cerrar el acuartelamiento"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El tipo de puesto de observación más difícil de detectar es el …",
+    "respuestas": {
+      "a": "Cerrado",
+      "b": "Abierto",
+      "c": "Disimulado",
+      "d": "Improvisado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El sistema recomendado cuando existe amenaza de francotirador en espacios estrechos es el …",
+    "respuestas": {
+      "a": "Sistema israelí",
+      "b": "Sistema francés",
+      "c": "Sistema alemán",
+      "d": "Sistema británico"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El sistema francés de protección se utiliza principalmente en …",
+    "respuestas": {
+      "a": "Espacios abiertos sin amenaza frontal",
+      "b": "Interiores reducidos",
+      "c": "Vehículos blindados",
+      "d": "Despliegues NBQR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Con tres escoltas a pie, la formación que asegura vigilancia de 360° es …",
+    "respuestas": {
+      "a": "Escolta en punta y dos flancos",
+      "b": "Fila india",
+      "c": "Columna cerrada",
+      "d": "Escolta adelantado únicamente"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Un factor de riesgo con posibilidad de pérdida pero sin opción de beneficio se denomina …",
+    "respuestas": {
+      "a": "Puro",
+      "b": "Dinámico",
+      "c": "Agente",
+      "d": "Paciente"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Una característica esencial de un sistema de seguridad eficaz es …",
+    "respuestas": {
+      "a": "Ser lo más homogéneo posible",
+      "b": "Basarse solo en la reacción",
+      "c": "Mostrar grandes diferencias frente a distintos riesgos",
+      "d": "Ser invisible para el usuario"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las áreas que componen la Protección de la Fuerza según la IG 00-3 son …",
+    "respuestas": {
+      "a": "Defensa activa, defensa pasiva, recuperación y área de seguridad",
+      "b": "Prevención, evacuación y análisis",
+      "c": "Protección dinámica y estática",
+      "d": "Inteligencia, logística y NBQR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Una radiación ionizante se clasifica como amenaza …",
+    "respuestas": {
+      "a": "Tecnológica",
+      "b": "Natural",
+      "c": "Humana",
+      "d": "Operacional"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El método ETESDA es un …",
+    "respuestas": {
+      "a": "Procedimiento de evaluación y tratamiento de riesgos",
+      "b": "Sistema de escolta dinámica con francotirador",
+      "c": "Modelo de despliegue NBQR",
+      "d": "Sistema de tiro defensivo avanzado"
+    },
+    "correcta": "a"
   }
 ]
