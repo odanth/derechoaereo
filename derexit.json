@@ -1,0 +1,862 @@
+[
+  {
+    "pregunta": "¿Cuáles son las clases de espacio aéreo controladas?",
+    "respuestas": {
+      "a": "A, B, C, D, E, F y G.",
+      "b": "A, B, C y D.",
+      "c": "G y F.",
+      "d": "A, B, C, D y E."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es el formato horario empleado en el servicio de tránsito aéreo?",
+    "respuestas": {
+      "a": "MT – 12 horas.",
+      "b": "GMT – 24 horas.",
+      "c": "UTC – 12 horas.",
+      "d": "UTC – 24 horas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Seleccione los FIR españoles.",
+    "respuestas": {
+      "a": "Canarias, Madrid y Baleares.",
+      "b": "Madrid, Canarias, Barcelona y Baleares.",
+      "c": "Madrid, Canarias, Barcelona y parte de Casablanca.",
+      "d": "Barcelona, Madrid y Canarias."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En un espacio aéreo de clase C ¿se proporcionará separación entre vuelos VFR?",
+    "respuestas": {
+      "a": "Sí, pero solo si es nocturno.",
+      "b": "No, nunca. Solo información.",
+      "c": "Sí, siempre.",
+      "d": "Sí, pero solo si es diurno."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En un espacio aéreo de clase A ¿se proporcionará separación entre vuelos VFR e IFR?",
+    "respuestas": {
+      "a": "No, nunca. Solo información.",
+      "b": "Sí, pero solo si es nocturno.",
+      "c": "No, no se puede volar en VFR en un espacio clase A.",
+      "d": "Sí, siempre."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué medios utiliza el Servicio de Información para transmitir los datos?",
+    "respuestas": {
+      "a": "Información directa (ATS-aeronave) con acuse de recibo, llamada general (fallo radio, cambio de pista…) con acuse de recibo, radiodifusión y enlace de datos.",
+      "b": "Información directa (ATS-aeronave) con acuse de recibo, llamada general (fallo radio, cambio de pista…) sin acuse de recibo, señales luminosas y enlace de datos.",
+      "c": "Información directa (ATS-aeronave) con acuse de recibo, llamada general (fallo radio, cambio de pista…) sin acuse de recibo, radiodifusión y enlace de datos.",
+      "d": "Información directa (ATS-aeronave) con acuse de recibo, llamada general (fallo radio, cambio de pista…) sin acuse de recibo, radiodifusión y señales luminosas."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cómo describiría usted el SIGMET?",
+    "respuestas": {
+      "a": "Información relativa a fenómenos meteorológicos en ruta que pueden afectar a la seguridad de las aeronaves.",
+      "b": "Información solicitada al piloto relativa a fenómenos meteorológicos.",
+      "c": "El servicio de información meteorológica europeo.",
+      "d": "El parte meteorológico proporcionado a los aeródromos y aeropuertos europeos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué información adicional es proporcionada por el servicio de información?",
+    "respuestas": {
+      "a": "Previsión meteorológica en aeródromo de destino, origen y alternativos.",
+      "b": "Peligro de colisión en A, B, C, D, E y F.",
+      "c": "A) y B) son ciertas.",
+      "d": "En mar, si requerido, información sobre tormentas y estado del mar."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la responsabilidad de los pilotos respecto al AFIS?",
+    "respuestas": {
+      "a": "En función de la información AFIS recibida y de su criterio, deben decidir las medidas para garantizar separación con otras aeronaves, vehículos y obstáculos.",
+      "b": "A) y D) son correctas.",
+      "c": "Deberán obedecer en todo momento a la información AFIS recibida, comunicando cualquier incidencia o variación en el FP no notificada ASAP.",
+      "d": "Mantendrán comunicación con la dependencia AFIS y notificarán posición, nivel y toda maniobra importante e intenciones."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta:",
+    "respuestas": {
+      "a": "B), C) y D) son correctas.",
+      "b": "Se activará la fase INCERFA si no se recibe comunicación de una aeronave transcurridos 60 min a partir de la hora prevista de notificación, o se intentará sin éxito comunicar con la aeronave.",
+      "c": "Se activará la fase ALERFA si una aeronave es autorizada para aterrizar y no lo hace dentro de los 5 min siguientes a su ATA.",
+      "d": "Se activará la fase DETRESFA cuando se considere el combustible de la aeronave agotado o por sus condiciones anómalas tuviera que realizar un aterrizaje forzoso."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿A partir de qué nivel de vuelo la separación proporcionada por una CTA son 2000 pies en espacio aéreo (RVSM)?",
+    "respuestas": {
+      "a": "FL290.",
+      "b": "FL120.",
+      "c": "FL080.",
+      "d": "FL410."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué vuelos son separados por la CTA en espacios aéreos tipo A y B?",
+    "respuestas": {
+      "a": "Sólo los vuelos VFR.",
+      "b": "Todos los vuelos independientemente de las reglas de vuelo que sigan.",
+      "c": "Los vuelos que comenzaron siendo VFR y pasaron a ser IFR durante el trayecto.",
+      "d": "Sólo los vuelos IFR."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En relación con la separación vertical de aeronaves, el FL más bajo utilizable corresponderá a…",
+    "respuestas": {
+      "a": "El FL asignado por la autoridad competente en cada caso.",
+      "b": "El primer FL a partir del cual calamos el altímetro con el QNH.",
+      "c": "La altitud mínima de vuelo o inmediato superior.",
+      "d": "La altura mínima para superación de obstáculos."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Al cambiar de nivel de vuelo, ¿qué aeronave tendrá prioridad?",
+    "respuestas": {
+      "a": "La que llega al nivel de vuelo.",
+      "b": "La que ya estaba volando en ese nivel.",
+      "c": "La que primero avise al control por radio.",
+      "d": "Indistintamente si el cambio se realiza con certeza visual."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Hablando de separación longitudinal entre aeronaves, ¿cuáles serán las más frecuentes?",
+    "respuestas": {
+      "a": "Separación geográfica.",
+      "b": "Separación geográfica y de derrotas.",
+      "c": "Separación por tiempo y por distancia.",
+      "d": "Separación por tiempo y cambiando por un corto periodo de tiempo de nivel de vuelo para después volver al mismo nivel anterior."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Los métodos de separación que podrá aplicar un ATC a aeronaves son:",
+    "respuestas": {
+      "a": "Separación vertical y lateral.",
+      "b": "Separación únicamente horizontal.",
+      "c": "A petición del piloto.",
+      "d": "Separación vertical, horizontal y compuesta."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué se considera cambio significativo de viento en superficie?",
+    "respuestas": {
+      "a": "10 kt en cara, 2 kt en cola y 5 kt cruzado.",
+      "b": "15 kt en cara, 5 kt en cola y 2 kt cruzado.",
+      "c": "El viento no cambia en superficie.",
+      "d": "Con 1 kt de diferencia se considera significativo."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Una aeronave que siga las normas CAO no podrá acercarse a una aeronave civil a una distancia inferior a:",
+    "respuestas": {
+      "a": "1500 pies lateralmente y 1 NM verticalmente.",
+      "b": "1500 NM lateralmente y 1000 pies verticalmente.",
+      "c": "1,5 NM lateralmente y 1000 pies verticalmente.",
+      "d": "En un radio de 1 NM en todas las direcciones."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Los servicios de tránsito aéreo se proporcionan con el fin de, entre otros:",
+    "respuestas": {
+      "a": "Aplicar la separación entre aeronaves.",
+      "b": "Acelerar y mantener el flujo ordenado del tránsito aéreo.",
+      "c": "Prevención de una colisión entre aeronaves.",
+      "d": "Todas las respuestas son falsas."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La información que proporciona el servicio de control de aeródromo a las aeronaves antes de entrar en tráfico es:",
+    "respuestas": {
+      "a": "Pista, temperatura en pista, visibilidad y hora exacta.",
+      "b": "El QNH, visibilidad y hora exacta.",
+      "c": "Pista en servicio, dirección y velocidad del viento y reglaje de QNH.",
+      "d": "Pista, condiciones meteorológicas significativas, hora exacta y QNH."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En el Servicio de Control de Tráfico Aéreo, el servicio de Control de Área lo puede proporcionar:",
+    "respuestas": {
+      "a": "Un control de Aproximación (APP) en CTA´s sin ACC y el Centro de Control de Área (ACC).",
+      "b": "Un control de Aproximación (APP) en CTA´s sin ACC.",
+      "c": "Normalmente el Centro de Control de Área (ACC).",
+      "d": "Una torre de Control (TWR)."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿En qué tipo de espacio o espacios aéreos se ofrece el servicio de separación entre VFR?",
+    "respuestas": {
+      "a": "A, C, D.",
+      "b": "B y D.",
+      "c": "A.",
+      "d": "B."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Los ACC proporcionan autorizaciones con el propósito de:",
+    "respuestas": {
+      "a": "Proporcionar separación entre los vuelos IFR.",
+      "b": "Proporcionar servicio de información de vuelo.",
+      "c": "Proporcionar servicio de asesoramiento.",
+      "d": "Proporcionar separación entre los vuelos controlados."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué tres tipos de servicio da la ATC?",
+    "respuestas": {
+      "a": "Servicio ATC, servicio información de vuelo, servicio de alerta.",
+      "b": "Servicio control aérea, servicio aproximación, servicio alerta.",
+      "c": "No da ningún tipo de servicio.",
+      "d": "Servicio control de área, servicio control de aproximación, servicio control aeródromo."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En el espacio aéreo de clase A ¿a quién se da separación?",
+    "respuestas": {
+      "a": "VFR-VFR.",
+      "b": "VFR-IFR.",
+      "c": "VFR-VFRN.",
+      "d": "IFR-IFR."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la afirmación incorrecta:",
+    "respuestas": {
+      "a": "Los vehículos cederán el paso a aeronaves aterrizando, despegando o rodando.",
+      "b": "Los vehículos cederán el paso a otros vehículos remolcando aeronaves.",
+      "c": "Los vehículos respetarán procedimientos locales e instrucciones de la torre.",
+      "d": "Los vehículos cederán el paso a aeronaves solo cuando estas se aproximen por la derecha."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En caso de emergencia y fallo de comunicación:",
+    "respuestas": {
+      "a": "Toda aeronave en emergencia tendrá prioridad solo cuando el piloto disponga de la licencia ATPL.",
+      "b": "Toda aeronave en emergencia tendrá prioridad siempre que se encuentre en el país de la nacionalidad de la aeronave.",
+      "c": "Toda aeronave tendrá prioridad si esta ha sido notificada con al menos 25 minutos de antelación.",
+      "d": "Toda aeronave en emergencia tendrá prioridad."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuáles son los métodos de separación entre aeronaves?",
+    "respuestas": {
+      "a": "Separación vertical.",
+      "b": "Separación vertical y horizontal.",
+      "c": "Separación horizontal.",
+      "d": "Separación vertical, horizontal y compuesta."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El servicio de control de área se proporcionará a aeronaves en:",
+    "respuestas": {
+      "a": "El FIR correspondiente.",
+      "b": "Una CTA o TMA.",
+      "c": "Una CTA, aerovía o espacio aéreo superior.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El servicio de control de Aeródromo será proporcionado por:",
+    "respuestas": {
+      "a": "Una torre de Control de Aeródromo (TWR).",
+      "b": "Cualquier aeronave que disponga de capacidad para transmitir esta información.",
+      "c": "A y B son correctas.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Refiriéndonos a la reglamentación del aire… Una aeronave que va sobrevolando espacio aéreo extranjero deberá obedecer:",
+    "respuestas": {
+      "a": "Únicamente el reglamento del Estado de la aeronave.",
+      "b": "Reglamento del país que sobrevuela.",
+      "c": "El anexo 2 de las Reglas OACI.",
+      "d": "Las normas del país que sobrevuela con prioridad sobre las del Estado de la aeronave."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Una aeronave volando en IMC deberá cumplir el siguiente reglamento:",
+    "respuestas": {
+      "a": "Reglas Generales, reglas VFR y reglas IFR.",
+      "b": "Reglas Generales y reglas IFR.",
+      "c": "Reglas Generales, reglas VMC e IMC.",
+      "d": "Reglas Generales y reglas VFR."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "De las siguientes afirmaciones… Señale la incorrecta.",
+    "respuestas": {
+      "a": "Pilot in Command (PIC) es el responsable de pilotar la aeronave.",
+      "b": "El comandante de la aeronave (Commander) es el responsable del vuelo.",
+      "c": "El PIC nunca podrá ser Commander al mismo tiempo.",
+      "d": "El PIC podrá incumplir el reglamento del aire solo en caso de emergencia y/o por seguridad."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Referente a la previsión de colisiones… Si dos aeronaves se aproximan de frente una a la otra… Señale la respuesta correcta.",
+    "respuestas": {
+      "a": "Ambas aeronaves realizarán un viraje a la derecha.",
+      "b": "Una continuará su rumbo y la otra virará a la derecha.",
+      "c": "Una ascenderá y la otra descenderá.",
+      "d": "Una se mantendrá fuera de la trayectoria de la otra al menos con una diferencia de 70º."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale el orden de prioridad de los siguientes cuerpos aéreos.",
+    "respuestas": {
+      "a": "Avión propulsado, planeador, dirigible, globo aerostático.",
+      "b": "Globo aerostático, planeador, dirigible, Avión propulsado.",
+      "c": "Globo aerostático, dirigible, planeador, Avión propulsado.",
+      "d": "Planeador, dirigible, avión propulsado, globo aerostático."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién de los siguientes está obligado a presentar un plan de vuelos?",
+    "respuestas": {
+      "a": "Cualquier vuelo que requiera servicio ATC y cualquier VFR a través de fronteras internacionales.",
+      "b": "Cualquier IFR y cualquier vuelo en áreas designadas, para facilitar coordinación dependencias militares y ATS de otros estados.",
+      "c": "Cualquier vuelo que necesite servicio de información, alerta y SAR.",
+      "d": "Todas las anteriores son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Quiénes de los siguientes están exentos de presentar el plan de vuelos?",
+    "respuestas": {
+      "a": "Vuelos militares y vuelos SAR y vuelos expresamente autorizados por la autoridad competente.",
+      "b": "Vuelos militares en misiones tácticas o de defensa aérea y vuelos expresamente autorizados por la autoridad competente.",
+      "c": "Vuelos de búsqueda y salvamento en misiones de urgencia.",
+      "d": "B y C son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Un plan de vuelos se presentará:",
+    "respuestas": {
+      "a": "60 minutos antes del vuelo y en vuelo 10 minutos antes si se desea cruzar una aerovía o ruta con servicio de asesoramiento.",
+      "b": "60 minutos antes del vuelo si se requiere asesoramiento o servicio de control y en vuelo 10 minutos antes si se desea cruzar una aerovía o ruta con servicio de asesoramiento.",
+      "c": "45 minutos antes del vuelo y en vuelo 15 minutos antes si se desea cruzar una aerovía o ruta con servicio de asesoramiento.",
+      "d": "30 minutos antes del vuelo si se requiere asesoramiento o servicio de control y en vuelo 10 minutos antes si se desea cruzar una aerovía o ruta con servicio de asesoramiento."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se considerará un cambio importante en lo referente al plan de vuelos?",
+    "respuestas": {
+      "a": "Los que se refieren a la autonomía o al número total de personas a bordo.",
+      "b": "Los que se refieren a la autonomía y los que se refieren al número total de personas si varía más de un 50 %.",
+      "c": "Los que se refieren al número total de personas a bordo si varía menos de un 50 %.",
+      "d": "Los que se refieren a la autonomía y los que se refieren al número total de personas si varía más de un 25 %."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Una aeronave deberá informar de su posición…",
+    "respuestas": {
+      "a": "En los puntos de notificación obligatoria.",
+      "b": "En los puntos de notificación obligatoria y otros adicionales si son solicitados.",
+      "c": "Todas son correctas.",
+      "d": "A los 30 minutos de comenzar el vuelo, luego cada hora."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La responsabilidad del servicio de información aeronáutica recae sobre…",
+    "respuestas": {
+      "a": "el Estado.",
+      "b": "el FIR.",
+      "c": "el presidente de gobierno.",
+      "d": "la OTAN."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La función principal de las publicaciones de información aeronáutica es…",
+    "respuestas": {
+      "a": "la normalización de las comodidades y del estado interior de la aeronave que se deben llevar en todo vuelo.",
+      "b": "satisfacer las necesidades internacionales de intercambio de información aeronáutica de carácter permanente y esencial para la navegación.",
+      "c": "la información necesaria para hacer aproximaciones instrumentales en los aeródromos que lo permitan.",
+      "d": "informar de los tipos de zonas de tránsito aéreo y localización dentro de cada país así como los procedimientos convenientes en los que deben ser sobrevolados."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuáles de los siguientes son los tipos básicos de modificaciones al AIP (publicaciones de información aeronáutica)?",
+    "respuestas": {
+      "a": "a corto plazo y a largo plazo.",
+      "b": "las enmiendas y complementos.",
+      "c": "las enmiendas, los complementos y suplementos.",
+      "d": "las enmiendas y suplementos."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuáles de las siguientes modificaciones del AIP (publicaciones de información aeronáutica) divulgan información de carácter temporal de corta duración?",
+    "respuestas": {
+      "a": "suplementos.",
+      "b": "enmiendas.",
+      "c": "NOTAM.",
+      "d": "temporales."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué consiste un SNOWTAM?",
+    "respuestas": {
+      "a": "en transmitir la información relativa a depósitos de agua estancada, hielo o nieve en los pavimentos de un aeródromo.",
+      "b": "en vender ofertas para las estaciones de nieve cercanas a los aeropuertos.",
+      "c": "en transmitir la información relativa al estado de la nieve de la zona.",
+      "d": "en informar sobre la situación meteorológica y la necesidad de usar o no los instrumentos de vuelo."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La Ley 48/1960 sobre Navegación Aérea regula:",
+    "respuestas": {
+      "a": "Soberanía del espacio aéreo y tráfico aéreo.",
+      "b": "Aeronaves y Aeropuertos.",
+      "c": "Todas son correctas.",
+      "d": "Sanciones."
+    },
+    "correcta": "a/c"
+  },
+  {
+    "pregunta": "La Ley 21/2003 de Seguridad Aérea, la cual modifica a la Ley 48/1960 sobre Navegación Aérea regula:",
+    "respuestas": {
+      "a": "Las respuestas b) y c) son correctas.",
+      "b": "Coordinación entre Defensa y Fomento.",
+      "c": "Investigación de accidentes, inspección aeronáutica, seguridad e infracciones.",
+      "d": "Coordinación entre Defensa y Hacienda."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El Reglamento de Circulación Aérea (RCA) consta de:",
+    "respuestas": {
+      "a": "25 libros + 10 apéndices.",
+      "b": "20 libros + 5 apéndices.",
+      "c": "25 libros + 25 apéndices.",
+      "d": "10 libros + 25 apéndices."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El Reglamento de Circulación Aérea Operativa (RCAO) consta de:",
+    "respuestas": {
+      "a": "8 libros + 3 anexos.",
+      "b": "25 libros + 10 anexos.",
+      "c": "13 libros + 8 anexos.",
+      "d": "10 libros + 25 anexos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale la respuesta FALSA respecto al RCAO:",
+    "respuestas": {
+      "a": "El RCAO se aplica únicamente a las aeronaves militares.",
+      "b": "El RCAO se aplica a aeronaves militares españolas y extranjeras en espacio aéreo español.",
+      "c": "El RCAO se aplica a aeronaves militares españolas en el extranjero cuando no se oponga a la normativa vigente en dicho país.",
+      "d": "El RCAO no es compatible con el RCA."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿En qué año tuvo lugar el Convenio de Chicago?",
+    "respuestas": {
+      "a": "1944.",
+      "b": "1936.",
+      "c": "1939.",
+      "d": "1950."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El Convenio de Chicago:",
+    "respuestas": {
+      "a": "Piedra angular del derecho aéreo.",
+      "b": "Fue firmado por 52 países.",
+      "c": "Se trataron únicamente temas de seguridad aérea.",
+      "d": "A y B son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo del SAR?",
+    "respuestas": {
+      "a": "Se encarga de la búsqueda y rescate de personal militar.",
+      "b": "Se encarga de la búsqueda y salvamento de personal siniestrado o en situaciones de emergencia.",
+      "c": "Se encarga de patrullar las costas en busca de algún accidente.",
+      "d": "Se encarga únicamente de localizar y comunicar la posición de la aeronave siniestrada."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Dónde están localizados los centros SAR en territorio español?",
+    "respuestas": {
+      "a": "Canarias, Baleares y Madrid.",
+      "b": "Madrid, Valencia y Barcelona.",
+      "c": "Cádiz, Madrid y Bilbao.",
+      "d": "Canarias, Valladolid y Madrid."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuáles son las tres fases que utiliza el SAR para clasificar el estado de una emergencia?",
+    "respuestas": {
+      "a": "Localfa, alerfa, detresfa.",
+      "b": "Incerfa, alerfa, retresfa.",
+      "c": "Incertidumbre, alerta, rescate.",
+      "d": "Incerfa, alerfa, detresfa."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes señales tierra-aire no es usada por el SAR?",
+    "respuestas": {
+      "a": "No, o negativo. (N)",
+      "b": "Sí, o afirmativo. (Y)",
+      "c": "Necesitamos asistencia. (V)",
+      "d": "Necesitamos agua. (W)"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En la escena de accidente, el piloto al mando debe:",
+    "respuestas": {
+      "a": "Bajar inmediatamente a realizar el rescate.",
+      "b": "Mantener la aeronave siniestrada a la vista y seguir instrucciones del RCC.",
+      "c": "Lanzar rescatadores y seguir instrucciones del RCC.",
+      "d": "Hacer una pasada en vuelo invertido para ver mejor la situación de la aeronave siniestrada."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Si se lanza material se le atará un pañuelo de color indicando su composición:",
+    "respuestas": {
+      "a": "Negro para comida.",
+      "b": "Azul para comida y agua.",
+      "c": "Morado para ropa y abrigo.",
+      "d": "Verde para medicamentos y primeros auxilios."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En la detresfa:",
+    "respuestas": {
+      "a": "Se calculará el área de máxima probabilidad donde puede haber ocurrido el siniestro.",
+      "b": "Se alertará a las unidades de Salvamento Aéreo.",
+      "c": "Se ordenará el movimiento de las unidades SAR.",
+      "d": "Contrastará la información recibida acerca del siniestro."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas \"RCC\"?",
+    "respuestas": {
+      "a": "Centro coordinador de salvamento.",
+      "b": "Región de control combinado.",
+      "c": "Centro coordinador de emergencias.",
+      "d": "Control central de rescate."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Si una aeronave española sobrevuela Tailandia, ¿qué reglas tendrán prioridad?",
+    "respuestas": {
+      "a": "Las de la OACI (Anexo 2).",
+      "b": "Las de Tailandia.",
+      "c": "Las de los países adheridos al Convenio de Chicago.",
+      "d": "Las de España."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la opción incorrecta respecto al piloto al mando de la aeronave:",
+    "respuestas": {
+      "a": "No estará bajo los efectos de alcohol o narcóticos, ni nadie de su tripulación.",
+      "b": "Previamente al vuelo deberá familiarizarse con información necesaria y disponible.",
+      "c": "Se le puede conocer con las siglas PIC.",
+      "d": "Tiene autoridad decisiva."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la opción correcta, en el caso de la aeronave que no tiene prioridad y se dispone a ceder el paso:",
+    "respuestas": {
+      "a": "Pasará por debajo de la aeronave con prioridad.",
+      "b": "Pasará por encima de la aeronave con prioridad.",
+      "c": "Mantendrá el rumbo.",
+      "d": "No pasará por debajo, por encima, o por delante de ella, salvo a distancia suficiente."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la opción correcta, en el caso de aproximación de frente las aeronaves deben:",
+    "respuestas": {
+      "a": "Ambas subir de altura.",
+      "b": "Ambas virar a la derecha.",
+      "c": "Ambas virar a la izquierda.",
+      "d": "Avisar por radio."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale de mayor a menor la prioridad de las siguientes aeronaves:",
+    "respuestas": {
+      "a": "Remolque, dirigible, planeador y propulsado.",
+      "b": "Planeador, dirigible, propulsado y remolque.",
+      "c": "Planeador, dirigible, remolque y propulsado.",
+      "d": "Planeador, propulsado, dirigible y remolque."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Acerca de la Minimum Sector Altitude:",
+    "respuestas": {
+      "a": "Establecida por sectores a 40 NM del campo.",
+      "b": "Establecida por sectores a 25 NM del campo. Altitud mínima para aeronaves antes de comenzar aproximación o campo a la vista.",
+      "c": "Establecida por sectores a 55 NM del campo. Altitud máxima para aeronaves antes de comenzar aproximación o campo a la vista.",
+      "d": "Establecida por sectores a 15 NM del campo. Altitud máxima para aeronaves antes de comenzar aproximación o campo a la vista."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Flight Level es:",
+    "respuestas": {
+      "a": "Posición vertical que mantiene una altura constante.",
+      "b": "Posición vertical que mantiene una presión constante y siempre de 1013 hPa.",
+      "c": "Posición vertical que mantiene una presión constante.",
+      "d": "Posición vertical que mantiene una altitud constante."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "QNH es:",
+    "respuestas": {
+      "a": "Presión al nivel del aeródromo deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar.",
+      "b": "Presión al nivel del mar deducida de la existente en el aeródromo, considerando la atmósfera con unas condiciones estándar.",
+      "c": "Presión estándar al nivel del mar. 29,92\" o 1013 milibares.",
+      "d": "Presión estándar al nivel del mar. 29,58\" o 1018 milibares."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el error máximo que se permite a los altímetros?",
+    "respuestas": {
+      "a": "Los altímetros no tienen errores.",
+      "b": "70 km.",
+      "c": "80 pies.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debemos hacer al llegar a la altitud de transición?",
+    "respuestas": {
+      "a": "Volar por encima de las nubes.",
+      "b": "Poner el QNH a 1013 hPa.",
+      "c": "Poner velocidad de crucero.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la altitud de transición en España?",
+    "respuestas": {
+      "a": "6000 pies por norma general.",
+      "b": "7000 pies en Granada.",
+      "c": "1300 pies en Madrid.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Quién es proporcionado un control de área?",
+    "respuestas": {
+      "a": "Por el ACC.",
+      "b": "Por el control de tierra.",
+      "c": "Por una CTA.",
+      "d": "Por un ACC o un APP en una CTA/CTR sin ACC."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuáles son los métodos de separación?",
+    "respuestas": {
+      "a": "Vertical y Horizontal.",
+      "b": "Vertical, Horizontal y Compuesto.",
+      "c": "Horizontal longitudinal y lateral.",
+      "d": "Compuesto y Por tiempos y derrotas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué puede tener bajo su restricción una TMA?",
+    "respuestas": {
+      "a": "AWY y una CTR.",
+      "b": "ATZ y una CTA.",
+      "c": "APP y una ATZ.",
+      "d": "CTR y una ATZ."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Movimientos en tierra ¿Quién tiene prioridad?",
+    "respuestas": {
+      "a": "Las personas por seguridad.",
+      "b": "Las aeronaves, vehículos que transportan aeronaves.",
+      "c": "Vehículos.",
+      "d": "Vehículos militares."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Procedimiento para entrar en una CTA distinta antes de despegar.",
+    "respuestas": {
+      "a": "No existe problema.",
+      "b": "La coordinación con el CCA obtendrá la autorización media hora antes.",
+      "c": "La coordinación con el CCA obtendrá la autorización una hora antes.",
+      "d": "Es responsabilidad del ATS."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué partes del aeródromo incluye el área de movimiento?",
+    "respuestas": {
+      "a": "APRON y área de maniobras.",
+      "b": "APRON y taxi way.",
+      "c": "Área de maniobras y taxi way.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la nomenclatura del ARC (Aerodrome Reference Code)?",
+    "respuestas": {
+      "a": "Un número y una letra que indican el mayor aeroplano que puede usar el campo.",
+      "b": "4 letras que hacen referencia a la situación geográfica del campo.",
+      "c": "2 números y 2 letras que hacen referencia al peso y la envergadura del mayor aeroplano que puede usar el campo.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es el significado del acrónimo ARP?",
+    "respuestas": {
+      "a": "Arrive runway proxim.",
+      "b": "Aerodrome runway point.",
+      "c": "Aerodrome reference point.",
+      "d": "Air rule pilot."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué distancia de maniobrabilidad en pista es mayor?",
+    "respuestas": {
+      "a": "TORA.",
+      "b": "LDA.",
+      "c": "ASDA.",
+      "d": "TODA."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Un avión con capacidad para vuelo instrumental puede tomar en una pista de tipo:",
+    "respuestas": {
+      "a": "Instrumental y take off runway.",
+      "b": "Instrumental y no instrumental.",
+      "c": "Solamente en una pista de tipo instrumental.",
+      "d": "Ninguna de las anteriores es un tipo de pista."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la respuesta incorrecta:",
+    "respuestas": {
+      "a": "El threshold de la pista puede ser temporal o permanente.",
+      "b": "El threshold es la zona destinada a la toma en pista.",
+      "c": "En el umbral de pista está marcado el rumbo de la pista.",
+      "d": "El threshold ha de estar siempre al principio de la pista."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué marcas de pista nos encontraremos en el umbral de la misma?",
+    "respuestas": {
+      "a": "3 dígitos que indican el rumbo de la pista y el ARC.",
+      "b": "2 dígitos de indicación de rumbo y el ARC.",
+      "c": "Una flecha que nos indica el sentido de la toma.",
+      "d": "2 dígitos que nos dan el rumbo de la pista y una L, R o C, dependiendo de la situación."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿De qué color son las líneas que delimitan el taxi de un aeródromo?",
+    "respuestas": {
+      "a": "Amarillas.",
+      "b": "Azules.",
+      "c": "Rojas.",
+      "d": "Blancas."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Si las luces del PAPI están todas blancas significa que:",
+    "respuestas": {
+      "a": "Vas muy a la derecha para tomar.",
+      "b": "Vas muy alto para tomar.",
+      "c": "Vas muy a la izquierda para tomar.",
+      "d": "Vas muy bajo para tomar."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Si las luces del VASIS están más blancas que rojas significa que:",
+    "respuestas": {
+      "a": "Vas muy a la derecha para tomar.",
+      "b": "Vas muy bajo para tomar.",
+      "c": "Vas muy a la izquierda para tomar.",
+      "d": "Vas muy alto para tomar."
+    },
+    "correcta": "d"
+  }
+]
