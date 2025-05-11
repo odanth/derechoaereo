@@ -1,0 +1,622 @@
+[
+  {
+    "pregunta": "El órgano originador de la doctrina aeroespacial básica refrendada en la IG 00‑1 es el:",
+    "respuestas": {
+      "a": "EMA.",
+      "b": "JEMAD.",
+      "c": "DGAM.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La NATO SPACE POLICY fue adoptada estableciendo que el espacio es el quinto dominio operacional, en el año:",
+    "respuestas": {
+      "a": "2021.",
+      "b": "2020.",
+      "c": "2019.",
+      "d": "2018."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El Poder aeroespacial es:",
+    "respuestas": {
+      "a": "Empleo de las capacidades aeroespaciales en paz, crisis o conflicto para apoyar la acción del Estado.",
+      "b": "Ámbito físico que envuelve a los ámbitos terrestre y marítimo, y que ofrece la posibilidad de utilizar la tercera dimensión en el continuo aire‑espacio.",
+      "c": "Concepto que incluye tanto el ámbito aeroespacial (ámbito físico) como todas aquellas actividades con él relacionadas.",
+      "d": "Conjunto de capacidades susceptibles de ser empleadas en el dominio aeroespacial tanto para producir efectos en los niveles estratégico, operacional o táctico en el ámbito militar como para contribuir a la acción del Estado en el ámbito civil."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El conjunto de empresas y organismos dedicados al fomento de programas de investigación y exploración espacial y aquellas agencias responsables de diseñar, ejecutar y mantener dichos programas, es:",
+    "respuestas": {
+      "a": "El sector espacial.",
+      "b": "La industria espacial.",
+      "c": "La industria espacial, si excluimos a los organismos gubernamentales.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Se considera como primer hombre en el espacio a:",
+    "respuestas": {
+      "a": "Neil Armstrong en 1969.",
+      "b": "Neil Armstrong en 1961.",
+      "c": "Yuri Gagarin en 1961.",
+      "d": "Yuri Gagarin en 1969."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "De los siguientes países, señale el que no posee capacidad de realizar vuelo espacial no tripulado, ni capacidad de vuelo espacial lunar:",
+    "respuestas": {
+      "a": "China.",
+      "b": "Rusia.",
+      "c": "Estados Unidos.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El Madrid Deep Space Communications Complex (MDSCC):",
+    "respuestas": {
+      "a": "Fue la instalación pionera que proporcionó capacidades espaciales en España en 1962.",
+      "b": "Fue la instalación pionera que proporcionó capacidades espaciales en España en 1961.",
+      "c": "Fue la instalación pionera que proporcionó capacidades espaciales en España en 1960.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El COVE dependiente del EA, proporciona capacidades:",
+    "respuestas": {
+      "a": "SEOT.",
+      "b": "SST.",
+      "c": "SSA y SST.",
+      "d": "SEOT y cálculo de reentradas en la atmósfera."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Los atributos propios del instrumento militar aeroespacial son (señale la falsa):",
+    "respuestas": {
+      "a": "Velocidad.",
+      "b": "Alcance.",
+      "c": "Altura.",
+      "d": "Latencia."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "La capacidad de geolocalización y posicionamiento es alcanzada por Rusia mediante la constelación satelital:",
+    "respuestas": {
+      "a": "GPS.",
+      "b": "GALILEO.",
+      "c": "ISRO.",
+      "d": "GLONASS."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Seleccione la respuesta FALSA. Los lanzadores se pueden clasificar en los siguientes 3 grandes grupos:",
+    "respuestas": {
+      "a": "Propulsantes sólidos.",
+      "b": "Propulsantes líquidos.",
+      "c": "Propulsantes gaseosos.",
+      "d": "Propulsantes híbridos."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Seleccione la respuesta correcta:",
+    "respuestas": {
+      "a": "Después de que la etapa primaria se haya caído, el siguiente motor se activa para cambiar la trayectoria del cohete.",
+      "b": "La segunda etapa tiene mucho más trabajo por hacer, ya que el cohete aún no está viajando a alta velocidad y el peso del cohete no ha disminuido apenas.",
+      "c": "Por norma general, la etapa principal de un cohete es el primer motor de cohete que se activa, proporcionando el empuje inicial para enviar el cohete hacia el cielo.",
+      "d": "Todas las anteriores son correctas."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La velocidad de escape se define como:",
+    "respuestas": {
+      "a": "La velocidad a la que tiene que orbitar un satélite para alcanzar la velocidad del sonido.",
+      "b": "La velocidad a la que es necesario lanzar un objeto al Espacio para que no regrese al planeta desde el que ha sido lanzado.",
+      "c": "La aceleración que necesita un cohete para escapar de misiles enemigos.",
+      "d": "La velocidad necesaria para escapar de un agujero negro una vez se ha alcanzado el horizonte de sucesos."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La Fase 3, dentro de la Arquitectura de misiones, que configuran el ciclo de vida completo del proyecto espacial es la más larga y costosa. En concreto, las actividades específicas que se realizan en esta fase son (seleccione la FALSA):",
+    "respuestas": {
+      "a": "Definir los procedimientos de fabricación y elaborar los planos definitivos.",
+      "b": "Completar los test de desarrollo y calificación.",
+      "c": "Demostrar la viabilidad del proyecto mediante diseño y análisis.",
+      "d": "Desarrollar y testear el software."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El Sea Launch y el Lanzador Pegaso son dos tipos de lanzadores:",
+    "respuestas": {
+      "a": "No Convencionales.",
+      "b": "Convencionales.",
+      "c": "De etapas combinadas.",
+      "d": "Inerciales."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La ecuación de Tsiolkiovski relaciona:",
+    "respuestas": {
+      "a": "Velocidades inicial, final y aceleración.",
+      "b": "Masas, impulso específico del propulsante y la constante de gravedad.",
+      "c": "Masas, velocidad inicial y constante de gravedad.",
+      "d": "Masas, velocidades inicial y final e impulso específico del propulsante."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Pueden ser partes de un lanzador (elige la incorrecta):",
+    "respuestas": {
+      "a": "Cofia",
+      "b": "Carga de pago",
+      "c": "Fuste",
+      "d": "Motor de combustible sólido"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la correcta. ¿Cuál de las siguientes es una misión espacial?:",
+    "respuestas": {
+      "a": "Misiones planetarias.",
+      "b": "Misiones de observación a la Tierra.",
+      "c": "Misiones astronómicas.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "La duración de la Fase 1: Análisis de viabilidad y Desarrollo conceptual es:",
+    "respuestas": {
+      "a": "De 8 a 12 meses.",
+      "b": "Más de 5 años.",
+      "c": "Entre 3 y 5 años.",
+      "d": "3 meses."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es un tipo de combustible utilizado como propulsante para los lanzadores?:",
+    "respuestas": {
+      "a": "Híbrido",
+      "b": "Líquido",
+      "c": "Sólido",
+      "d": "Todas las anteriores son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuántas fases hay en una misión espacial?",
+    "respuestas": {
+      "a": "Una",
+      "b": "Tres",
+      "c": "Cinco",
+      "d": "Siete"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Como norma general los lanzadores son configurados:",
+    "respuestas": {
+      "a": "Teniendo en cuenta la carga útil que se lanza al espacio",
+      "b": "La órbita que se desea inyectar esa carga",
+      "c": "Teniendo en cuenta la fuerza de rozamiento en la estratosfera",
+      "d": "A y B son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "A mayor __ y mayor __, mayor debe ser el lanzador",
+    "respuestas": {
+      "a": "Carga/peso",
+      "b": "Carga/distancia",
+      "c": "Distancia/peso",
+      "d": "Distancia/carga"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los lanzamientos por lo general:",
+    "respuestas": {
+      "a": "Son económicos y eficientes",
+      "b": "Son muy costos",
+      "c": "Hay cierta probabilidad de fracaso",
+      "d": "B y C son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Los lanzadores se clasifican en:",
+    "respuestas": {
+      "a": "Propulsante sólido",
+      "b": "Propulsante gaseoso",
+      "c": "Mixto",
+      "d": "Combustión interna"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Por norma general la etapa principal de un cohete es:",
+    "respuestas": {
+      "a": "Los propulsantes líquidos.",
+      "b": "El segundo motor.",
+      "c": "El tercer motor.",
+      "d": "El primer motor."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿En qué 3 grandes grupos se pueden clasificar los lanzadores?:",
+    "respuestas": {
+      "a": "Propulsantes sólidos e híbridos.",
+      "b": "C1, C5 y Nova.",
+      "c": "Propulsantes líquidos y sólidos e híbridos.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es un tipo de lanzamiento no convencional?:",
+    "respuestas": {
+      "a": "Separación del satélite y el lanzador.",
+      "b": "Lanzamientos desde una aeronave.",
+      "c": "Desorbitado del lanzador.",
+      "d": "Apagado de primera etapa y separación. Encendido de segunda etapa."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué ocurre en la segunda etapa del lanzamiento?:",
+    "respuestas": {
+      "a": "El motor del cohete continuará funcionando hasta que se agote el combustible.",
+      "b": "El cohete viaja a alta velocidad y su peso ha disminuido.",
+      "c": "El coche te viaja a baja velocidad y su peso ha aumentado.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Tipos de lanzadores según el tipo de combustible:",
+    "respuestas": {
+      "a": "Sólidos, líquidos e híbridos.",
+      "b": "Sólidos, líquidos y mixtos.",
+      "c": "Sólidos y gas.",
+      "d": "Queroseno y diesel."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En qué fase se define de forma detallada cada uno de los componentes del sistema de una misión espacial:",
+    "respuestas": {
+      "a": "Fase 2: Diseño de detalle.",
+      "b": "Fase 1: Desarrollo conceptual.",
+      "c": "Fase 0: Análisis de viabilidad.",
+      "d": "Fase 2: Fase técnica."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El soporte terrestre está compuesto por:",
+    "respuestas": {
+      "a": "Instalaciones y equipamiento cuya misión es preparar la nave espacial.",
+      "b": "Instrumentos asociados para el lanzamiento.",
+      "c": "Equipos de ingenieros y científicos que lo diseñan y operan.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Qué número de etapas se considera óptimo en los lanzadores multietapa:",
+    "respuestas": {
+      "a": "Menos de 4",
+      "b": "Mínimo 2",
+      "c": "Máximo 5",
+      "d": "No existe un número de etapas óptimo"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Por la Ecuación de Tsiolkiovsky, el incremento de velocidad ideal conseguido por el lanzador es:",
+    "respuestas": {
+      "a": "Directamente proporcional al impulso específico del propulsante, Isp.",
+      "b": "Inversamente proporcional al impulso específico del propulsante, Isp.",
+      "c": "No depende de la gravedad.",
+      "d": "No se puede calcular por la Ec. de Tsiolkiovsky."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es el número de etapas óptimo para un lanzador multietapa?",
+    "respuestas": {
+      "a": "nº etapas > 6",
+      "b": "nº etapas < 4",
+      "c": "Es indiferente.",
+      "d": "No existen lanzadores multietapa."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál no es una fase típica de un lanzamiento para lanzador de tres etapas a órbita baja?",
+    "respuestas": {
+      "a": "Separación del satélite y el lanzador.",
+      "b": "Desprendimiento de la cofia.",
+      "c": "Encendido de la primera etapa del lanzador.",
+      "d": "Maniobras de colisión del lanzador."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la fase de diseño de detalle de una misión espacial? (señale la más correcta):",
+    "respuestas": {
+      "a": "Diseñar el lanzador multietapa.",
+      "b": "Definir de forma detallada cada uno en los componentes del sistema.",
+      "c": "Valorar la viabilidad del proyecto mediante diseño y análisis.",
+      "d": "Fabricación del hardware de vuelo."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En la arquitectura de misiones, el soporte terrestre está compuesto por:",
+    "respuestas": {
+      "a": "Instalaciones y equipamiento cuya misión es preparar la nave espacial y los instrumentos asociados para el lanzamiento.",
+      "b": "Instalaciones y personal en tierra cuyo objetivo es monitorizar y controlar la nave espacial durante la misión.",
+      "c": "Los equipos de ingenieros y científicos que diseñan y operan el lanzamiento.",
+      "d": "a) y c) son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En la fase 2, Diseño de detalle de una misión espacial, ¿cuál es la duración típica?",
+    "respuestas": {
+      "a": "12-18 meses",
+      "b": "3-6 meses",
+      "c": "1-3 meses",
+      "d": "6-9 meses"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En las fases de una misión espacial, ¿cuál corresponde a Desarrollo, fabricación, integración y test?",
+    "respuestas": {
+      "a": "Fase 3",
+      "b": "Fase 1",
+      "c": "Fase 2",
+      "d": "Fase 4"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En los tipos de lanzadores, según el tipo de propulsante, ¿cuáles son más complejos y tienen una posibilidad de reencendido (Isp 260‑450 s)?",
+    "respuestas": {
+      "a": "Sólidos",
+      "b": "Líquidos",
+      "c": "Híbridos",
+      "d": "Todos son igual de complejos y tienen la misma posibilidad de reencendido."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La arquitectura de la misión espacial tiene en cuenta:",
+    "respuestas": {
+      "a": "Diseño",
+      "b": "Planificación general, incluida la elección de la nave espacial, los instrumentos y el vehículo de lanzamiento, así como las metas y objetivos de la misión",
+      "c": "A y B son correctas",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La velocidad de escape se define como:",
+    "respuestas": {
+      "a": "La velocidad a la que es necesario lanzar un objeto para que no regrese al planeta",
+      "b": "Es el espacio dividido entre el tiempo",
+      "c": "Es el incremento de la rapidez",
+      "d": "Es la magnitud que se relaciona a la alteración de la dirección de la velocidad de un objeto que se mueve siguiendo una trayectoria de tipo curvilíneo"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Existen tipos de lanzadores no convencionales:",
+    "respuestas": {
+      "a": "Lanzamientos desde aeronaves a FL250‑FL350",
+      "b": "Lanzamiento desde la plataforma continental",
+      "c": "Vehículos tripulados espacio Shuttle",
+      "d": "Todas correctas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El propulsante híbrido:",
+    "respuestas": {
+      "a": "Combina propulsante sólido y líquido",
+      "b": "Combina propulsante líquido y gaseoso",
+      "c": "Combina propulsante gaseoso y sólido",
+      "d": "Combina gasolina y diésel"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En cuanto a los lanzadores podemos afirmar:",
+    "respuestas": {
+      "a": "Que es un medio de impulso para el vehículo espacial.",
+      "b": "A menor carga y distancia, menor debe ser el lanzador.",
+      "c": "La masa total de despegue con respecto a la carga útil es de 1000:1 para misiones interplanetarias.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Indica la opción correcta con respecto a las partes que podemos encontrar en un lanzador:",
+    "respuestas": {
+      "a": "Fairing, payload adaptor, vulcain engine.",
+      "b": "Fairing, soft rocket booster, speltra.",
+      "c": "Speltra, circular 3936, payload inadapter.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En cuanto a la clasificación de los lanzadores en función del propulsante, indique cuál se ajusta a las características de un propulsante sólido:",
+    "respuestas": {
+      "a": "Mayor complejidad con capacidad de reencendido e impulso entre 360 y 450 segundos.",
+      "b": "Menor complejidad sin capacidad de reencendido e impulso entre 200 y 300 segundos.",
+      "c": "Una combinación homogénea de varios propulsantes.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En cuanto a la clasificación de los lanzadores en función del número de etapas, señale la opción correcta:",
+    "respuestas": {
+      "a": "La primera etapa es la etapa principal.",
+      "b": "La segunda etapa requiere menor esfuerzo gracias al peso disminuido al desprenderse la primera etapa.",
+      "c": "Una vez desprendido de su última etapa, la nave espacial será maniobrada mediante pequeños cohetes.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuánto suele durar la Fase 2 (Diseño de detalle)?",
+    "respuestas": {
+      "a": "De 3 a 6 meses",
+      "b": "De 4 a 5 años",
+      "c": "De 12 y 18 meses",
+      "d": "De 6 a 12 años"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la fase de Análisis de Viabilidad en el desarrollo de una misión espacial?",
+    "respuestas": {
+      "a": "Seleccionar el sistema conceptual óptimo",
+      "b": "Demostrar la viabilidad del proyecto mediante diseño y análisis",
+      "c": "Definir la solución técnica en una extensión tal que permita elaborar información realista",
+      "d": "Valorar formas alternativas de implementar el sistema para responder a los requerimientos"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En España se utiliza el radar S3TSR situado en:",
+    "respuestas": {
+      "a": "Morón",
+      "b": "Torrejón",
+      "c": "Getafe",
+      "d": "Zaragoza"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿De qué país es el sistema de navegación por satélite GLONASS?",
+    "respuestas": {
+      "a": "USA",
+      "b": "Rusia",
+      "c": "China",
+      "d": "La India"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las instalaciones y equipamiento cuya misión es preparar la nave espacial y los instrumentos asociados para el lanzamiento se definen como:",
+    "respuestas": {
+      "a": "Sistemas de apoyo",
+      "b": "Ayuda al lanzamiento",
+      "c": "Soporte terrestre",
+      "d": "Control de misión"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La fase de desarrollo (señale la incorrecta):",
+    "respuestas": {
+      "a": "Complementa y completa de forma continua todos los análisis y diseños realizados",
+      "b": "Completa los test de desarrollo y calificación",
+      "c": "Incluye la entrega de la nave a la operadora del lanzamiento y la realización de actividades de soporte durante la campaña",
+      "d": "Fabrica el hardware de vuelo y realizar los test de aceptación."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El sistema de transporte espacial Shuttle (señale la correcta):",
+    "respuestas": {
+      "a": "Se trata de un vehículo diseñado para un solo lanzamiento y por ende, no reutilizable",
+      "b": "Es capaz de insertar el satélite directamente en la órbita de transferencia a geoestacionaria (GTO)",
+      "c": "Exige unas mayores medidas de seguridad al tratarse de un vehículo tripulado.",
+      "d": "Su sistema de propulsión se compone de un único propulsor"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Son lanzadores de la ESA:",
+    "respuestas": {
+      "a": "Vega C",
+      "b": "Ariane 62",
+      "c": "Ariane 64",
+      "d": "Todos los anteriores"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El término Sea Launch o el Tristar L‑1011 hacen referencia a medios técnicos propios de:",
+    "respuestas": {
+      "a": "Sistemas de lanzamiento operativo",
+      "b": "Sistemas de lanzamiento convencionales",
+      "c": "Sistemas de lanzamiento específicos",
+      "d": "Sistemas de lanzamiento no convencionales"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes fases forma parte de un lanzamiento espacial convencional?",
+    "respuestas": {
+      "a": "Encendido de la primera etapa (despegue).",
+      "b": "Separación del satélite y el lanzador.",
+      "c": "Desorbitado del lanzador.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En función del combustible que utilizan los lanzadores se clasifican en:",
+    "respuestas": {
+      "a": "Propulsantes sólidos, líquidos e híbridos.",
+      "b": "Propulsantes sólidos, gaseosos e híbridos.",
+      "c": "Propulsantes minerales, gaseosos y líquidos.",
+      "d": "Propulsantes minerales, líquidos e híbridos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la ecuación fundamental de la astronáutica que relaciona el aumento de velocidad durante una fase de propulsión de una nave espacial con un motor a reacción con la relación entre su masa inicial y su masa final?",
+    "respuestas": {
+      "a": "Ecuación de Tsiolkovsky",
+      "b": "Ecuación de Kepler",
+      "c": "Ecuación de Newton",
+      "d": "Ecuación de Maxwell"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuánto suele extenderse la Fase 3 “Desarrollo, fabricación, integración y test” de la arquitectura de misiones?",
+    "respuestas": {
+      "a": "Entre 5 y 6 años",
+      "b": "Entre 3 y 5 años",
+      "c": "Entre 2 y 4 años",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "b"
+  }
+]
