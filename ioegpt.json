@@ -1,0 +1,352 @@
+[
+  {
+    "pregunta": "Según el Plan Director de Sistemas Espaciales, ¿cuál de las siguientes familias NO forma parte de la clasificación oficial?",
+    "respuestas": {
+      "a": "COMMS",
+      "b": "SEOT",
+      "c": "MEO",
+      "d": "GNSS"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué año se fundó la Agencia Espacial Española (AEE)?",
+    "respuestas": {
+      "a": "2021",
+      "b": "2022",
+      "c": "2023",
+      "d": "2024"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra ubicado el radar S3TSR utilizado por el COVE?",
+    "respuestas": {
+      "a": "Base Aérea de Torrejón",
+      "b": "Morón de la Frontera (Sevilla)",
+      "c": "Base Aérea de Zaragoza",
+      "d": "Observatorio del Teide"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El radar S3TSR es capaz de detectar objetos en LEO de tamaño aproximado:",
+    "respuestas": {
+      "a": "1 m",
+      "b": "30 cm",
+      "c": "5 cm",
+      "d": "3 m"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El COVE depende orgánicamente de:",
+    "respuestas": {
+      "a": "INTA",
+      "b": "Mando del Espacio (MESPA)",
+      "c": "Ministerio de Ciencia",
+      "d": "Centro Nacional de Inteligencia"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Entre los cometidos del COVE NO se encuentra:",
+    "respuestas": {
+      "a": "Emitir alertas de destrucción de satélites propios",
+      "b": "Proporcionar predicciones de clima espacial",
+      "c": "Desarrollar satélites de comunicaciones",
+      "d": "Catalogar objetos espaciales"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El CESAEROB tiene como misión principal:",
+    "respuestas": {
+      "a": "Operar telescopios ópticos",
+      "b": "Gestionar activos satelitales de observación de la Tierra",
+      "c": "Lanzar cohetes suborbitales",
+      "d": "Regular la banda de frecuencia L"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El INTA es un Organismo Público de Investigación que depende de:",
+    "respuestas": {
+      "a": "Ministerio de Ciencia",
+      "b": "Ministerio de Defensa",
+      "c": "Ministerio de Transportes",
+      "d": "Agencia Espacial Europea"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una de las funciones del INTA es:",
+    "respuestas": {
+      "a": "Emitir licencias de operador de satélites",
+      "b": "Homologación y certificación de sistemas",
+      "c": "Controlar el tráfico aéreo civil",
+      "d": "Gestionar el programa Helios II"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el mercado espacial, el segmento Upstream se dedica principalmente a:",
+    "respuestas": {
+      "a": "Aplicaciones vía satélite",
+      "b": "Construcción de lanzadores y satélites",
+      "c": "Turismo espacial",
+      "d": "Venta de servicios de datos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según el documento, la inversión mundial en el sector espacial se divide aproximadamente en:",
+    "respuestas": {
+      "a": "50 % pública / 50 % privada",
+      "b": "36 % pública / 64 % privada",
+      "c": "64 % pública / 36 % privada",
+      "d": "80 % pública / 20 % privada"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En 2019, España facturó en el sector espacial un porcentaje aproximado del mercado mundial de:",
+    "respuestas": {
+      "a": "1 %",
+      "b": "0,5 %",
+      "c": "0,23 %",
+      "d": "2,3 %"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes misiones proporciona imágenes ópticas de alta resolución a España tras el fracaso de SEOSAT‑Ingenio?",
+    "respuestas": {
+      "a": "Pleiades",
+      "b": "CSO",
+      "c": "Sentinel‑2",
+      "d": "TerraSAR‑X"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El satélite PAZ pertenece a la categoría de satélites de:",
+    "respuestas": {
+      "a": "Comunicaciones",
+      "b": "Navegación",
+      "c": "Observación radar SAR",
+      "d": "Meteorología"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes programas sustituirá a los satélites Spainsat y XTAR‑EUR?",
+    "respuestas": {
+      "a": "Hispasat‑NG",
+      "b": "Spainsat‑NG",
+      "c": "Galileo‑NG",
+      "d": "RedSat"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los satélites SPAINSAT‑NG estarán protegidos principalmente frente a:",
+    "respuestas": {
+      "a": "Radiación gamma solar",
+      "b": "Interferencias y suplantaciones",
+      "c": "Microgravedad",
+      "d": "Eclipses prolongados"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Space Situational Awareness (SSA) se define como:",
+    "respuestas": {
+      "a": "La fabricación de satélites",
+      "b": "El conocimiento del dominio espacial y su seguridad",
+      "c": "El tráfico aéreo civil",
+      "d": "Un servicio de posicionamiento global"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Dentro de los satélites utilizados para SSA NO se incluyen:",
+    "respuestas": {
+      "a": "Satélites de alerta temprana",
+      "b": "Satélites meteorológicos",
+      "c": "Satélites de comunicaciones",
+      "d": "Satélites de entretenimiento"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El Programa Nacional de Observación de la Tierra por Satélite (PNOTS) se creó en:",
+    "respuestas": {
+      "a": "2001",
+      "b": "2007",
+      "c": "2013",
+      "d": "2018"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El número óptimo de etapas para un lanzador multietapa suele ser:",
+    "respuestas": {
+      "a": "1",
+      "b": "2",
+      "c": "Menos de 4",
+      "d": "Más de 6"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Los propulsantes líquidos tienen un impulso específico típico entre:",
+    "respuestas": {
+      "a": "200‑300 s",
+      "b": "260‑450 s",
+      "c": "100‑150 s",
+      "d": "500‑700 s"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los propulsantes sólidos se caracterizan por:",
+    "respuestas": {
+      "a": "Mayor complejidad y reencendido",
+      "b": "Menor complejidad sin reencendido",
+      "c": "Uso de hidrógeno líquido",
+      "d": "Impulso específico superior a 450 s"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El lanzador Pegaso es un ejemplo de sistema:",
+    "respuestas": {
+      "a": "Convencional terrestre",
+      "b": "No convencional aerolanzado",
+      "c": "Reutilizable y tripulado",
+      "d": "Propulsante híbrido"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Sea Launch posiciona la plataforma en el Ecuador para:",
+    "respuestas": {
+      "a": "Reducir la velocidad de rotación",
+      "b": "Optimizar la capacidad de lanzamiento",
+      "c": "Evitar tormentas solares",
+      "d": "Facilitar el control de misión"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La Fase 4 de una misión espacial (Lanzamiento) tiene una duración típica de:",
+    "respuestas": {
+      "a": "1 mes",
+      "b": "3 meses",
+      "c": "12 meses",
+      "d": "5 años"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La fase más larga y costosa de una misión espacial suele ser:",
+    "respuestas": {
+      "a": "Fase 1",
+      "b": "Fase 2",
+      "c": "Fase 3",
+      "d": "Fase 5"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El soporte terrestre incluye principalmente:",
+    "respuestas": {
+      "a": "Vehículo lanzador",
+      "b": "Instalaciones y equipos para preparar la nave",
+      "c": "Segmento de enlace",
+      "d": "Análisis de datos científicos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El control de misión tiene como objetivo fundamental:",
+    "respuestas": {
+      "a": "Fabricar subsistemas",
+      "b": "Monitorizar y controlar la nave espacial",
+      "c": "Procesar datos científicos",
+      "d": "Vender servicios satelitales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Dentro de las categorías de misiones espaciales NO se encuentra:",
+    "respuestas": {
+      "a": "Misiones astronómicas",
+      "b": "Misiones de observación de la Tierra",
+      "c": "Misiones subterráneas",
+      "d": "Misiones planetarias"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La sección eficaz radar (RCS) indica:",
+    "respuestas": {
+      "a": "Cantidad de energía absorbida por un objeto",
+      "b": "Energía retro‑dispersada hacia el radar",
+      "c": "Nivel de radiación cósmica",
+      "d": "Distancia a un objeto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El modelo elipsoide de la Tierra se utiliza principalmente en:",
+    "respuestas": {
+      "a": "GNSS",
+      "b": "Meteorología",
+      "c": "Psicología espacial",
+      "d": "Propulsión química"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué satélite español de comunicaciones gubernamentales se lanzará primero dentro del programa SPAINSAT‑NG?",
+    "respuestas": {
+      "a": "Spainsat‑NG2",
+      "b": "Spainsat‑NG1",
+      "c": "Hispasat 30W‑6",
+      "d": "XTAR‑LANT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El MESPA asumió el mando orgánico del COVE y del CESAEROB en:",
+    "respuestas": {
+      "a": "2021",
+      "b": "2023",
+      "c": "2019",
+      "d": "2017"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un componente principal definido en la arquitectura de misiones?",
+    "respuestas": {
+      "a": "Nave espacial",
+      "b": "Análisis de datos",
+      "c": "Sistema de pago",
+      "d": "Vehículo lanzador"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El mercado \"Downstream\" en el sector espacial se enfoca en:",
+    "respuestas": {
+      "a": "Producción de cohetes",
+      "b": "Servicios basados en tecnología espacial y aplicaciones vía satélite",
+      "c": "Control de tráfico aéreo",
+      "d": "Diseño de estaciones terrestres"
+    },
+    "correcta": "b"
+  }
+]
