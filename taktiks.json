@@ -1,317 +1,282 @@
 [
   {
-    "pregunta": "¿Cuál es la diferencia fundamental entre supremacía aeroespacial y superioridad aeroespacial establecida en la doctrina? stas": {
-      "a": "La supremacía otorga libertad total de acción y niega cualquier interferencia enemiga, mientras que la superioridad proporciona sólo un grado de libertad limitado en espacio y tiempo con un riesgo aceptable.",
-      "b": "La superioridad elimina por completo las fuerzas enemigas y la supremacía únicamente las degrada.",
-      "c": "La supremacía es un concepto táctico y la superioridad es exclusivamente estratégico‑política.",
-      "d": "No existe diferencia: ambos términos son equivalentes."
-    },
+    "pregunta": "¿Cuál es la diferencia fundamental entre supremacía aeroespacial y superioridad aeroespacial establecida en la doctrina?",
+    "a": "La supremacía otorga libertad total de acción y niega cualquier interferencia enemiga, mientras que la superioridad proporciona sólo un grado de libertad limitado en espacio y tiempo con un riesgo aceptable.",
+    "b": "La superioridad elimina por completo las fuerzas enemigas y la supremacía únicamente las degrada.",
+    "c": "La supremacía es un concepto táctico y la superioridad es exclusivamente estratégico-política.",
+    "d": "No existe diferencia: ambos términos son equivalentes.",
     "correcta": "a"
   },
   {
-    "pregunta": "En una misión OCA (Offensive Counter‑Air), ¿cuál es el objetivo prioritario respecto al poder aeroespacial enemigo? stas": {
-      "a": "Interrumpir las comunicaciones navales del adversario.",
-      "b": "Destruir, interrumpir o degradar sus medios aeroespaciales, preferiblemente mientras se encuentran en superficie.",
-      "c": "Negar el uso de satélites comerciales de terceros.",
-      "d": "Aumentar el alcance de las propias plataformas de ISR."
-    },
+    "pregunta": "En una misión OCA (Offensive Counter-Air), ¿cuál es el objetivo prioritario respecto al poder aeroespacial enemigo?",
+    "a": "Interrumpir las comunicaciones navales del adversario.",
+    "b": "Destruir, interrumpir o degradar sus medios aeroespaciales, preferiblemente mientras se encuentran en superficie.",
+    "c": "Negar el uso de satélites comerciales de terceros.",
+    "d": "Aumentar el alcance de las propias plataformas de ISR.",
     "correcta": "b"
   },
   {
-    "pregunta": "Dentro de la DCA (Defensive Counter‑Air) activa, ¿qué elemento resulta esencial para lograr una defensa en profundidad eficaz? stas": {
-      "a": "El exclusivo empleo de medidas de camuflaje y dispersión.",
-      "b": "La aplicación estricta del control de emisiones (EMCON) sin apoyo de sensores.",
-      "c": "Un sistema IADS que integre sensores, plataformas, armas y enlaces de datos.",
-      "d": "El preposicionamiento de fuerzas navales en aguas internacionales."
-    },
+    "pregunta": "Dentro de la DCA (Defensive Counter-Air) activa, ¿qué elemento resulta esencial para lograr una defensa en profundidad eficaz?",
+    "a": "El exclusivo empleo de medidas de camuflaje y dispersión.",
+    "b": "La aplicación estricta del control de emisiones (EMCON) sin apoyo de sensores.",
+    "c": "Un sistema IADS que integre sensores, plataformas, armas y enlaces de datos.",
+    "d": "El preposicionamiento de fuerzas navales en aguas internacionales.",
     "correcta": "c"
   },
   {
-    "pregunta": "¿Cuál de las siguientes se considera una medida pasiva de DCA? stas": {
-      "a": "Intercepción de aeronaves hostiles en el aire.",
-      "b": "Uso de armamento aire‑aire más allá del alcance visual (BVR).",
-      "c": "Integración de enlaces de datos tácticos (Link‑16).",
-      "d": "Camuflaje, ocultación, dispersión y engaño de infraestructuras propias."
-    },
+    "pregunta": "¿Cuál de las siguientes se considera una medida pasiva de DCA?",
+    "a": "Intercepción de aeronaves hostiles en el aire.",
+    "b": "Uso de armamento aire-aire más allá del alcance visual (BVR).",
+    "c": "Integración de enlaces de datos tácticos (Link-16).",
+    "d": "Camuflaje, ocultación, dispersión y engaño de infraestructuras propias.",
     "correcta": "d"
   },
   {
-    "pregunta": "El objetivo de las operaciones OCS (Offensive Counter‑Space) es principalmente: stas": {
-      "a": "Negar, degradar, engañar, interrumpir o destruir las capacidades espaciales del adversario o el apoyo espacial de terceros.",
-      "b": "Proteger los satélites propios frente a desechos orbitales.",
-      "c": "Garantizar el acceso aliado a lanzadores comerciales.",
-      "d": "Aumentar la resiliencia de las infraestructuras terrestres de control espacial."
-    },
+    "pregunta": "El objetivo de las operaciones OCS (Offensive Counter-Space) es principalmente:",
+    "a": "Negar, degradar, engañar, interrumpir o destruir las capacidades espaciales del adversario o el apoyo espacial de terceros.",
+    "b": "Proteger los satélites propios frente a desechos orbitales.",
+    "c": "Garantizar el acceso aliado a lanzadores comerciales.",
+    "d": "Aumentar la resiliencia de las infraestructuras terrestres de control espacial.",
     "correcta": "a"
   },
   {
-    "pregunta": "¿Qué busca la DCS (Defensive Counter‑Space) según la doctrina? estas": {
-      "a": "Impedir que el adversario despliegue satélites de reconocimiento en órbita geoestacionaria.",
-      "b": "Proteger y preservar las capacidades espaciales propias mediante medidas activas y pasivas.",
-      "c": "Neutralizar lanzaderas balísticas en fase boost.",
-      "d": "Reemplazar todos los satélites vulnerables por plataformas aéreas tripuladas."
-    },
+    "pregunta": "¿Qué busca la DCS (Defensive Counter-Space) según la doctrina?",
+    "a": "Impedir que el adversario despliegue satélites de reconocimiento en órbita geoestacionaria.",
+    "b": "Proteger y preservar las capacidades espaciales propias mediante medidas activas y pasivas.",
+    "c": "Neutralizar lanzaderas balísticas en fase boost.",
+    "d": "Reemplazar todos los satélites vulnerables por plataformas aéreas tripuladas.",
     "correcta": "b"
   },
   {
-    "pregunta": "En las misiones OCA, la necesidad de INTEL precisa en espacio y tiempo es especialmente crítica cuando se actúa contra: estas": {
-      "a": "Objetivos fijos de infraestructura.",
-      "b": "Pistas de aterrizaje permanentes.",
-      "c": "Objetivos móviles como sistemas SAM o TST.",
-      "d": "Centros de gravedad político‑estratégicos."
-    },
+    "pregunta": "En las misiones OCA, la necesidad de INTEL precisa en espacio y tiempo es especialmente crítica cuando se actúa contra:",
+    "a": "Objetivos fijos de infraestructura.",
+    "b": "Pistas de aterrizaje permanentes.",
+    "c": "Objetivos móviles como sistemas SAM o TST.",
+    "d": "Centros de gravedad político-estratégicos.",
     "correcta": "c"
   },
   {
-    "pregunta": "Según la presentación, ¿qué preferencia existe al atacar las capacidades enemigas en una misión OCA? estas": {
-      "a": "Comprometer sus sistemas aire‑aire únicamente durante el vuelo.",
-      "b": "Interceptarlas fuera del alcance de la defensa aérea propia.",
-      "c": "Priorizar siempre el combate aire‑aire sobre cualquier otra acción.",
-      "d": "Atacarlas cuando estén desplegadas en superficie antes de que puedan operar."
-    },
+    "pregunta": "Según la presentación, ¿qué preferencia existe al atacar las capacidades enemigas en una misión OCA?",
+    "a": "Comprometer sus sistemas aire-aire únicamente durante el vuelo.",
+    "b": "Interceptarlas fuera del alcance de la defensa aérea propia.",
+    "c": "Priorizar siempre el combate aire-aire sobre cualquier otra acción.",
+    "d": "Atacarlas cuando estén desplegadas en superficie antes de que puedan operar.",
     "correcta": "d"
   },
   {
-    "pregunta": "El acrónimo SEAD dentro de OCA significa: estas": {
-      "a": "Supression of Enemy Air Defences",
-      "b": "Strategic Engagement and Air Denial",
-      "c": "Space Expansion and Aerial Deterrence",
-      "d": "Surface Engagement and Air Dominance"
-    },
+    "pregunta": "El acrónimo SEAD dentro de OCA significa:",
+    "a": "Suppression of Enemy Air Defences",
+    "b": "Strategic Engagement and Air Denial",
+    "c": "Space Expansion and Aerial Deterrence",
+    "d": "Surface Engagement and Air Dominance",
     "correcta": "a"
   },
   {
-    "pregunta": "En tiempos de paz, la función típica de la DCA se materializa en la operación denominada: estas": {
-      "a": "Freedom of Navigation",
-      "b": "Policía Aérea (QRA)",
-      "c": "Strategic Airlift",
-      "d": "Show of Force"
-    },
+    "pregunta": "En tiempos de paz, la función típica de la DCA se materializa en la operación denominada:",
+    "a": "Freedom of Navigation",
+    "b": "Policía Aérea (QRA)",
+    "c": "Strategic Airlift",
+    "d": "Show of Force",
     "correcta": "b"
   },
   {
-    "pregunta": "El ataque estratégico se caracteriza, entre otros factores, por: estas": {
-      "a": "Depender estrictamente de la situación táctica en tierra.",
-      "b": "Emplear armamento exclusivamente no letal.",
-      "c": "Ser independiente de las condiciones climatológicas, lo que potencia su capacidad disuasoria.",
-      "d": "Requerir siempre coordinación estrecha con fuerzas terrestres amigas."
-    },
+    "pregunta": "El ataque estratégico se caracteriza, entre otros factores, por:",
+    "a": "Depender estrictamente de la situación táctica en tierra.",
+    "b": "Emplear armamento exclusivamente no letal.",
+    "c": "Ser independiente de las condiciones climatológicas, lo que potencia su capacidad disuasoria.",
+    "d": "Requerir siempre coordinación estrecha con fuerzas terrestres amigas.",
     "correcta": "c"
   },
   {
-    "pregunta": "En el contexto de la doctrina, un centro de gravedad se define como: estas": {
-      "a": "Una unidad táctica con mayor potencia de fuego.",
-      "b": "El punto de máxima altitud en un perfil de vuelo.",
-      "c": "La intersección de rutas aéreas críticas.",
-      "d": "La fuente de poder que otorga fortaleza física o moral, libertad de acción o voluntad de luchar al adversario."
-    },
+    "pregunta": "En el contexto de la doctrina, un centro de gravedad se define como:",
+    "a": "Una unidad táctica con mayor potencia de fuego.",
+    "b": "El punto de máxima altitud en un perfil de vuelo.",
+    "c": "La intersección de rutas aéreas críticas.",
+    "d": "La fuente de poder que otorga fortaleza física o moral, libertad de acción o voluntad de luchar al adversario.",
     "correcta": "d"
   },
   {
-    "pregunta": "En la APCLO, la misión Air Interdiction (AI) se distingue de Close Air Support (CAS) porque AI: estas": {
-      "a": "No necesita coordinación inmediata con fuerzas de superficie debido a la distancia.",
-      "b": "Requiere coordinación muy estrecha con fuerzas propias para evitar fratricidio.",
-      "c": "Se realiza exclusivamente de noche.",
-      "d": "Siempre emplea munición guiada por láser."
-    },
+    "pregunta": "En la APCLO, la misión Air Interdiction (AI) se distingue de Close Air Support (CAS) porque AI:",
+    "a": "No necesita coordinación inmediata con fuerzas de superficie debido a la distancia.",
+    "b": "Requiere coordinación muy estrecha con fuerzas propias para evitar fratricidio.",
+    "c": "Se realiza exclusivamente de noche.",
+    "d": "Siempre emplea munición guiada por láser.",
     "correcta": "a"
   },
   {
-    "pregunta": "El objetivo principal de AI es: estas": {
-      "a": "Aumentar el nivel de disuasión nuclear.",
-      "b": "Desviar, interrumpir, retrasar, degradar o destruir el potencial militar terrestre enemigo antes de que pueda emplearse eficazmente.",
-      "c": "Proporcionar fuego de cobertura a tropas propias en contacto directo.",
-      "d": "Detectar y atacar submarinos enemigos."
-    },
+    "pregunta": "El objetivo principal de AI es:",
+    "a": "Aumentar el nivel de disuasión nuclear.",
+    "b": "Desviar, interrumpir, retrasar, degradar o destruir el potencial militar terrestre enemigo antes de que pueda emplearse eficazmente.",
+    "c": "Proporcionar fuego de cobertura a tropas propias en contacto directo.",
+    "d": "Detectar y atacar submarinos enemigos.",
     "correcta": "b"
   },
   {
-    "pregunta": "En las misiones CAS, la coordinación estrecha con fuerzas propias es imprescindible para: estas": {
-      "a": "Aumentar la autonomía de combustible de las aeronaves de apoyo.",
-      "b": "Eliminar la dependencia de JTACs (Controladores Aéreos Tácticos).",
-      "c": "Evitar fratricidio al operar cerca de las tropas amigas.",
-      "d": "Garantizar el sigilo aeronáutico frente a radares enemigos."
-    },
+    "pregunta": "En las misiones CAS, la coordinación estrecha con fuerzas propias es imprescindible para:",
+    "a": "Aumentar la autonomía de combustible de las aeronaves de apoyo.",
+    "b": "Eliminar la dependencia de JTACs (Controladores Aéreos Tácticos).",
+    "c": "Evitar fratricidio al operar cerca de las tropas amigas.",
+    "d": "Garantizar el sigilo aeronáutico frente a radares enemigos.",
     "correcta": "c"
   },
   {
-    "pregunta": "Dentro de ASuW (Anti‑Surface Warfare) en la APCMO, la fase de seguimiento o shadowing se define como: estas": {
-      "a": "La destrucción inmediata del contacto marítimo detectado.",
-      "b": "La identificación electrónica de emisiones radar hostiles.",
-      "c": "La interrupción de líneas de suministro navales enemigas.",
-      "d": "La continuación de la observación para reportar en tiempo real posición e intenciones del contacto."
-    },
+    "pregunta": "Dentro de ASuW (Anti-Surface Warfare) en la APCMO, la fase de seguimiento o shadowing se define como:",
+    "a": "La destrucción inmediata del contacto marítimo detectado.",
+    "b": "La identificación electrónica de emisiones radar hostiles.",
+    "c": "La interrupción de líneas de suministro navales enemigas.",
+    "d": "La continuación de la observación para reportar en tiempo real posición e intenciones del contacto.",
     "correcta": "d"
   },
   {
-    "pregunta": "Respecto a ASW (Anti‑Submarine Warfare), la misión defensiva busca: estas": {
-      "a": "Negar la libertad de movimiento al submarino antes de que alcance mar abierto.",
-      "b": "Garantizar la protección de convoyes terrestres adyacentes.",
-      "c": "Impedir el lanzamiento de misiles balísticos intercontinentales.",
-      "d": "Neutralizar instalaciones navales en puertos adversarios."
-    },
+    "pregunta": "Respecto a ASW (Anti-Submarine Warfare), la misión defensiva busca:",
+    "a": "Negar la libertad de movimiento al submarino antes de que alcance mar abierto.",
+    "b": "Garantizar la protección de convoyes terrestres adyacentes.",
+    "c": "Impedir el lanzamiento de misiles balísticos intercontinentales.",
+    "d": "Neutralizar instalaciones navales en puertos adversarios.",
     "correcta": "a"
   },
   {
-    "pregunta": "Las misiones de información se caracterizan por producir principalmente efectos: estas": {
-      "a": "Letales que degradan infraestructuras críticas.",
-      "b": "No letales, destinados a influir en la voluntad, entendimiento y comportamiento del adversario.",
-      "c": "Balísticos de largo alcance.",
-      "d": "De supresión electrónica permanente."
-    },
+    "pregunta": "Las misiones de información se caracterizan por producir principalmente efectos:",
+    "a": "Letales que degradan infraestructuras críticas.",
+    "b": "No letales, destinados a influir en la voluntad, entendimiento y comportamiento del adversario.",
+    "c": "Balísticos de largo alcance.",
+    "d": "De supresión electrónica permanente.",
     "correcta": "b"
   },
   {
-    "pregunta": "El reabastecimiento en vuelo (AAR) permite, entre otras ventajas: estas": {
-      "a": "Reducir la carga útil de las aeronaves receptoras.",
-      "b": "Disminuir el tiempo efectivo sobre el objetivo.",
-      "c": "Aumentar alcance, autonomía y carga de pago de aeronaves de combate.",
-      "d": "Eliminar la necesidad de planificación de misión."
-    },
+    "pregunta": "El reabastecimiento en vuelo (AAR) permite, entre otras ventajas:",
+    "a": "Reducir la carga útil de las aeronaves receptoras.",
+    "b": "Disminuir el tiempo efectivo sobre el objetivo.",
+    "c": "Aumentar alcance, autonomía y carga de pago de aeronaves de combate.",
+    "d": "Eliminar la necesidad de planificación de misión.",
     "correcta": "c"
   },
   {
-    "pregunta": "Mediante AAR, las aeronaves pueden: estas": {
-      "a": "Transportar más pasajeros que en configuraciones normales.",
-      "b": "Operar sin sistema de navegación inercial.",
-      "c": "Realizar misiones CAS sin coordinación terrestre.",
-      "d": "Evitar o reducir aterrizajes intermedios en misiones de largo alcance."
-    },
+    "pregunta": "Mediante AAR, las aeronaves pueden:",
+    "a": "Transportar más pasajeros que en configuraciones normales.",
+    "b": "Operar sin sistema de navegación inercial.",
+    "c": "Realizar misiones CAS sin coordinación terrestre.",
+    "d": "Evitar o reducir aterrizajes intermedios en misiones de largo alcance.",
     "correcta": "d"
   },
   {
-    "pregunta": "Dentro del ciclo ISR, la función de vigilancia se define como: estas": {
-      "a": "Observación continua y sistemática que permite identificar patrones de comportamiento y potenciales amenazas.",
-      "b": "Obtención puntual de información sobre fuerzas amigas.",
-      "c": "Distribución de inteligencia a niveles tácticos únicamente.",
-      "d": "Procesamiento de señales electromagnéticas para guerra electrónica."
-    },
+    "pregunta": "Dentro del ciclo ISR, la función de vigilancia se define como:",
+    "a": "Observación continua y sistemática que permite identificar patrones de comportamiento y potenciales amenazas.",
+    "b": "Obtención puntual de información sobre fuerzas amigas.",
+    "c": "Distribución de inteligencia a niveles tácticos únicamente.",
+    "d": "Procesamiento de señales electromagnéticas para guerra electrónica.",
     "correcta": "a"
   },
   {
-    "pregunta": "Una de las contribuciones ISR listadas es el apoyo al Dynamic Targeting y la persecución de Time Sensitive Targets mediante: estas": {
-      "a": "Detección de firmas acústicas submarinas.",
-      "b": "Transmisión de Full Motion Video (FMV) en tiempo real.",
-      "c": "Intercepción de comunicaciones HF.",
-      "d": "Empleo de Link‑11 para datos tácticos navales."
-    },
+    "pregunta": "Una de las contribuciones ISR listadas es el apoyo al Dynamic Targeting y la persecución de Time Sensitive Targets mediante:",
+    "a": "Detección de firmas acústicas submarinas.",
+    "b": "Transmisión de Full Motion Video (FMV) en tiempo real.",
+    "c": "Intercepción de comunicaciones HF.",
+    "d": "Empleo de Link-11 para datos tácticos navales.",
     "correcta": "b"
   },
   {
-    "pregunta": "La alerta temprana para la detección del lanzamiento de misiles balísticos se basa en sensores: estas": {
-      "a": "Electro‑ópticos de espectro visible.",
-      "b": "Lidar aerotransportados.",
-      "c": "Infrarrojos capaces de captar la fase de ignición.",
-      "d": "AIS de tráfico marítimo."
-    },
+    "pregunta": "La alerta temprana para la detección del lanzamiento de misiles balísticos se basa en sensores:",
+    "a": "Electro-ópticos de espectro visible.",
+    "b": "Lidar aerotransportados.",
+    "c": "Infrarrojos capaces de captar la fase de ignición.",
+    "d": "AIS de tráfico marítimo.",
     "correcta": "c"
   },
   {
-    "pregunta": "El concepto JISR implica, además de ISR aéreo, la integración de disciplinas como: estas": {
-      "a": "Sólo SIGINT y HUMINT.",
-      "b": "Únicamente OSINT para análisis de fuentes abiertas.",
-      "c": "Meteorología táctica y logística.",
-      "d": "SIGINT, HUMINT y OSINT dentro de un ciclo de inteligencia conjunto."
-    },
+    "pregunta": "El concepto JISR implica, además de ISR aéreo, la integración de disciplinas como:",
+    "a": "Sólo SIGINT y HUMINT.",
+    "b": "Únicamente OSINT para análisis de fuentes abiertas.",
+    "c": "Meteorología táctica y logística.",
+    "d": "SIGINT, HUMINT y OSINT dentro de un ciclo de inteligencia conjunto.",
     "correcta": "d"
   },
   {
-    "pregunta": "La misión de vigilancia y control del aire‑espacio en tiempo de paz tiene como objetivo principal: estas": {
-      "a": "Proporcionar seguridad a la población y al territorio minimizando riesgos de emergencias, catástrofes o actos terroristas.",
-      "b": "Maximizar el tráfico aéreo civil internacional.",
-      "c": "Incrementar la capacidad de transporte estratégico.",
-      "d": "Negar el espacio aéreo a aeronaves militares extranjeras aliadas."
-    },
+    "pregunta": "La misión de vigilancia y control del aire-espacio en tiempo de paz tiene como objetivo principal:",
+    "a": "Proporcionar seguridad a la población y al territorio minimizando riesgos de emergencias, catástrofes o actos terroristas.",
+    "b": "Maximizar el tráfico aéreo civil internacional.",
+    "c": "Incrementar la capacidad de transporte estratégico.",
+    "d": "Negar el espacio aéreo a aeronaves militares extranjeras aliadas.",
     "correcta": "a"
   },
   {
-    "pregunta": "Durante la Policía Aérea (QRA), una aeronave COMMLOSS suele generar una orden de: estas": {
-      "a": "Shadowing marítimo.",
-      "b": "Scramble para identificación visual (VID).",
-      "c": "Reabastecimiento en vuelo forzoso.",
-      "d": "Despliegue de JTAC terrestres."
-    },
+    "pregunta": "Durante la Policía Aérea (QRA), una aeronave COMMLOSS suele generar una orden de:",
+    "a": "Shadowing marítimo.",
+    "b": "Scramble para identificación visual (VID).",
+    "c": "Reabastecimiento en vuelo forzoso.",
+    "d": "Despliegue de JTAC terrestres.",
     "correcta": "b"
   },
   {
-    "pregunta": "Dentro de la gestión del tránsito aéreo (ATM), el objetivo declarado es: estas": {
-      "a": "Limitar la circulación aérea general en beneficio exclusivo de la operativa militar.",
-      "b": "Sustituir los servicios SAR por control militar remoto.",
-      "c": "Garantizar movimiento seguro y eficaz de las aeronaves mediante uso flexible del espacio aéreo.",
-      "d": "Habilitar únicamente rutas sobre el océano."
-    },
+    "pregunta": "Dentro de la gestión del tránsito aéreo (ATM), el objetivo declarado es:",
+    "a": "Limitar la circulación aérea general en beneficio exclusivo de la operativa militar.",
+    "b": "Sustituir los servicios SAR por control militar remoto.",
+    "c": "Garantizar movimiento seguro y eficaz de las aeronaves mediante uso flexible del espacio aéreo.",
+    "d": "Habilitar únicamente rutas sobre el océano.",
     "correcta": "c"
   },
   {
-    "pregunta": "El GRUCAO es la unidad responsable de: estas": {
-      "a": "Coordinación de operaciones de extinción de incendios.",
-      "b": "Gestión logística de combustible para AAR.",
-      "c": "Mantenimiento de aeronaves VIP.",
-      "d": "Control de la Circulación Aérea Operativa (CAO) y su coordinación con la Circulación Aérea General (CAG)."
-    },
+    "pregunta": "El GRUCAO es la unidad responsable de:",
+    "a": "Coordinación de operaciones de extinción de incendios.",
+    "b": "Gestión logística de combustible para AAR.",
+    "c": "Mantenimiento de aeronaves VIP.",
+    "d": "Control de la Circulación Aérea Operativa (CAO) y su coordinación con la Circulación Aérea General (CAG).",
     "correcta": "d"
   },
   {
-    "pregunta": "La conciencia situacional (SA) proporcionada por sensores y plataformas aéreas sirve principalmente para: estas": {
-      "a": "Anticipar y prevenir riesgos y amenazas a la seguridad nacional mediante información en tiempo real.",
-      "b": "Reemplazar la inteligencia humana en operaciones especiales.",
-      "c": "Regular la frecuencia de reabastecimientos en vuelo.",
-      "d": "Incrementar la letalidad estratégica nuclear."
-    },
+    "pregunta": "La conciencia situacional (SA) proporcionada por sensores y plataformas aéreas sirve principalmente para:",
+    "a": "Anticipar y prevenir riesgos y amenazas a la seguridad nacional mediante información en tiempo real.",
+    "b": "Reemplazar la inteligencia humana en operaciones especiales.",
+    "c": "Regular la frecuencia de reabastecimientos en vuelo.",
+    "d": "Incrementar la letalidad estratégica nuclear.",
     "correcta": "a"
   },
   {
-    "pregunta": "La vigilancia marítima contribuye, entre otros cometidos, a la lucha contra: estas": {
-      "a": "Ventiscas de polvo desértico.",
-      "b": "Terrorismo, crimen organizado e inmigración ilegal en aguas de responsabilidad.",
-      "c": "Redes de fibra óptica submarinas aliadas.",
-      "d": "Exploración minera en alta mar."
-    },
+    "pregunta": "La vigilancia marítima contribuye, entre otros cometidos, a la lucha contra:",
+    "a": "Ventiscas de polvo desértico.",
+    "b": "Terrorismo, crimen organizado e inmigración ilegal en aguas de responsabilidad.",
+    "c": "Redes de fibra óptica submarinas aliadas.",
+    "d": "Exploración minera en alta mar.",
     "correcta": "b"
   },
   {
-    "pregunta": "Según la definición SAR OTAN, las operaciones de búsqueda y salvamento implican: estas": {
-      "a": "Únicamente aeronaves de ala fija.",
-      "b": "Operaciones submarinas autónomas sin apoyo aéreo.",
-      "c": "Empleo coordinado de aeronaves, barcos, submarinos y equipos de rescate especializados para salvar personal en peligro.",
-      "d": "Uso exclusivo de satélites para rastreo de balizas."
-    },
+    "pregunta": "Según la definición SAR OTAN, las operaciones de búsqueda y salvamento implican:",
+    "a": "Únicamente aeronaves de ala fija.",
+    "b": "Operaciones submarinas autónomas sin apoyo aéreo.",
+    "c": "Empleo coordinado de aeronaves, barcos, submarinos y equipos de rescate especializados para salvar personal en peligro.",
+    "d": "Uso exclusivo de satélites para rastreo de balizas.",
     "correcta": "c"
   },
   {
-    "pregunta": "¿Cuántas Regiones SAR (SRR) y correspondientes ARCC existen en el territorio español? estas": {
-      "a": "Dos: Baleares y Madrid.",
-      "b": "Cuatro: Baleares, Canarias, Madrid y Galicia.",
-      "c": "Una única región nacional centralizada.",
-      "d": "Tres: Baleares, Canarias y Madrid."
-    },
+    "pregunta": "¿Cuántas Regiones SAR (SRR) y correspondientes ARCC existen en el territorio español?",
+    "a": "Dos: Baleares y Madrid.",
+    "b": "Cuatro: Baleares, Canarias, Madrid y Galicia.",
+    "c": "Una única región nacional centralizada.",
+    "d": "Tres: Baleares, Canarias y Madrid.",
     "correcta": "d"
   },
   {
-    "pregunta": "La unidad UMAER en una aeroevacuación sanitaria coopera directamente con: estas": {
-      "a": "Las fuerzas de CSAR y la UMAAD.",
-      "b": "El Grupo de Escoltas Navales.",
-      "c": "El Sistema de Control de Satélites Comerciales.",
-      "d": "La Dirección General de Tráfico."
-    },
+    "pregunta": "La unidad UMAER en una aeroevacuación sanitaria coopera directamente con:",
+    "a": "Las fuerzas de CSAR y la UMAAD.",
+    "b": "El Grupo de Escoltas Navales.",
+    "c": "El Sistema de Control de Satélites Comerciales.",
+    "d": "La Dirección General de Tráfico.",
     "correcta": "a"
   },
   {
-    "pregunta": "En apoyo a emergencias y catástrofes, la misión principal del 43 Grupo es: estas": {
-      "a": "Evacuación de autoridades VIP durante crisis.",
-      "b": "Extinción de incendios forestales con aeronaves anfibias CL‑215T/CL‑415.",
-      "c": "Intercepción de aeronaves hostiles de bajo rendimiento.",
-      "d": "Reabastecimiento en vuelo de helicópteros de rescate."
-    },
+    "pregunta": "En apoyo a emergencias y catástrofes, la misión principal del 43 Grupo es:",
+    "a": "Evacuación de autoridades VIP durante crisis.",
+    "b": "Extinción de incendios forestales con aeronaves anfibias CL-215T/CL-415.",
+    "c": "Intercepción de aeronaves hostiles de bajo rendimiento.",
+    "d": "Reabastecimiento en vuelo de helicópteros de rescate.",
     "correcta": "b"
   },
   {
-    "pregunta": "En transporte VIP, la orden de precedencia establece como primera prioridad a: estas": {
-      "a": "La Presidencia del Gobierno.",
-      "b": "Los Presidentes del Congreso y Senado.",
-      "c": "La Casa Real.",
-      "d": "Los Ministros del Gobierno ."
-    },
+    "pregunta": "En transporte VIP, la orden de precedencia establece como primera prioridad a:",
+    "a": "La Presidencia del Gobierno.",
+    "b": "Los Presidentes del Congreso y Senado.",
+    "c": "La Casa Real.",
+    "d": "Los Ministros del Gobierno.",
     "correcta": "c"
   }
 ]
