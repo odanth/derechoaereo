@@ -1,0 +1,342 @@
+[
+  {
+    "pregunta": "¿Cuál es la diferencia fundamental entre la supremacía y la superioridad aeroespacial?",
+    "respuestas": {
+      "a": "La supremacía concede libertad total de actuación a las fuerzas propias y anula la interferencia enemiga, la superioridad sólo garantiza libertad limitada con riesgo aceptable :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}",
+      "b": "La supremacía se limita a operaciones navales, la superioridad a operaciones terrestres",
+      "c": "No existe diferencia: son sinónimos doctrinales",
+      "d": "La supremacía es un grado menor que la superioridad"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En una operación Offensive Counter‑Air (OCA), ¿cuáles son los \"jugadores\" o tipos de capacidades principales que se emplean?",
+    "respuestas": {
+      "a": "Capacidades aéreas, antiaéreas y misiles :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}",
+      "b": "Artillería de campaña, infantería mecanizada y tanques",
+      "c": "Sistemas satelitales, ciberdefensa y guerra electrónica",
+      "d": "Buques de superficie, submarinos y vehículos anfibios"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La sigla IADS usada en DCA significa:",
+    "respuestas": {
+      "a": "Integrated Air Defense System :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}",
+      "b": "International Aerial Deployment Service",
+      "c": "Intelligence and Defense Support",
+      "d": "Initial Airborne Detection Scan"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué describe mejor la Interdicción Aérea (AI)?",
+    "respuestas": {
+      "a": "Ataques contra objetivos terrestres situados lo bastante lejos de las fuerzas propias, sin requerir coordinación estrecha con ellas :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}",
+      "b": "Proporcionar potencia de fuego inmediata en contacto cercano con tropas amigas",
+      "c": "Operaciones aéreas exclusivas sobre el mar",
+      "d": "Misiones de rescate en ambiente hostil"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El Apoyo Aéreo Cercano (CAS) se caracteriza por:",
+    "respuestas": {
+      "a": "Necesitar coordinación estrecha con fuerzas de superficie para evitar fratricidio :contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}",
+      "b": "Atacar objetivos profundos sin contacto con tropas amigas",
+      "c": "Reabastecer de combustible a los cazas en vuelo",
+      "d": "Vigilar permanentemente el espacio aéreo nacional"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Según la doctrina, la función ISR es un elemento decisivo para:",
+    "respuestas": {
+      "a": "Construir la conciencia situacional sobre la zona de operaciones :contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}",
+      "b": "Reabastecer de combustible a aviones cisterna",
+      "c": "Ejecutar operaciones de guerra psicológica",
+      "d": "Trasladar autoridades en misiones VIP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la ventaja principal del reabastecimiento en vuelo (AAR) para las aeronaves de combate?",
+    "respuestas": {
+      "a": "Aumentar su alcance, autonomía y carga útil reduciendo aterrizajes intermedios :contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}",
+      "b": "Disminuir su firma radar",
+      "c": "Permitir operaciones exclusivamente nocturnas",
+      "d": "Eliminar la necesidad de planificación de misión"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En AAR, ¿cómo se denominan respectivamente la aeronave que suministra combustible y la que lo recibe?",
+    "respuestas": {
+      "a": "Avión cisterna y aeronave receptora :contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}",
+      "b": "Tanker y shooter",
+      "c": "Proveedor y consumidor",
+      "d": "Carguero y interceptor"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La movilidad aérea se divide doctrinalmente en:",
+    "respuestas": {
+      "a": "Transporte aéreo y reabastecimiento en vuelo :contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}",
+      "b": "Vigilancia marítima y ataque estratégico",
+      "c": "Rescate de personal y apoyo a emergencias",
+      "d": "Contramarítima ofensiva y defensiva"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué unidad del Ejército del Aire y del Espacio está dedicada a la aeroevacuación sanitaria?",
+    "respuestas": {
+      "a": "Unidad Médica Aérea de Evacuación (UMAER) :contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}",
+      "b": "Ala 78",
+      "c": "Grupo 43",
+      "d": "GRUCAO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes unidades forma parte del servicio SAR del Ejército del Aire y del Espacio?",
+    "respuestas": {
+      "a": "Ala 48 (803 Escuadrón) :contentReference[oaicite:20]{index=20}:contentReference[oaicite:21]{index=21}",
+      "b": "45 Grupo",
+      "c": "Ala 14",
+      "d": "GRUALERCON"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuántas tareas componen una misión de Personnel Recovery (PR) según la doctrina?",
+    "respuestas": {
+      "a": "Cinco tareas :contentReference[oaicite:22]{index=22}:contentReference[oaicite:23]{index=23}",
+      "b": "Tres tareas",
+      "c": "Cuatro tareas",
+      "d": "Siete tareas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El Grupo de Circulación Aérea Operativa (GRUCAO) es responsable de:",
+    "respuestas": {
+      "a": "El control de la circulación aérea operativa y la coordinación con la circulación aérea general :contentReference[oaicite:24]{index=24}:contentReference[oaicite:25]{index=25}",
+      "b": "Extinguir incendios forestales con aviones anfibios",
+      "c": "Evacuar heridos en misiones internacionales",
+      "d": "Proporcionar reabastecimiento en vuelo"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La conciencia situacional (SA) para el Ejército del Aire se obtiene principalmente mediante:",
+    "respuestas": {
+      "a": "Sensores y plataformas aéreas que aportan información en tiempo real :contentReference[oaicite:26]{index=26}:contentReference[oaicite:27]{index=27}",
+      "b": "Mensajes de redes sociales",
+      "c": "Radares meteorológicos civiles",
+      "d": "Buques de superficie aliados"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el transporte de autoridades, ¿qué colectivo tiene la mayor prioridad según el orden de precedencia?",
+    "respuestas": {
+      "a": "La Casa Real :contentReference[oaicite:28]{index=28}:contentReference[oaicite:29]{index=29}",
+      "b": "La Presidencia del Gobierno",
+      "c": "Los Presidentes del Congreso y del Senado",
+      "d": "Los Ministros del Gobierno"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los medios aéreos preferentes para realizar misiones VIP son:",
+    "respuestas": {
+      "a": "T‑18 y T‑22 del 45 Grupo, así como los HT‑21/27 del 402 Escuadrón :contentReference[oaicite:30]{index=30}:contentReference[oaicite:31]{index=31}",
+      "b": "C‑295 del Ala 35",
+      "c": "CL‑215T del 43 Grupo",
+      "d": "Mirage F‑1 del Ala 14"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes bases aéreas militares españolas está abierta al tráfico aéreo civil?",
+    "respuestas": {
+      "a": "Matacán (Salamanca) :contentReference[oaicite:32]{index=32}:contentReference[oaicite:33]{index=33}",
+      "b": "Morón",
+      "c": "Getafe",
+      "d": "Los Llanos"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La misión principal del 43 Grupo del Ejército del Aire es:",
+    "respuestas": {
+      "a": "Extinción de incendios forestales :contentReference[oaicite:34]{index=34}:contentReference[oaicite:35]{index=35}",
+      "b": "Reabastecimiento en vuelo",
+      "c": "Aeroevacuación sanitaria",
+      "d": "Transporte VIP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Según la doctrina, ¿qué grado del control del aire‑espacio implica que la fuerza enemiga sea incapaz de interferir y las fuerzas propias gocen de libertad total de actuación?",
+    "respuestas": {
+      "a": "Supremacía aeroespacial",
+      "b": "Superioridad aeroespacial",
+      "c": "Control aéreo limitado",
+      "d": "Negación aérea"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué capacidades se consideran ‘jugadores’ principales en una misión Offensive Counter‑Air (OCA)?",
+    "respuestas": {
+      "a": "Capacidades aéreas, antiaéreas y misiles",
+      "b": "Satélites y submarinos",
+      "c": "Solo aviación de caza",
+      "d": "Defensas antimisil balístico únicamente"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En Defensa Aérea (DCA), la sigla IADS significa…",
+    "respuestas": {
+      "a": "Integrated Air Defense System",
+      "b": "Initial Air Deployment Scheme",
+      "c": "International Aeronautical Data Service",
+      "d": "Intelligence and Detection Squadron"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Dentro de las APCLO, la Interdicción Aérea (AI) se diferencia del Apoyo Aéreo Cercano (CAS) en que…",
+    "respuestas": {
+      "a": "AI no requiere estrecha coordinación con fuerzas propias, mientras CAS sí",
+      "b": "CAS se realiza siempre de noche y AI de día",
+      "c": "AI se ejecuta con helicópteros y CAS con aviones de transporte",
+      "d": "CAS busca objetivos estratégicos y AI tácticos"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El concepto JISR se distingue del ISR porque…",
+    "respuestas": {
+      "a": "Integra y armoniza el ciclo de inteligencia de forma conjunta entre dominios",
+      "b": "Se limita solamente a fuentes HUMINT",
+      "c": "Prescinde del procesamiento y diseminación de datos",
+      "d": "Es exclusivo de operaciones navales"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal del reabastecimiento en vuelo (AAR)?",
+    "respuestas": {
+      "a": "Aumentar alcance, autonomía y carga útil de las aeronaves receptoras",
+      "b": "Reducir peso al despegue del avión cisterna",
+      "c": "Cambiar tripulaciones en vuelo",
+      "d": "Realizar inspecciones técnicas en crucero"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La Movilidad Aérea se divide doctrinalmente en…",
+    "respuestas": {
+      "a": "Transporte aéreo y reabastecimiento en vuelo",
+      "b": "Asalto aéreo y patrulla",
+      "c": "Transporte VIP y transporte de tropas",
+      "d": "ISR y CSAR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué unidad especializada del Ejército del Aire realiza habitualmente las aeroevacuaciones sanitarias?",
+    "respuestas": {
+      "a": "UMAER",
+      "b": "GRUCAO",
+      "c": "Grupo 43",
+      "d": "Ala 78"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La definición OTAN de “Search and Rescue” (SAR) hace referencia al empleo de…",
+    "respuestas": {
+      "a": "Aeronaves, barcos, submarinos y equipos especializados para rescatar personal en peligro",
+      "b": "Únicamente helicópteros de rescate en tierra",
+      "c": "Vehículos terrestres blindados en zonas de combate",
+      "d": "Satélites de observación y drones"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la primera fase de una misión de Personnel Recovery (PR) según la doctrina?",
+    "respuestas": {
+      "a": "Preparación",
+      "b": "Planeamiento",
+      "c": "Ejecución",
+      "d": "Adaptación"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El GRUCAO es la unidad responsable de…",
+    "respuestas": {
+      "a": "El control de la Circulación Aérea Operativa y su coordinación con la Circulación Aérea General",
+      "b": "La dirección de operaciones de CSAR",
+      "c": "La gestión logística de combustibles",
+      "d": "La formación de pilotos de caza"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La Conciencia Situacional (SA) del Ejército del Aire se adquiere principalmente mediante…",
+    "respuestas": {
+      "a": "Sensores y plataformas aéreas que proporcionan información en tiempo real",
+      "b": "Informes periódicos de prensa",
+      "c": "Datos de satélites comerciales recibidos cada 24 horas",
+      "d": "Patrullas terrestres de reconocimiento"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el transporte de autoridades, ¿cuál es el primer escalón de prioridad según el orden de precedencia?",
+    "respuestas": {
+      "a": "Casa Real",
+      "b": "Presidencia del Gobierno",
+      "c": "JEMA",
+      "d": "Presidentes del Congreso y Senado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los medios aéreos preferentes para misiones VIP son…",
+    "respuestas": {
+      "a": "T‑18 y T‑22 del 45 Grupo y HT‑21/27 del 402 Escuadrón",
+      "b": "A400M y C‑295",
+      "c": "CL‑215T y CL‑415",
+      "d": "Eurofighter y F‑18"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes bases aéreas está abierta al tráfico aéreo civil?",
+    "respuestas": {
+      "a": "Talavera la Real (Badajoz)",
+      "b": "Morón",
+      "c": "Torrejón",
+      "d": "Alcantarilla"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La misión principal del 43 Grupo es…",
+    "respuestas": {
+      "a": "Extinción de incendios forestales",
+      "b": "Entrenamiento de pilotos de transporte",
+      "c": "Operaciones de guerra electrónica",
+      "d": "Control del espacio aéreo y alerta temprana"
+    },
+    "correcta": "a"
+  }
+]
