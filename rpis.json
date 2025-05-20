@@ -1,352 +1,352 @@
 [
   {
-    pregunta: "¿Qué significa la sigla RPAS?",
-    respuestas: [
-      a: "Remotely Piloted Aircraft System",
-      b: "Remotely Piloted Airborne Sensor",
-      c: "Remotely Piloted Aerial System",
-      d: "Remotely Piloted Armament System"
-    ],
-    correcta: "a"
+    "pregunta": "¿Qué significa la sigla RPAS?",
+    "respuestas": {
+      "a": "Remotely Piloted Aircraft System",
+      "b": "Remotely Piloted Airborne Sensor",
+      "c": "Remotely Piloted Aerial System",
+      "d": "Remotely Piloted Armament System"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "¿Cuál es la principal diferencia entre UAS y UAV?",
-    respuestas: [
-      a: "UAS se refiere solo a la aeronave",
-      b: "UAS incluye el vehículo y elementos asociados en un sistema completo",
-      c: "UAV incluye el vehículo y elementos asociados",
-      d: "UAV es el sistema completo incluyendo estación en tierra"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál es la principal diferencia entre UAS y UAV?",
+    "respuestas": {
+      "a": "UAS se refiere solo a la aeronave",
+      "b": "UAS incluye el vehículo y elementos asociados en un sistema completo",
+      "c": "UAV incluye el vehículo y elementos asociados",
+      "d": "UAV es el sistema completo incluyendo estación en tierra"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Cuál de estos NO forma parte del segmento de superficie de un RPAS?",
-    respuestas: [
-      a: "Estación de control en tierra (GCS)",
-      b: "Centro de mando y control",
-      c: "Satélite de comunicaciones",
-      d: "Centro de mantenimiento"
-    ],
-    correcta: "c"
+    "pregunta": "¿Cuál de estos NO forma parte del segmento de superficie de un RPAS?",
+    "respuestas": {
+      "a": "Estación de control en tierra (GCS)",
+      "b": "Centro de mando y control",
+      "c": "Satélite de comunicaciones",
+      "d": "Centro de mantenimiento"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Cuál de estos NO es un tipo de enlace de datos de RPAS?",
-    respuestas: [
-      a: "LOS",
-      b: "BLOS",
-      c: "VLOS",
-      d: "RLOS"
-    ],
-    correcta: "c"
+    "pregunta": "¿Cuál de estos NO es un tipo de enlace de datos de RPAS?",
+    "respuestas": {
+      "a": "LOS",
+      "b": "BLOS",
+      "c": "VLOS",
+      "d": "RLOS"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Qué corresponde la clasificación “HALE” en RPAS?",
-    respuestas: [
-      a: "Heavy Altitude Long Endurance",
-      b: "High Altitude Low Endurance",
-      c: "High Altitude Long Endurance",
-      d: "Horizontal Autonomy Low Endurance"
-    ],
-    correcta: "c"
+    "pregunta": "¿Qué corresponde la clasificación “HALE” en RPAS?",
+    "respuestas": {
+      "a": "Heavy Altitude Long Endurance",
+      "b": "High Altitude Low Endurance",
+      "c": "High Altitude Long Endurance",
+      "d": "Horizontal Autonomy Low Endurance"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Cuál es la altitud aproximada AGL para un RPAS HALE según EMAD?",
-    respuestas: [
-      a: "10 000 ft",
-      b: "18 000 ft",
-      c: "5 000 ft",
-      d: "3 000 ft"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál es la altitud aproximada AGL para un RPAS HALE según EMAD?",
+    "respuestas": {
+      "a": "10 000 ft",
+      "b": "18 000 ft",
+      "c": "5 000 ft",
+      "d": "3 000 ft"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Cuál es la masa típica de un RPAS mini?",
-    respuestas: [
-      a: "< 2 kg",
-      b: "> 2 kg y < 15 kg",
-      c: "< 150 kg",
-      d: "> 600 kg"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál es la masa típica de un RPAS mini?",
+    "respuestas": {
+      "a": "< 2 kg",
+      "b": "> 2 kg y < 15 kg",
+      "c": "< 150 kg",
+      "d": "> 600 kg"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Qué organismo es responsable de la segregación de espacio aéreo para RPAS?",
-    respuestas: [
-      a: "AEMET",
-      b: "OACI",
-      c: "OTAN",
-      d: "ARSEA"
-    ],
-    correcta: "d"
+    "pregunta": "¿Qué organismo es responsable de la segregación de espacio aéreo para RPAS?",
+    "respuestas": {
+      "a": "AEMET",
+      "b": "OACI",
+      "c": "OTAN",
+      "d": "ARSEA"
+    },
+    "correcta": "d"
   },
   {
-    pregunta: "¿Qué significa ZOUAS?",
-    respuestas: [
-      a: "Zona de Operación del UAS",
-      b: "Zona de Operaciones y Seguridad Aérea",
-      c: "Zona de Observación y Alerta Sorprendente",
-      d: "Zona de Operaciones Aéreas Sistemáticas"
-    ],
-    correcta: "a"
+    "pregunta": "¿Qué significa ZOUAS?",
+    "respuestas": {
+      "a": "Zona de Operación del UAS",
+      "b": "Zona de Operaciones y Seguridad Aérea",
+      "c": "Zona de Observación y Alerta Sorprendente",
+      "d": "Zona de Operaciones Aéreas Sistemáticas"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "¿Qué define ZOTER?",
-    respuestas: [
-      a: "ZOUAS más zona de protección",
-      b: "Zona de operaciones terrestres",
-      c: "Zona temporalmente reservada",
-      d: "Zona de tráfico especial"
-    ],
-    correcta: "a"
+    "pregunta": "¿Qué define ZOTER?",
+    "respuestas": {
+      "a": "ZOUAS más zona de protección",
+      "b": "Zona de operaciones terrestres",
+      "c": "Zona temporalmente reservada",
+      "d": "Zona de tráfico especial"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "Para operar RPAS clase II y III es obligatorio:",
-    respuestas: [
-      a: "Realizar vuelos nocturnos",
-      b: "Volver operable de forma autónoma",
-      c: "Presentar un plan de vuelos",
-      d: "Operar fuera de espacio aéreo segregado"
-    ],
-    correcta: "c"
+    "pregunta": "Para operar RPAS clase II y III es obligatorio:",
+    "respuestas": {
+      "a": "Realizar vuelos nocturnos",
+      "b": "Volver operable de forma autónoma",
+      "c": "Presentar un plan de vuelos",
+      "d": "Operar fuera de espacio aéreo segregado"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Cuál de estos NO está entre los STANAG relacionados con RPAS?",
-    respuestas: [
-      a: "STANAG 4586",
-      b: "STANAG 4670",
-      c: "STANAG 5000",
-      d: "STANAG 4737"
-    ],
-    correcta: "c"
+    "pregunta": "¿Cuál de estos NO está entre los STANAG relacionados con RPAS?",
+    "respuestas": {
+      "a": "STANAG 4586",
+      "b": "STANAG 4670",
+      "c": "STANAG 5000",
+      "d": "STANAG 4737"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Cuál de las siguientes NO es una capacidad de los RPAS?",
-    respuestas: [
-      a: "Persistencia no limitada por el factor humano",
-      b: "Vulnerabilidad al fuego enemigo",
-      c: "Explotación inmediata de la información",
-      d: "Actuar como señuelo y disuasión"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál de las siguientes NO es una capacidad de los RPAS?",
+    "respuestas": {
+      "a": "Persistencia no limitada por el factor humano",
+      "b": "Vulnerabilidad al fuego enemigo",
+      "c": "Explotación inmediata de la información",
+      "d": "Actuar como señuelo y disuasión"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Cuál NO es una limitación de los RPAS mini/micro?",
-    respuestas: [
-      a: "Exposición de los operadores",
-      b: "Viento prácticamente nulo necesario",
-      c: "Fragilidad de baterías en condiciones extremas",
-      d: "Alta velocidad de crucero"
-    ],
-    correcta: "d"
+    "pregunta": "¿Cuál NO es una limitación de los RPAS mini/micro?",
+    "respuestas": {
+      "a": "Exposición de los operadores",
+      "b": "Viento prácticamente nulo necesario",
+      "c": "Fragilidad de baterías en condiciones extremas",
+      "d": "Alta velocidad de crucero"
+    },
+    "correcta": "d"
   },
   {
-    pregunta: "¿En qué fases del proceso de decisión participan los RPAS?",
-    respuestas: [
-      a: "Planeamiento",
-      b: "Conducción",
-      c: "Evaluación",
-      d: "Todas las anteriores"
-    ],
-    correcta: "d"
+    "pregunta": "¿En qué fases del proceso de decisión participan los RPAS?",
+    "respuestas": {
+      "a": "Planeamiento",
+      "b": "Conducción",
+      "c": "Evaluación",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "d"
   },
   {
-    pregunta: "Según STANAG 4586, ¿qué nivel de interoperabilidad permite controlar totalmente el RPA?",
-    respuestas: [
-      a: "Nivel V",
-      b: "Nivel IV",
-      c: "Nivel III",
-      d: "Nivel II"
-    ],
-    correcta: "a"
+    "pregunta": "Según STANAG 4586, ¿qué nivel de interoperabilidad permite controlar totalmente el RPA?",
+    "respuestas": {
+      "a": "Nivel V",
+      "b": "Nivel IV",
+      "c": "Nivel III",
+      "d": "Nivel II"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "¿Qué nivel de interoperabilidad permite recibir imágenes y datos directamente desde el RPA?",
-    respuestas: [
-      a: "Nivel I",
-      b: "Nivel II",
-      c: "Nivel III",
-      d: "Nivel IV"
-    ],
-    correcta: "b"
+    "pregunta": "¿Qué nivel de interoperabilidad permite recibir imágenes y datos directamente desde el RPA?",
+    "respuestas": {
+      "a": "Nivel I",
+      "b": "Nivel II",
+      "c": "Nivel III",
+      "d": "Nivel IV"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Cuál es el propósito principal de la Directiva 07-11 JEMA?",
-    respuestas: [
-      a: "Regular el mantenimiento de RPAS",
-      b: "Establecer la doctrina de empleo",
-      c: "Implantar UAS de forma segura en espacio aéreo nacional",
-      d: "Certificar a los DUO"
-    ],
-    correcta: "c"
+    "pregunta": "¿Cuál es el propósito principal de la Directiva 07-11 JEMA?",
+    "respuestas": {
+      "a": "Regular el mantenimiento de RPAS",
+      "b": "Establecer la doctrina de empleo",
+      "c": "Implantar UAS de forma segura en espacio aéreo nacional",
+      "d": "Certificar a los DUO"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Qué sistema es un ejemplo de RPAS micro en España?",
-    respuestas: [
-      a: "Searcher MK-III",
-      b: "Black Hornet",
-      c: "Predator B MQ-9",
-      d: "SCANEAGLE"
-    ],
-    correcta: "b"
+    "pregunta": "¿Qué sistema es un ejemplo de RPAS micro en España?",
+    "respuestas": {
+      "a": "Searcher MK-III",
+      "b": "Black Hornet",
+      "c": "Predator B MQ-9",
+      "d": "SCANEAGLE"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Cuál es el peso aproximado del RPAS Raven RQ-11B?",
-    respuestas: [
-      a: "18 kg",
-      b: "2 kg",
-      c: "20 kg",
-      d: "50 kg"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál es el peso aproximado del RPAS Raven RQ-11B?",
+    "respuestas": {
+      "a": "18 kg",
+      "b": "2 kg",
+      "c": "20 kg",
+      "d": "50 kg"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Qué RPAS europeo MALE tiene un MTOW aproximado de 11 000 kg?",
-    respuestas: [
-      a: "Global Hawk",
-      b: "EuroMale",
-      c: "MALE 25",
-      d: "Predator B"
-    ],
-    correcta: "c"
+    "pregunta": "¿Qué RPAS europeo MALE tiene un MTOW aproximado de 11 000 kg?",
+    "respuestas": {
+      "a": "Global Hawk",
+      "b": "EuroMale",
+      "c": "MALE 25",
+      "d": "Predator B"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Quién publicó el “Concepto Conjunto de RPAS” en febrero de 2015?",
-    respuestas: [
-      a: "OACI",
-      b: "NATO",
-      c: "EMAD",
-      d: "DGAM"
-    ],
-    correcta: "c"
+    "pregunta": "¿Quién publicó el “Concepto Conjunto de RPAS” en febrero de 2015?",
+    "respuestas": {
+      "a": "OACI",
+      "b": "NATO",
+      "c": "EMAD",
+      "d": "DGAM"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Cuál es la altura máxima AGL permitida para vuelo VLOS con RPAS < 15 kg?",
-    respuestas: [
-      a: "120 m sobre el obstáculo más alto",
-      b: "400 m sobre el nivel del mar",
-      c: "500 m sobre el obstáculo",
-      d: "50 m sobre el obstáculo"
-    ],
-    correcta: "a"
+    "pregunta": "¿Cuál es la altura máxima AGL permitida para vuelo VLOS con RPAS < 15 kg?",
+    "respuestas": {
+      "a": "120 m sobre el obstáculo más alto",
+      "b": "400 m sobre el nivel del mar",
+      "c": "500 m sobre el obstáculo",
+      "d": "50 m sobre el obstáculo"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "¿Qué misión NO corresponde a las capacidades militares del RPAS?",
-    respuestas: [
-      a: "Reconocimiento CBRN",
-      b: "Ataque armando de precisión",
-      c: "Reabastecimiento de combustible en vuelo",
-      d: "SAR/CSAR"
-    ],
-    correcta: "c"
+    "pregunta": "¿Qué misión NO corresponde a las capacidades militares del RPAS?",
+    "respuestas": {
+      "a": "Reconocimiento CBRN",
+      "b": "Ataque armando de precisión",
+      "c": "Reabastecimiento de combustible en vuelo",
+      "d": "SAR/CSAR"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Qué significa C-UAS?",
-    respuestas: [
-      a: "Contra Sistemas Aéreos No Tripulados",
-      b: "Coordinación de UAS",
-      c: "Control Unificado de Aeronaves",
-      d: "Conectividad UAS"
-    ],
-    correcta: "a"
+    "pregunta": "¿Qué significa C-UAS?",
+    "respuestas": {
+      "a": "Contra Sistemas Aéreos No Tripulados",
+      "b": "Coordinación de UAS",
+      "c": "Control Unificado de Aeronaves",
+      "d": "Conectividad UAS"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "¿Cuál NO es una característica de la amenaza UAS LSS?",
-    respuestas: [
-      a: "Gran capacidad de carga",
-      b: "Alta firma acústica",
-      c: "Bajo coste y facilidad de manejo",
-      d: "Superficie radar muy pequeña"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál NO es una característica de la amenaza UAS LSS?",
+    "respuestas": {
+      "a": "Gran capacidad de carga",
+      "b": "Alta firma acústica",
+      "c": "Bajo coste y facilidad de manejo",
+      "d": "Superficie radar muy pequeña"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Qué elemento NO es parte del segmento aéreo de un RPAS?",
-    respuestas: [
-      a: "Estructura del vehículo",
-      b: "Piloto automático",
-      c: "Transmisor de datos satelital",
-      d: "Hilo de recuperación"
-    ],
-    correcta: "d"
+    "pregunta": "¿Qué elemento NO es parte del segmento aéreo de un RPAS?",
+    "respuestas": {
+      "a": "Estructura del vehículo",
+      "b": "Piloto automático",
+      "c": "Transmisor de datos satelital",
+      "d": "Hilo de recuperación"
+    },
+    "correcta": "d"
   },
   {
-    pregunta: "¿Cuál es la autonomía aproximada del MQ-9 Reaper?",
-    respuestas: [
-      a: "24 horas",
-      b: "28 horas",
-      c: "36 horas",
-      d: "50 horas"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál es la autonomía aproximada del MQ-9 Reaper?",
+    "respuestas": {
+      "a": "24 horas",
+      "b": "28 horas",
+      "c": "36 horas",
+      "d": "50 horas"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Cuál es el alcance típico de un RPAS SMALL?",
-    respuestas: [
-      a: "25 km",
-      b: "50 km",
-      c: "200 km",
-      d: "5 km"
-    ],
-    correcta: "b"
+    "pregunta": "¿Cuál es el alcance típico de un RPAS SMALL?",
+    "respuestas": {
+      "a": "25 km",
+      "b": "50 km",
+      "c": "200 km",
+      "d": "5 km"
+    },
+    "correcta": "b"
   },
   {
-    pregunta: "¿Qué capacidad permite a los RPAS actuar como señuelo o disuasión?",
-    respuestas: [
-      a: "Transferencia de control",
-      b: "Alta velocidad de crucero",
-      c: "Actuar como señuelo, disuasión o decepción",
-      d: "Persistencia limitada"
-    ],
-    correcta: "c"
+    "pregunta": "¿Qué capacidad permite a los RPAS actuar como señuelo o disuasión?",
+    "respuestas": {
+      "a": "Transferencia de control",
+      "b": "Alta velocidad de crucero",
+      "c": "Actuar como señuelo, disuasión o decepción",
+      "d": "Persistencia limitada"
+    },
+    "correcta": "c"
   },
   {
-    pregunta: "¿Qué documento de la OACI regula la terminología y clasificación de RPAS?",
-    respuestas: [
-      a: "Doc 10019",
-      b: "Doc 4670",
-      c: "Doc 4586",
-      d: "Doc 7232"
-    ],
-    correcta: "a"
+    "pregunta": "¿Qué documento de la OACI regula la terminología y clasificación de RPAS?",
+    "respuestas": {
+      "a": "Doc 10019",
+      "b": "Doc 4670",
+      "c": "Doc 4586",
+      "d": "Doc 7232"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "¿Cuál es la principal ventaja logística de los RPAS?",
-    respuestas: [
-      a: "Alta velocidad",
-      b: "Gran tonelaje",
-      c: "Autonomía ilimitada",
-      d: "Menor huella logística"
-    ],
-    correcta: "d"
+    "pregunta": "¿Cuál es la principal ventaja logística de los RPAS?",
+    "respuestas": {
+      "a": "Alta velocidad",
+      "b": "Gran tonelaje",
+      "c": "Autonomía ilimitada",
+      "d": "Menor huella logística"
+    },
+    "correcta": "d"
   },
   {
-    pregunta: "¿Qué significa LOS en el contexto de enlaces de datos de RPAS?",
-    respuestas: [
-      a: "Link Over Satellite",
-      b: "Low Operational Security",
-      c: "Loss Of Signal",
-      d: "Line Of Sight"
-    ],
-    correcta: "d"
+    "pregunta": "¿Qué significa LOS en el contexto de enlaces de datos de RPAS?",
+    "respuestas": {
+      "a": "Link Over Satellite",
+      "b": "Low Operational Security",
+      "c": "Loss Of Signal",
+      "d": "Line Of Sight"
+    },
+    "correcta": "d"
   },
   {
-    pregunta: "¿Qué regulación civil aplica a RPAS de 0 – 25 kg en España?",
-    respuestas: [
-      a: "RD 1036/2017",
-      b: "Directiva 07-11 JEMA",
-      c: "STANAG 4670",
-      d: "NATO UAS Policy"
-    ],
-    correcta: "a"
+    "pregunta": "¿Qué regulación civil aplica a RPAS de 0 – 25 kg en España?",
+    "respuestas": {
+      "a": "RD 1036/2017",
+      "b": "Directiva 07-11 JEMA",
+      "c": "STANAG 4670",
+      "d": "NATO UAS Policy"
+    },
+    "correcta": "a"
   },
   {
-    pregunta: "¿Qué aspecto del adiestramiento recomienda el Concepto Conjunto EMAD?",
-    respuestas: [
-      a: "Entrenamiento exclusivamente en vuelo real",
-      b: "Integrar ejercicios avanzados en simuladores y en conjunto con otras unidades",
-      c: "Adiestramiento teórico sin práctica",
-      d: "Evitar ejercicios conjuntos con aviación tripulada"
-    ],
-    correcta: "b"
+    "pregunta": "¿Qué aspecto del adiestramiento recomienda el Concepto Conjunto EMAD?",
+    "respuestas": {
+      "a": "Entrenamiento exclusivamente en vuelo real",
+      "b": "Integrar ejercicios avanzados en simuladores y en conjunto con otras unidades",
+      "c": "Adiestramiento teórico sin práctica",
+      "d": "Evitar ejercicios conjuntos con aviación tripulada"
+    },
+    "correcta": "b"
   }
 ]
