@@ -1,0 +1,752 @@
+[
+  {
+    "pregunta": "¿Cuál de los siguientes es un principio de TCCC?",
+    "respuestas": {
+      "a": "Tratar a la víctima",
+      "b": "Evitar víctimas adicionales",
+      "c": "Completar la misión",
+      "d": "Todo lo anterior"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una de las tres fases de la atención en TCCC?",
+    "respuestas": {
+      "a": "Cuidado bajo fuego",
+      "b": "Cuidado táctico de campo",
+      "c": "Atención táctica de evacuación",
+      "d": "Combatir la atención que salva vidas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es apropiado para la fase de Cuidado Bajo el Fuego?",
+    "respuestas": {
+      "a": "Iniciar una vía intravenosa",
+      "b": "Control desangrado de una herida que apenas sangra",
+      "c": "Control del sangrado masivo con un torniquete en las extremidades",
+      "d": "Todo lo anterior"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Las causas de muerte evitables más comunes en combate son:",
+    "respuestas": {
+      "a": "Hemorragias exanguinantes en extremidades",
+      "b": "Neumotórax a tensión",
+      "c": "Problemas de la Vía Aérea",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Nuestro compañero es alcanzado por fuego enemigo, ¿qué es lo primero que tendría que hacer?",
+    "respuestas": {
+      "a": "Dejar mi arma y salir corriendo a rescatarlo",
+      "b": "Salir corriendo para evitar más bajas",
+      "c": "Ponerme a cubierto y continuar disparando hasta idear un plan de rescate",
+      "d": "Quitarle el arma al herido"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo lleva morir desangrado por una sección completa de arteria y vena femoral?",
+    "respuestas": {
+      "a": "4 minutos",
+      "b": "Una persona no puede morir desangrada por una sección completa de arteria y vena",
+      "c": "3 minutos",
+      "d": "30 segundos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el tratamiento médico de elección ante un sangrado masivo de un compañero, mientras haya peligro de ser alcanzado por fuego enemigo?",
+    "respuestas": {
+      "a": "Presión directa de la herida",
+      "b": "Torniquetes",
+      "c": "A y B son correctas",
+      "d": "Hemostáticos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Al poner un torniquete, ¿qué tengo que tener en cuenta?",
+    "respuestas": {
+      "a": "Puede producir mucho dolor al herido, por lo que debo aflojarlo",
+      "b": "Una vez puesto, debo aflojar cada 15 minutos",
+      "c": "Los torniquetes pueden estar puestos 48 horas sin producir daños adicionales a la baja",
+      "d": "Al poner el torniquete debo apuntar la hora"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué es cierto sobre el torniquete?",
+    "respuestas": {
+      "a": "Puedo necesitar la aplicación de un segundo torniquete",
+      "b": "Debo colocarlo distal a la herida sangrante",
+      "c": "Si es necesario, puedo utilizarlo en heridas leves con poco sangrado",
+      "d": "Todas son correctas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Algunas heridas están localizadas en lugares en los que no se puede aplicar un torniquete, pero sí hemostáticos; ¿cuáles son?",
+    "respuestas": {
+      "a": "Cuello, axilas, ingles",
+      "b": "Axilas, ingles y abdomen",
+      "c": "Cuello, abdomen y tórax",
+      "d": "Abdomen, tórax y pelvis"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale la respuesta verdadera:",
+    "respuestas": {
+      "a": "Las armas nucleares son dispositivos explosivos con fines bélicos que liberan su energía como consecuencia de reacciones de fusión de átomos pesados y fisión de átomos ligeros",
+      "b": "Una de las características fundamentales de la producción de un agente químico es su alto coste y su facilidad para enmascararlo con otro tipo de productos",
+      "c": "Todas las opciones son incorrectas",
+      "d": "La defensa contra ataques terrestres o aéreos de naturaleza NRBQ pertenece a la célula de defensa activa"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta:",
+    "respuestas": {
+      "a": "Dentro de las explosiones nucleares las aéreas de baja altura se producen a unos 40km de la superficie terrestre",
+      "b": "Un dispositivo de exposición radiológica se compone de un material radiactivo adosado a un explosivo convencional que facilita o favorece su dispersión",
+      "c": "Los principales efectos que pretendemos generar con un RDD son de carácter altamente destructivo",
+      "d": "El sistema de accionamiento de las bombas nucleares puede ser de tipo cañón, por implosión y por reacción en cadena"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta:",
+    "respuestas": {
+      "a": "La principal vía de entrada de los agentes cianógenos y vesicantes es la inhalación respiratoria",
+      "b": "Los agentes químicos letales se clasifican en vesicantes, nerviosos, sofocantes y respiratorios",
+      "c": "Una de las características fundamentales de la contaminación por agentes neurotóxicos es que actúan muy rápidamente, pero son muy poco eficaces sobre las personas",
+      "d": "Una de las características de los agentes neurotóxicos es que afectan a la acetilcolina"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la respuesta incorrecta:",
+    "respuestas": {
+      "a": "Los agentes vesicantes generan quemazón e irritación pero sin llegar a conformar ampollas",
+      "b": "Los agentes lacrimógenos o los eméticos (vomitivos) se catalogan generalmente como agentes neutralizantes",
+      "c": "Un agente químico incapacitante físico es por definición un agente químico letal empleado en bajas concentraciones con el único fin de dejar bajas para el combate sin causar muertes",
+      "d": "La iperita suele ser muy persistente mientras que el difosgeno suele ser muy poco persistente"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale la respuesta verdadera:",
+    "respuestas": {
+      "a": "Las vías de entrada de los agentes biológicos son inhalación, absorción, ingestión y sabotaje",
+      "b": "Los agentes químicos se caracterizan por ser fácilmente producibles",
+      "c": "Todas las opciones son verdaderas",
+      "d": "La puesta del equipo NRBQ (EPI) completo con máscara no debe ser mayor de 7 minutos bajo ningún concepto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale respuesta verdadera:",
+    "respuestas": {
+      "a": "Los agentes biológicos se pueden clasificar en agentes vivos y en toxinas",
+      "b": "La señalización de presencia de agentes TIM es un triángulo de color verde y letras amarillas, con el texto de TOXIC",
+      "c": "Ante un ataque NRBQ inminente colocaremos un triángulo rojo perfectamente visible para todos los miembros de nuestra fuerza",
+      "d": "Según el AJP 3.8 en el dress state 3 nos pondremos el traje completo, cubrebotas y guantes"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale respuesta incorrecta:",
+    "respuestas": {
+      "a": "Ante la presencia de una fuente de radiación, siempre que sea posible, trataremos de blindarla y aplicar el concepto ALARA",
+      "b": "El uniforme NRBQ (EPI) nos protege ante radiaciones alfa, beta y gamma",
+      "c": "La capa exterior del uniforme NRBQ es retardante del fuego, pero no es totalmente ignífugo",
+      "d": "Es fundamental ante fuentes de radiación aplicar la secuencia Distancia+Tiempo+Blindaje para una óptima protección de nuestro personal"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Señale la respuesta más idónea:",
+    "respuestas": {
+      "a": "El uniforme EPI en ambiente convencional en situación hermética es de 15 años",
+      "b": "Los guantes exteriores son válidos para trabajar en ambientes con contaminación química y manipular sustancias como la gasolina",
+      "c": "El uniforme EPI nos protege ante radiaciones gamma durante un periodo máximo de 24 h",
+      "d": "La vida útil de los guantes en una zona de contaminación intermedia es de 6 h aproximadamente y el filtro de 1 h"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la respuesta incorrecta:",
+    "respuestas": {
+      "a": "La máscara y filtro NRBQ militar son recomendados para operar en ambientes contaminados por artefactos fumígenos con baja concentración de oxígeno",
+      "b": "En instrucción a la hora de retirarnos el uniforme lo primero que nos quitaremos serán los cubrebotas",
+      "c": "La máscara NBQR nos protege ante partículas de radiación alfa y beta",
+      "d": "En un ejercicio tipo OTAN la última parte del equipo que nos pondremos será la máscara, mientras que en instrucción convencional será lo primero que nos pondremos en un máximo de 9 segundos"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale la respuesta verdadera:",
+    "respuestas": {
+      "a": "Haremos un cambio de filtro siempre que lo ordene el mando, aunque no se hayan cubierto los tiempos máximos de exposición",
+      "b": "Aunque nuestro filtro se haya mojado por inmersión no quiere decir que haya que sustituirlo urgentemente sobre todo si se ha secado correctamente",
+      "c": "El filtro mecánico es lo que nos salva de la inhalación, en algunos casos, de vapores o gases tóxicos presentes en el aire",
+      "d": "Todas las opciones son correctas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de la siguiente arma no es de dotación del EA?",
+    "respuestas": {
+      "a": "Fusil HK G36 E",
+      "b": "Fusil HK G36 KV",
+      "c": "P90",
+      "d": "M-16"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué calibre tiene el G36?",
+    "respuestas": {
+      "a": "5.56mm",
+      "b": "5.36mm",
+      "c": "7.62mm",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué arma de dotación en el EA tiene calibre 7.62mm?",
+    "respuestas": {
+      "a": "FN MAG",
+      "b": "Browning M2",
+      "c": "G36 KV",
+      "d": "MINIMI MK2"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto al fusil Accuracy, puedo afirmar que…",
+    "respuestas": {
+      "a": "Es un fusil de precisión de calibre 7,62mm y lo tiene de dotación el EADA y el EZAPAC, entre otras unidades",
+      "b": "Es un fusil de precisión de calibre 12,70mm y lo tiene de dotación el EADA y el EZAPAC, entre otras unidades",
+      "c": "Es un fusil de apoyo al fuego, que consta de diversos calibres y es operado en exclusiva por el EZAPAC",
+      "d": "Lo habitual es operarlo desde un vehículo táctico de alta movilidad"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto al fusil P-90, ¿cuál es la respuesta verdadera?",
+    "respuestas": {
+      "a": "Es un fusil que usan las Policías Aéreas para dar seguridad a las bases aéreas, pero no a los EVA's (Escuadrones de Vigilancia Aérea)",
+      "b": "Es un fusil con una munición de calibre 5,70mm, igual que la pistola Five-Seven, pistola de dotación en la base aérea de San Javier y en los equipos de escoltas del GRUSEC",
+      "c": "Es un fusil que no está de dotación en el EA, pero sí en la FAS",
+      "d": "Todas las anteriores son falsas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué diferentes actitudes tiene el líder en la teoría del comportamiento?",
+    "respuestas": {
+      "a": "Autoritario",
+      "b": "Democrático",
+      "c": "Laissez faire",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Variables a tener en cuenta en la Teoría de Liderazgo Situacional o de Contingencias:",
+    "respuestas": {
+      "a": "Orientado a la tarea y a las personas",
+      "b": "Tiene en cuenta la madurez de los subordinados",
+      "c": "Ninguna de las anteriores",
+      "d": "a) y b) son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué tipos de liderazgo se dan en el modelo de liderazgo de Hersey y Blanchard?",
+    "respuestas": {
+      "a": "Instructor, Persuasivo, Participativo y Autoritario",
+      "b": "Autoritario, Democrático, Laissez faire y Timonel",
+      "c": "Instructor, Persuasivo, Participativo y Delegador",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En el modelo de liderazgo de la rejilla gerencial de Blake y Mouton la situación 1.1 corresponde a un liderazgo:",
+    "respuestas": {
+      "a": "Empobrecido",
+      "b": "Club de campo",
+      "c": "Produzca o fallezca",
+      "d": "Equipo"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el modelo de liderazgo de la rejilla gerencial de Blake y Mouton la situación 9.1 corresponde a un liderazgo:",
+    "respuestas": {
+      "a": "Empobrecido",
+      "b": "Club de campo",
+      "c": "Produzca o fallezca",
+      "d": "Equipo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Según la Teoría X e Y de McGregor, en la Teoría X:",
+    "respuestas": {
+      "a": "A los empleados les gusta el trabajo",
+      "b": "A los empleados les disgusta el trabajo",
+      "c": "Los empleados ven el trabajo como un juego",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según la Teoría X e Y de McGregor, en la Teoría Y:",
+    "respuestas": {
+      "a": "A los empleados les gusta el trabajo",
+      "b": "A los empleados les disgusta el trabajo",
+      "c": "Los empleados ven el trabajo como un juego",
+      "d": "a) y c) son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El Jefe o Líder: Elije la respuesta correcta.",
+    "respuestas": {
+      "a": "El Líder dirige comportamientos, pero no influye en la actitud",
+      "b": "El Jefe dirige comportamientos, pero no influye en la actitud",
+      "c": "El Jefe dirige comportamiento y genera actitud positiva",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué psicólogo fue el autor de la teoría de liderazgo resonante?",
+    "respuestas": {
+      "a": "Marco Cialdini",
+      "b": "Hezberg",
+      "c": "Hersey & Blanchard",
+      "d": "Daniel Goleman"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Qué valores son prioritarios para el ejercicio del Liderazgo en el EA, según la IG 00-4:",
+    "respuestas": {
+      "a": "Disciplina",
+      "b": "Solidaridad",
+      "c": "Respeto",
+      "d": "La a) y la b), son la respuesta correcta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los extintores que podemos encontrar en la unidad pueden ser:",
+    "respuestas": {
+      "a": "De polvo",
+      "b": "De C0",
+      "c": "De CO2",
+      "d": "A y C son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El teléfono de emergencias de la Unidad es:",
+    "respuestas": {
+      "a": "112",
+      "b": "2200",
+      "c": "2222",
+      "d": "0022"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Para que exista fuego, debe existir tres elementos obligatoriamente. Señala la respuesta falsa.",
+    "respuestas": {
+      "a": "Combustible",
+      "b": "Comburente",
+      "c": "Calor",
+      "d": "Energía de activación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa que un fuego es de tipo A?",
+    "respuestas": {
+      "a": "Que su material combustible es líquido",
+      "b": "Que su material combustible es sólido",
+      "c": "Que se debe sofocar con un extintor de CO2",
+      "d": "Que existe riesgo eléctrico"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué significa el acrónimo PAS en relación a las emergencias?",
+    "respuestas": {
+      "a": "Proteger, auxiliar y socorrer",
+      "b": "Proteger, avisar y socorrer",
+      "c": "Plantar, auxiliar y sofocar",
+      "d": "Proteger, auxiliar y sofocar"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Es adecuado usar un extintor de polvo en un incendio con presencia eléctrica?",
+    "respuestas": {
+      "a": "Sí",
+      "b": "No",
+      "c": "A veces",
+      "d": "Depende de las especificaciones del extintor"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿A quién debo avisar en caso de que me encuentre un extintor en mi dependencia en mal estado?",
+    "respuestas": {
+      "a": "Al cuartelero",
+      "b": "A la SRCI",
+      "c": "Al servicio de prevención para que avise a la SRCI",
+      "d": "A nadie"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "A la hora de usar un extintor, señala la respuesta correcta:",
+    "respuestas": {
+      "a": "Compruebo que el extintor es el adecuado, presurizo si es necesario, hago un disparo de prueba y dirijo el agente extintor a la base de la llama",
+      "b": "Presurizo el extintor en caso necesario, me dirijo de frente al incendio y dirijo el extintor a la base de la llama",
+      "c": "Presurizo el extintor, hago un disparo de prueba y me dirijo de frente al incendio disparando el agente extintor a la base de la llama",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En caso de emergencia, señala la correcta:",
+    "respuestas": {
+      "a": "Usaré siempre un extintor para facilitar las tareas a las SRCI",
+      "b": "Hay que evacuar siempre el edificio",
+      "c": "Llamo a la SRCI y abandono el lugar",
+      "d": "Todas son incorrectas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué precauciones debo tener al usar una BIE?",
+    "respuestas": {
+      "a": "Usar siempre guantes de protección",
+      "b": "Echar la máxima cantidad de agua por minuto",
+      "c": "Tener presente si hay presencia eléctrica en el incendio",
+      "d": "Las BIES sólo las puede usar personal de la SRCI"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la correcta: ¿Qué es Supervivencia?",
+    "respuestas": {
+      "a": "Acción y efecto de sobrevivir",
+      "b": "Conservación de la vida a pesar de una situación difícil o un momento de peligro",
+      "c": "Situación nacida de otra táctica en la que el combatiente se ve obligado a subsistir con recursos disminuidos, manteniendo las condiciones físicas y mentales para seguir combatiendo",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la correcta: Factores que influyen en la supervivencia.",
+    "respuestas": {
+      "a": "Factores humanos, medioambientales, individuales",
+      "b": "Factores humanos, psicológicos, voluntad de sobrevivir",
+      "c": "Factores morales, físicos, psicológicos",
+      "d": "Todas son falsas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Tras la vivencia de una eyección, amerizaje, aterrizaje forzoso u otra situación de emergencia, se debe tomar las siguientes acciones:",
+    "respuestas": {
+      "a": "Evaluar situación y condición física",
+      "b": "Ocultar el equipo no necesario",
+      "c": "PLWF",
+      "d": "A y B son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué requisitos debe cumplir el Hole-up site? Señale la falsa:",
+    "respuestas": {
+      "a": "Debe permitirme ocultación aérea y terrestre",
+      "b": "Debe estar cerca de las vías de comunicación",
+      "c": "Debe tener varias rutas de escape",
+      "d": "Debe permitir observar y escuchar"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En la evasión debemos:",
+    "respuestas": {
+      "a": "Evitar movimientos innecesarios",
+      "b": "Aplicar la regla SOLO",
+      "c": "Llevar los equipos tecnológicos en silencio",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Buscar un punto prominente detrás del obstáculo, rodear éste y seguir hacia el punto se llama…",
+    "respuestas": {
+      "a": "Dogleg",
+      "b": "Cambio de rumbo deliberado",
+      "c": "Handrailing",
+      "d": "Todas son falsas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Ir de un punto a otro en línea recta y talonar la distancia entre ambos puntos se llama…",
+    "respuestas": {
+      "a": "Circunnavegación",
+      "b": "Ruta directa",
+      "c": "Punto a punto",
+      "d": "Handrailing"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿En qué documentos nos basamos para elaborar nuestro EPA?",
+    "respuestas": {
+      "a": "SPINS",
+      "b": "TTPs",
+      "c": "4T’s",
+      "d": "LLM"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿En qué sistema está la siguiente coordenada? 30T VK 41839 62236",
+    "respuestas": {
+      "a": "UTM",
+      "b": "MGRS",
+      "c": "WGS-84",
+      "d": "LAT-LON"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Cuando la recuperación requiere un planeamiento detallado, un profundo análisis de inteligencia y es realizado por un SOF hablamos de:",
+    "respuestas": {
+      "a": "NAR",
+      "b": "UAR",
+      "c": "CR",
+      "d": "CSAR"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Se llega a ser buen orador con:",
+    "respuestas": {
+      "a": "Práctica",
+      "b": "Experiencia",
+      "c": "a) y b) son correctas",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En la fase de preparación se debe:",
+    "respuestas": {
+      "a": "Definir el Objetivo",
+      "b": "Nos debemos documentar",
+      "c": "Se debe ensayar",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En la confección del guion se dice que lo que se va a decir, se dice y se dice lo que se ha dicho.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En la fase de preparación en los ensayos:",
+    "respuestas": {
+      "a": "Se coge confianza y ayuda a desaparecer los nervios",
+      "b": "No se puede corregir los defectos de dicción, volumen y tono de voz porque son propios",
+      "c": "Se retoca el guion con ejemplos y anécdotas",
+      "d": "a) y c) son ciertas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En la fase de preparación en el estudio del local:",
+    "respuestas": {
+      "a": "Debemos controlar el tiempo en llegar al local",
+      "b": "Debemos estudiar el tamaño del local y disposición del público",
+      "c": "Comprobar los medios que vamos a utilizar",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "En la fase de exposición los nervios suelen desaparecer:",
+    "respuestas": {
+      "a": "Permanecer callados antes del discurso",
+      "b": "Practicar hablar en público con frecuencia ayuda reducir los nervios",
+      "c": "Siempre estaremos muy nerviosos y no pueden desaparecer",
+      "d": "Todas son falsas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿En qué tanto por ciento está presente el lenguaje corporal en un discurso?",
+    "respuestas": {
+      "a": "7%",
+      "b": "55%",
+      "c": "38%",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un discurso es mejor extenderlo lo máximo posible si controlamos el tema.",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un orador convence por la fuerza de sus razonamientos:",
+    "respuestas": {
+      "a": "Verdadero",
+      "b": "Falso",
+      "c": "",
+      "d": ""
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según Art Fetting hay que seguir unos pasos para tener al público entregado:",
+    "respuestas": {
+      "a": "Responder con gratitud y sentido del humor",
+      "b": "Contar algo divertido relacionado con el público",
+      "c": "Conseguir que el público aplauda a alguien o a algo",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Los medios de detección de Defensa Aérea tienen dificultades para detectar la amenaza CUAS LSS. ¿Cuáles son motivos de ello?",
+    "respuestas": {
+      "a": "Vuelo a baja altura, baja velocidad, y escasa RCS",
+      "b": "Sistemas de control remoto cifrados y seguros",
+      "c": "Presentan amenazas tanto voluntarias como involuntarias",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes puede ser Centro Local de Actuación (CLA) en una UCO?",
+    "respuestas": {
+      "a": "BOC",
+      "b": "Cuerpo de Guardia",
+      "c": "Órgano designado de Force Protection",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "A la hora de alertar de presencia de UAS-LSS, NO es un observador cualificado:",
+    "respuestas": {
+      "a": "Piloto",
+      "b": "Personal ATC",
+      "c": "Jefe de Día",
+      "d": "Personal de Force Protection"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Las bases aéreas, aeródromos militares, Cuarteles Generales, acuartelamientos aéreos y otras instalaciones militares (señale la CORRECTA):",
+    "respuestas": {
+      "a": "Disponen de medios para la fusión, análisis, presentación y difusión de los datos obtenidos por todos los sensores y actores disponibles en relación a los UAS-LSS",
+      "b": "No están adaptadas para contrarrestar la amenaza UAS LSS",
+      "c": "Implementarán procedimientos idénticos para combatir la amenaza UAS-LSS, facilitando así la coordinación centralizada",
+      "d": "No son susceptibles de amenaza UAS-LSS, ya que el DUO (Designated UAS Operator) necesita encontrarse a una distancia reducida del vehículo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Referente al ciclo de la defensa C-UAS LSS (señale la FALSA):",
+    "respuestas": {
+      "a": "PREVENCIÓN implica disponer de una INTEL adecuada para prevenir la amenaza",
+      "b": "IDENTIFICACIÓN implica disponer de los medios necesarios para identificar y seguir o monitorizar la amenaza",
+      "c": "NEUTRALIZACIÓN implica disponer de una matriz de toma de decisiones que permita actuar para neutralizar la amenaza",
+      "d": "RETROALIMENTACIÓN implica evaluar las lecciones identificadas para posteriormente implementar las lecciones aprendidas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Cuando se confirme amenaza UAS LSS, el AOC será quien determine el nivel de riesgo asociado. En cuanto al nivel de riesgo (señale la FALSA):",
+    "respuestas": {
+      "a": "Para establecer cualquier nivel de riesgo, el dron debe detectarse o confirmarse por personal cualificado",
+      "b": "Existen tres niveles: elevado, moderado y menor",
+      "c": "Un riesgo moderado implica que el dron podría afectar negativamente a la seguridad de personal o material",
+      "d": "Un riesgo menor implica que el dron no compromete la seguridad de la operación de aeronaves, personal o material"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Por lo general, la operación de drones está prohibida en espacio aéreo controlado, instalaciones militares o su zona próxima de seguridad, o a una distancia de cualquier instalación aeroportuaria inferior a…",
+    "respuestas": {
+      "a": "15 km",
+      "b": "10 NM",
+      "c": "7 NM",
+      "d": "8 km"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Una vez confirmada la presencia del dron (señale la FALSA):",
+    "respuestas": {
+      "a": "El CLA será quien contacte con las FCSE",
+      "b": "Las FCSE procederán a la detención del operador del dron tanto dentro como fuera de la UCO",
+      "c": "Si el operador se encontrase en el interior de la UCO, el personal de Force Protection se encargará de su retención",
+      "d": "Una vez comunicado el evento a las FCSE, el CLA comunicará estas actuaciones al AOC"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "De los siguientes métodos de neutralización, indique cuál está considerado soft kill (no intrusivo):",
+    "respuestas": {
+      "a": "Captura del dron por lanzamiento de red",
+      "b": "Abatimiento del dron mediante el uso de cañones de agua de los vehículos CI",
+      "c": "Disparos con fusiles de pelotas de goma",
+      "d": "Perturbación del sistema de control"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El responsable de decidir la restauración y recuperación de las operaciones en la UCO es:",
+    "respuestas": {
+      "a": "El CLA",
+      "b": "El jefe de la UCO",
+      "c": "El AOC",
+      "d": "El personal designado de las FCSE"
+    },
+    "correcta": "b"
+  }
+]
