@@ -1,0 +1,2572 @@
+[
+  {
+    "pregunta": "Cease action/ attack/ event/ misión",
+    "respuestas": {
+      "a": "TRESPASS",
+      "b": "ABORT",
+      "c": "FLANK",
+      "d": "GINGERBREAD"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Initiate a briefed attack sequence or manoeuvre.",
+    "respuestas": {
+      "a": "ACTION",
+      "b": "GO SECURE",
+      "c": "DROP",
+      "d": "DELAY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Radiate(ing) on electronic equipment, specify type if desired",
+    "respuestas": {
+      "a": "SCRAMBLE",
+      "b": "ACTIVATE/ACTIVE",
+      "c": "BANDIT",
+      "d": "AUTHENTICATE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Combat equipped aircraft are airborne and ready of immediate action.",
+    "respuestas": {
+      "a": "AIRBORNE ALERT",
+      "b": "CONTACT POSITION",
+      "c": "ANYFACE",
+      "d": "DRAG"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Confirm/verify position of BULLSEYE or other specified point relative to the friendly aircrafts position.",
+    "respuestas": {
+      "a": "STRANGLE",
+      "b": "ALFA CHECK",
+      "c": "PLAYMATE",
+      "d": "BRAA"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "LINK 11 equiped",
+    "respuestas": {
+      "a": "SLOW",
+      "b": "BREAK AWAY",
+      "c": "ALLIGATOR",
+      "d": "WEAVE"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Height of contact reported in hundreds of ft in three digits (e.g. \"ALTITUDE zero zero five\" equals 500 ft)",
+    "respuestas": {
+      "a": "PUMP",
+      "b": "ALTITUDE",
+      "c": "ON TOP",
+      "d": "RESCAP"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "1. Involved in a visual fight and unable to leave.\" and \"Orbit about a specific point; refuelling track flown by tanker.",
+    "respuestas": {
+      "a": "ON/OFF STATION",
+      "b": "CONTAINER",
+      "c": "ANCHOR(ED)",
+      "d": "TIMECHECK"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Height of friendly aircraft in thousands of feet from mean sea level (MSL). (e.g. \"ANGELS 1 = 1000ft",
+    "respuestas": {
+      "a": "ANGELS ___",
+      "b": "TARGET",
+      "c": "LEAD TRAIL",
+      "d": "BUSTER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Friendly GCI/AEW&CS/C2 agency when callsign is not known",
+    "respuestas": {
+      "a": "GO TACTICAL",
+      "b": "ANYFACE",
+      "c": "SPADES",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Unit or element will be performing exactly as stated by the air tasking order.",
+    "respuestas": {
+      "a": "AS FRAGGED",
+      "b": "JACKAL",
+      "c": "PRINT",
+      "d": "DELOUSE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Attack or commencing attacking run with weapon indicated. Direction/bearing from which the weapon Will be coming may be given.",
+    "respuestas": {
+      "a": "CONTINUE DRY",
+      "b": "FLARES",
+      "c": "GO CLEAR",
+      "d": "ATTACK(ING)"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "To request or provide a response for a coded challenge",
+    "respuestas": {
+      "a": "AUTHENTICATE",
+      "b": "FEW",
+      "c": "GADGET",
+      "d": "ON THE DECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A picture label describing two groups separated laterally. Group names will be referenced by cardinal directions",
+    "respuestas": {
+      "a": "OKAY",
+      "b": "AZIMUTH",
+      "c": "WEAPONS",
+      "d": "COLD"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "An aircraft identified as enemy, in accordance with theatre identification (ID) criteria. The term does not necessarily imply direction or authority to engage.",
+    "respuestas": {
+      "a": "BANDIT",
+      "b": "TIMECHECK",
+      "c": "BARCAP",
+      "d": "SNIFF"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Execute \"launch and decide\" tactics.",
+    "respuestas": {
+      "a": "LEAD TRAIL",
+      "b": "PACKAGE",
+      "c": "BANZAI",
+      "d": "ORBIT(ING)"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Barrier Combat Air Patrol",
+    "respuestas": {
+      "a": "BARCAP",
+      "b": "RIDER",
+      "c": "WORDS",
+      "d": "ON THE DECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Contact stabilized within 70 and 110 degrees.",
+    "respuestas": {
+      "a": "OPENING",
+      "b": "BEAM",
+      "c": "BUDDY LOCK",
+      "d": "PRINT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Equipment indicated is inoperative(Cancelled by OKAY).",
+    "respuestas": {
+      "a": "ALFA CHECK",
+      "b": "NAKED",
+      "c": "BENT",
+      "d": "BRACKET"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Fuel state needed for recovery.",
+    "respuestas": {
+      "a": "BUDDY (LASE/GUIDE)",
+      "b": "BINGO",
+      "c": "BUSTER",
+      "d": "BOX"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Aircraft has lost visual contact with another friendly aircraft or ground position (opposite of VISUAL).",
+    "respuestas": {
+      "a": "DELOUSE",
+      "b": "BLIND",
+      "c": "LINER",
+      "d": "BUDDY SPIKE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Unidentified aircraft.",
+    "respuestas": {
+      "a": "STRANGER",
+      "b": "BOGEY",
+      "c": "CHEAPSHOT",
+      "d": "RESCAP"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Request target information (BRAA) to the specified target. If a threat is not specified Bearing/Range will be given to the closest threat.",
+    "respuestas": {
+      "a": "BOGEY DOPE",
+      "b": "SQUAWK",
+      "c": "VISUAL",
+      "d": "CONTINUE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Picture label with groups in square or offset square (see CHAMPAGNE and VIC for group names).",
+    "respuestas": {
+      "a": "DEEP.",
+      "b": "BOX",
+      "c": "SQUAWK",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "1. Following formation is in tactical control format providing target bearing, range altitude and aspect relative to the specified friendly aircraft.",
+    "respuestas": {
+      "a": "BRAA",
+      "b": "STRANGER",
+      "c": "TRACKING",
+      "d": "LAME DUCK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Aircraft will manoeuvre to a position on opposing sides, either laterally and/or vertically from target(s).",
+    "respuestas": {
+      "a": "BRACKET",
+      "b": "FLIGHT LEVEL",
+      "c": "STRANGLE",
+      "d": "RESCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Perform \"An immediate maximum performance turn in the direction indicated\".",
+    "respuestas": {
+      "a": "BREAK",
+      "b": "POSITIVE CONTROL",
+      "c": "PLAYMATE",
+      "d": "CONTINUE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Tanker or receiver call indicating that an immediate disconnect and vertical and nose or tail separation between tanker and receiver is required",
+    "respuestas": {
+      "a": "CONTACT",
+      "b": "BREAK AWAY",
+      "c": "BOGEY DOPE",
+      "d": "CHICKS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "To have guidance of a weapon from a source other tan delivering aircraft.",
+    "respuestas": {
+      "a": "BUDDY (LASE/GUIDE)",
+      "b": "FORCE CAP",
+      "c": "TRESPASS",
+      "d": "DISCONNECT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fighter has radar locked to a known friendly aircraft. Normally a response to a SPIKE or BUDDY SPIKE call.",
+    "respuestas": {
+      "a": "BUDDY LOCK",
+      "b": "BUDDY SPIKE",
+      "c": "GIMBALS",
+      "d": "AS FRAGGED"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "RWR indication of a friendly AI-radar lock-on (\"RED 3, BUDDY SPIKED, BULLSEYE 240/15\").",
+    "respuestas": {
+      "a": "WEDGE",
+      "b": "CLARA",
+      "c": "BUDDY SPIKE",
+      "d": "ON TOP"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "A common reference point Position of an object will be established by bearing (magnetic) and range (NM) from this point.",
+    "respuestas": {
+      "a": "BULLSEYE",
+      "b": "KILO",
+      "c": "CONTINUE",
+      "d": "BOX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fly at maximum continuous speed (mil power).",
+    "respuestas": {
+      "a": "BUSTER",
+      "b": "FORCE CAP",
+      "c": "ANYFACE",
+      "d": "TALLY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Establish an orbit at a specified location\" or \"An orbit at a specified location.",
+    "respuestas": {
+      "a": "CAP/CAPPING (Location)",
+      "b": "GO SECURE",
+      "c": "CONTINUE DRY",
+      "d": "RESCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Used by the AAWC to indicate that a target is primary target for CAP",
+    "respuestas": {
+      "a": "SCRAMBLE",
+      "b": "BOGEY DOPE",
+      "c": "__CAP TARGET",
+      "d": "SNOOZE"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Cloud and visibility okay (ICAO) term meaning no significant clouds below 5,000 ft, visibility at least six miles, no precipitation or storms.",
+    "respuestas": {
+      "a": "LEAKER",
+      "b": "CAVOK",
+      "c": "BENT",
+      "d": "CONTACT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Subject emitter has stopped radiating.",
+    "respuestas": {
+      "a": "___ CEASED",
+      "b": "STRANGLE",
+      "c": "RIDER",
+      "d": "LOW"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "In air defence, break the engagement on the target specified and prepare to engage another target. Missiles in flight will continue to intercept.",
+    "respuestas": {
+      "a": "CEASE ENGAGEMENT",
+      "b": "TALLY",
+      "c": "WEAVE",
+      "d": "BULLSEYE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Chaff has been detected or to deploy chaff.",
+    "respuestas": {
+      "a": "CHAFF",
+      "b": "PUMP",
+      "c": "LEAD TRAIL",
+      "d": "BOGEY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A picture label of three distinct groups with two in front and one behind. Group names should be (Cardinal) LEAD GROUP, (Cardinal) LEAD GROUP and TRAIL GROUP.",
+    "respuestas": {
+      "a": "OKAY",
+      "b": "CHAMPAGNE",
+      "c": "KILO",
+      "d": "BOX"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Communications jamming.",
+    "respuestas": {
+      "a": "CHATTER",
+      "b": "GO ACTIVE",
+      "c": "STATUS",
+      "d": "BREAK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Commence briefed radio procedures to counter communication jamming.",
+    "respuestas": {
+      "a": "CHATTERMARKS",
+      "b": "WEAPONS",
+      "c": "FORCE CAP",
+      "d": "BRAA"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Active radar missile data link is supported to high PRF, but not to medium PRF active",
+    "respuestas": {
+      "a": "CHEAPSHOT",
+      "b": "RESCAP",
+      "c": "BULLSEYE",
+      "d": "GO TACTICAL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Directive to momentarily monitor (specified items/systems). No response is required if status is normal.",
+    "respuestas": {
+      "a": "ON/OFF STATION",
+      "b": "CHECK ___",
+      "c": "ZIPLIP",
+      "d": "GIMBALS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Friendly interceptor aircraft.",
+    "respuestas": {
+      "a": "CHICKS",
+      "b": "HIGH",
+      "c": "BINGO",
+      "d": "BARCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The radar scope is clear of enemy contacts (\"BLUE 1, CONTACT, BULLSEYE 270/20, BLUE 2, CLARA\").",
+    "respuestas": {
+      "a": "CLARA",
+      "b": "PUMP",
+      "c": "WEAVE",
+      "d": "PACKAGE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Requested action is authorized (no engaged or support roles are assumed).",
+    "respuestas": {
+      "a": "Pogo",
+      "b": "GINGERBREAD",
+      "c": "CLEARED",
+      "d": "FORCE CAP"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Type 1 and 2 close air support terminal control clearance to release ordnance on this pass. Training range operations: range control officer/range safety officer authorizes ordnance release.",
+    "respuestas": {
+      "a": "CLEARED HOT",
+      "b": "WEAVE",
+      "c": "TRESPASS",
+      "d": "PLAYTIME"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Start of the CAP leg away from the threat or threat group heading away from fighters.",
+    "respuestas": {
+      "a": "OPENING",
+      "b": "COLD",
+      "c": "CONTACT",
+      "d": "WEAPONS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Verify the existence of the contact designated.",
+    "respuestas": {
+      "a": "STRANGER",
+      "b": "AS FRAGGED",
+      "c": "CONFIRM",
+      "d": "BRAA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Sensor contact at the stated position or individual radar returns within a GROUP or ARM.",
+    "respuestas": {
+      "a": "TALLY",
+      "b": "CONTACT",
+      "c": "AUTHENTICATE",
+      "d": "GO ACTIVE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Receiver position where the receptacle of the boom aircraft makes contact with the drogue or boom.",
+    "respuestas": {
+      "a": "RENEGADE",
+      "b": "CONTACT POSITION",
+      "c": "SCRAMBLE",
+      "d": "AS FRAGGED"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Inner group formation with four contacts oriented in a square or offset square.",
+    "respuestas": {
+      "a": "CONTAINER",
+      "b": "ON/OFF STATION",
+      "c": "CLEARED",
+      "d": "LADDER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Continue present maneuver, does not imply clearance to engage or expend ordnance.",
+    "respuestas": {
+      "a": "ZIPLIP",
+      "b": "CONTINUE",
+      "c": "HIGH",
+      "d": "PACKAGE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Continue present maneuver, ordnance release is not authorized.",
+    "respuestas": {
+      "a": "CONTINUE DRY",
+      "b": "FORCE CAP",
+      "c": "DRAG",
+      "d": "HOLDING HANDS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The unit designated as EWC",
+    "respuestas": {
+      "a": "GIMBALS",
+      "b": "CONTROL",
+      "c": "OKAY",
+      "d": "TRACKING"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "An F/A-Pole manoeuvre in a specific direction (RED 1, crank south).",
+    "respuestas": {
+      "a": "CRANK",
+      "b": "OKAY",
+      "c": "BUDDY SPIKE",
+      "d": "CLEARED HOT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Intercept using cut-off geometry.",
+    "respuestas": {
+      "a": "ANYFACE",
+      "b": "CUTOFF",
+      "c": "CONTACT",
+      "d": "BREAK"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Unmanned Aerial Vehicle.",
+    "respuestas": {
+      "a": "CYCLOPS",
+      "b": "ON TOP",
+      "c": "CONTINUE",
+      "d": "FOX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Inquiry by fighter to GCI as to the identification of a specified track(s), target(s), or correlated group.",
+    "respuestas": {
+      "a": "DECLARE",
+      "b": "CONTACT POSITION",
+      "c": "MOSQUITO",
+      "d": "PUMP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Indicates separation between the nearest and farthest groups in range in a relative formation of three or more groups, used to describe a quote",
+    "respuestas": {
+      "a": "DEEP.",
+      "b": "BOX",
+      "c": "RIDER",
+      "d": "STATUS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Aircraft is under attack, manoeuvring defensively and unable to ensure deconfliction or mutual support.",
+    "respuestas": {
+      "a": "DEFENSIVE",
+      "b": "AIRBORNE ALERT",
+      "c": "ROLEX",
+      "d": "KILO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The signal is to be retransmitted as soon as possible as ordered",
+    "respuestas": {
+      "a": "DELAY",
+      "b": "KOBOLD",
+      "c": "CHICKS",
+      "d": "LEAD TRAIL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Detect, identify and engage (if required) unknown platform trailing friendly platform.",
+    "respuestas": {
+      "a": "OKAY",
+      "b": "DELOUSE",
+      "c": "WEAPONS",
+      "d": "PUMP"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Command by tanker or receiver that boom/drogue will be disconnected.",
+    "respuestas": {
+      "a": "DISCONNECT",
+      "b": "SLOW",
+      "c": "CHAMPAGNE",
+      "d": "BANDIT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Proceed to planned diversion base or specified field or carrier.",
+    "respuestas": {
+      "a": "DIVERT",
+      "b": "PUMP",
+      "c": "GO CLEAR",
+      "d": "TIMECHECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The emitter has stopped radiating at the stated location or along the stated bearing.",
+    "respuestas": {
+      "a": "ROGER",
+      "b": "(SYSTEM) DOWN (XXX)",
+      "c": "ON THE DECK",
+      "d": "ALLIGATOR"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Contact stabilized within 0 and 70 degrees aspect.",
+    "respuestas": {
+      "a": "TIMBER",
+      "b": "DRAG",
+      "c": "GOPHER",
+      "d": "CLEARED HOT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Stop Monitoring of specified contact and resume search responsibilities.",
+    "respuestas": {
+      "a": "DROP",
+      "b": "FORCE CAP",
+      "c": "SAUNTER",
+      "d": "GO CLEAR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fighter has discontinued tracking responsibility. GCI is responsible for further monitoring of the respective target",
+    "respuestas": {
+      "a": "DROPPING",
+      "b": "TIMBER",
+      "c": "SQUAWK",
+      "d": "BULLSEYE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "AAR contact during which no fuel is transferred.",
+    "respuestas": {
+      "a": "DRY CONTACT",
+      "b": "FLANK",
+      "c": "PACKAGE",
+      "d": "ANYFACE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Descend and increase speed.",
+    "respuestas": {
+      "a": "BUSTER",
+      "b": "DUCK",
+      "c": "PUMP",
+      "d": "SPOOFING"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Fill in to a picture label describing groups aligned behind and to the side of the closest group.",
+    "respuestas": {
+      "a": "ECHLEON",
+      "b": "ANYFACE",
+      "c": "TALLY",
+      "d": "BRAA"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A fire control order used to direct or authorize units and/or weapons systems to fire on a designated target.",
+    "respuestas": {
+      "a": "ENGAGE",
+      "b": "TIMECHECK",
+      "c": "RESCAP",
+      "d": "KILO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fighter with primary visual identification responsibility.",
+    "respuestas": {
+      "a": "EYEBALL",
+      "b": "BUSTER",
+      "c": "PLAYTIME",
+      "d": "TALLY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Radar contact is lost on unknown/non-friendly contact.",
+    "respuestas": {
+      "a": "CLEARED HOT",
+      "b": "FADED",
+      "c": "SLOW",
+      "d": "CONTINUE DRY"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "A friendly track acting as hostile for exercise purposes",
+    "respuestas": {
+      "a": "FAKER",
+      "b": "BREAK AWAY",
+      "c": "FORCE CAP",
+      "d": "NAKED"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Target ground speed is between 600-900kts. /1.0-1.5 M",
+    "respuestas": {
+      "a": "FAST",
+      "b": "DRY CONTACT",
+      "c": "CONTINUE",
+      "d": "ON TOP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Flying over water/land.",
+    "respuestas": {
+      "a": "FEET WET/DRY",
+      "b": "ALLIGATOR",
+      "c": "BUSTER",
+      "d": "BOX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Set cockpit switches as appropriate prior to entering/exiting the combat area.",
+    "respuestas": {
+      "a": "SQUAWK",
+      "b": "FENCE IN/OUT",
+      "c": "PLAYMATE",
+      "d": "ALFA CHECK"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "2 to 7 aircraft.",
+    "respuestas": {
+      "a": "ZIPLIP",
+      "b": "FEW",
+      "c": "NAKED",
+      "d": "BUSTER"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Contact stabilized within 110 and 150 degrees aspect. (see Annex A for details and definition).",
+    "respuestas": {
+      "a": "FLANK",
+      "b": "SNOOZE",
+      "c": "AS FRAGGED",
+      "d": "LEAD TRAIL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Deploy flares.",
+    "respuestas": {
+      "a": "FLARES",
+      "b": "GOPHER",
+      "c": "GO CLEAR",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "ICAO term giving height in hundreds of ft (e.g. FLIGHT LEVEL 250 equals 25.000 ft MSL).",
+    "respuestas": {
+      "a": "FLIGHT LEVEL",
+      "b": "SCRAMBLE",
+      "c": "KILO",
+      "d": "TIMECHECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "CAP over friendly forces",
+    "respuestas": {
+      "a": "PLAYTIME",
+      "b": "FORCE CAP",
+      "c": "BUSTER",
+      "d": "ABORT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Simulated/actual launch of air to air weapons. ONE Semi active Radar-guided missile. TWO Infrared - guided missile. THREE Active radar-guided missile.",
+    "respuestas": {
+      "a": "FOX",
+      "b": "BUSTER",
+      "c": "DRAG",
+      "d": "KILO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fuel quantity, expressed in hours and minutes.",
+    "respuestas": {
+      "a": "FUEL STATE",
+      "b": "BOGEY DOPE",
+      "c": "DELAY",
+      "d": "VISUAL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Radar or emotter equipment (type of equipment may be indicated by a letter as listed in OPORD or APP-1)",
+    "respuestas": {
+      "a": "CHICKS",
+      "b": "ANYFACE",
+      "c": "GADGET",
+      "d": "TALLY"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Fly at maximum speed (afterburner).",
+    "respuestas": {
+      "a": "GATE",
+      "b": "PLAYMATE",
+      "c": "LEAD TRAIL",
+      "d": "WEAVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Call indicating radar target is approaching azimuth or elevation limits, implies a request to flight lead to modify intercept geometry, or direct PRESS/SPLIT/DROP.",
+    "respuestas": {
+      "a": "GIMBALS",
+      "b": "BRAA",
+      "c": "ON/OFF STATION",
+      "d": "RESCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Voice imitative deception is suspected on this net.",
+    "respuestas": {
+      "a": "BINGO",
+      "b": "GINGERBREAD",
+      "c": "SCRAMBLE",
+      "d": "DRAG"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Initiate Have Quick communications.",
+    "respuestas": {
+      "a": "GO ACTIVE",
+      "b": "STRANGER",
+      "c": "PLAYMATE",
+      "d": "BARCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Use unencrypted voice communications.",
+    "respuestas": {
+      "a": "GOPHER",
+      "b": "GO CLEAR",
+      "c": "LEAD TRAIL",
+      "d": "STRANGLE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Switch to tactical control.",
+    "respuestas": {
+      "a": "GO TACTICAL",
+      "b": "FLANK",
+      "c": "PACKAGE",
+      "d": "ZIPLIP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A tracked CONTACT that has not conformed to safe passage routing, airspeed or altitude procedures. Will only be used when safe passage or minimum risk routing procedures are part of an ID matrix.",
+    "respuestas": {
+      "a": "GOPHER",
+      "b": "SNOOZE",
+      "c": "BRAA",
+      "d": "ALFA CHECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Large force of indeterminate numbers and formation of unknown/non-friendly aircraft.",
+    "respuestas": {
+      "a": "GORILLA",
+      "b": "STRANGLE",
+      "c": "ON TOP",
+      "d": "CONTINUE DRY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Activate encrypted voice communications",
+    "respuestas": {
+      "a": "GO SECURE",
+      "b": "RIDER",
+      "c": "PACKAGE",
+      "d": "BREAK AWAY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "All aircraft of a designated track (or against which the mission was tasked) are shot down.",
+    "respuestas": {
+      "a": "GRANDSLAM",
+      "b": "ACTION",
+      "c": "LEAD TRAIL",
+      "d": "KILO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Direction of no known enemy threats (BLUE 3, GREEN North).",
+    "respuestas": {
+      "a": "GREEN",
+      "b": "DRY CONTACT",
+      "c": "STRANGER",
+      "d": "ANYFACE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Any number of contacts within 3 NM in azimuth or range of each other.",
+    "respuestas": {
+      "a": "GROUP",
+      "b": "PLAYTIME",
+      "c": "BREAK AWAY",
+      "d": "BOX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "An air-to-air or air-to-surface gunshot",
+    "respuestas": {
+      "a": "ZIPLIP",
+      "b": "BUSTER",
+      "c": "RENEGADE",
+      "d": "GUNS"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Alert of an activity of interest. (Normally followed by amplifying information).",
+    "respuestas": {
+      "a": "HEADS UP",
+      "b": "STRANGLE",
+      "c": "ON TOP",
+      "d": "DRAG"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A group known to contain three or more individual entities.",
+    "respuestas": {
+      "a": "HEAVY",
+      "b": "ON/OFF STATION",
+      "c": "PUMP",
+      "d": "TIMECHECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Target altitude is above 40.000' MSL.",
+    "respuestas": {
+      "a": "HIGH",
+      "b": "ABORT",
+      "c": "ON/OFF STATION",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Do not open fire/cease firing (missiles in flight must be destroyed). The direction to hold fire should be repeated at the end of a transmission.",
+    "respuestas": {
+      "a": "HOLD FIRE",
+      "b": "ANYFACE",
+      "c": "SLOW",
+      "d": "SQUAWK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Aircraft are joined or in close formation.",
+    "respuestas": {
+      "a": "HOLDING HANDS",
+      "b": "GINGERBREAD",
+      "c": "TALLY",
+      "d": "BREAK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Home airfield/carrier.",
+    "respuestas": {
+      "a": "HOMEPLATE",
+      "b": "SQUAWK",
+      "c": "BULLSEYE",
+      "d": "BOX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "(Direction) Perform an in-place 180-degree turn.",
+    "respuestas": {
+      "a": "HOOK",
+      "b": "TIMBER",
+      "c": "RESCAP",
+      "d": "TALLY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Friendly jammer",
+    "respuestas": {
+      "a": "DRAG",
+      "b": "LEAD TRAIL",
+      "c": "HOOTER",
+      "d": "CONTINUE"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "1. (a) Refers to the start of the CAP leg in the direction of the threat. (b) High aspect target.",
+    "respuestas": {
+      "a": "PLAYTIME",
+      "b": "HOT",
+      "c": "TRESPASS",
+      "d": "NAKED"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Active radar missile is at high PRF active.",
+    "respuestas": {
+      "a": "HUSKY",
+      "b": "BRAA",
+      "c": "WEAPONS",
+      "d": "BULLSEYE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Intercept and identify the target or ID accomplished, followed by type of aircraft",
+    "respuestas": {
+      "a": "ID",
+      "b": "ZIPLIP",
+      "c": "GINGERBREAD",
+      "d": "SQUAWK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Mode IV.",
+    "respuestas": {
+      "a": "PUMP",
+      "b": "INDIA",
+      "c": "ON TOP",
+      "d": "LEAD TRAIL"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Divert a track of interest to an airport or a specified direction.",
+    "respuestas": {
+      "a": "ON/OFF STATION",
+      "b": "INTERVENE TO (___)",
+      "c": "RENEGADE",
+      "d": "CONTINUE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Verify specified elements",
+    "respuestas": {
+      "a": "INVESTIGATE",
+      "b": "VISUAL",
+      "c": "SNOOZE",
+      "d": "TIMECHECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Surveillance NPG",
+    "respuestas": {
+      "a": "STRANGLE",
+      "b": "JACKAL",
+      "c": "PLAYMATE",
+      "d": "BOGEY"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Non-friendly jammer",
+    "respuestas": {
+      "a": "JAMMER",
+      "b": "AUTHENTICATE",
+      "c": "OKAY",
+      "d": "CLEARED"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Aircraft joining the formation",
+    "respuestas": {
+      "a": "JOINING",
+      "b": "ALLIGATOR",
+      "c": "STRANGER",
+      "d": "ON TOP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Air Defense Fighter has radar/visual contact and is taking control of the intercept within a close control mission",
+    "respuestas": {
+      "a": "JUDY",
+      "b": "RENEGADE",
+      "c": "AUTHENTICATE",
+      "d": "GOPHER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A fighter call to indicate the targeted threat aircraft has been successfully engaged.",
+    "respuestas": {
+      "a": "GO SECURE",
+      "b": "SLOW",
+      "c": "KILL",
+      "d": "VISUAL"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "A friendly track of special interest.",
+    "respuestas": {
+      "a": "TIMECHECK",
+      "b": "PACKAGE",
+      "c": "KILO",
+      "d": "OKAY"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Safety directive to cease air combat exercise manoeuvres/attacks/activities",
+    "respuestas": {
+      "a": "STRANGLE",
+      "b": "GINGERBREAD",
+      "c": "WEAVE",
+      "d": "KNOCK IT OFF"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "MEZ is not active. (Opposite of OILFIELD).",
+    "respuestas": {
+      "a": "KOBOLD",
+      "b": "SLOW",
+      "c": "WEAVE",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Picture label with three or more groups on the same azimuth but separated by range. Group names should be LEAD GROUP, MIDDLE GROUP, TRAIL GROUP.",
+    "respuestas": {
+      "a": "BINGO",
+      "b": "LADDER",
+      "c": "BARCAP",
+      "d": "PACKAGE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "An aircraft in a minor state of emergency resulting from ordnance or radio failure, oxygen leak, or other cause.",
+    "respuestas": {
+      "a": "LAME DUCK",
+      "b": "SCRAMBLE",
+      "c": "ON/OFF STATION",
+      "d": "WEAVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Equipment indicated is at standby.",
+    "respuestas": {
+      "a": "SNOOZE",
+      "b": "LAZY",
+      "c": "CLEARED HOT",
+      "d": "BOX"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Inner group, formation of two or more contacts separated in range.",
+    "respuestas": {
+      "a": "LEAD TRAIL",
+      "b": "SNIFF",
+      "c": "GO CLEAR",
+      "d": "BOGEY DOPE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Airborne threat has passed through a defensive layer.",
+    "respuestas": {
+      "a": "LEAKER",
+      "b": "CLEARED HOT",
+      "c": "WEAPONS",
+      "d": "BREAK AWAY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fly at speed giving maximum cruising range.",
+    "respuestas": {
+      "a": "LINER",
+      "b": "RESCAP",
+      "c": "DELAY",
+      "d": "TALLY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Aircrew has not got the ground object, reference point, target in sight (opposite of CONTACT).",
+    "respuestas": {
+      "a": "ALFA CHECK",
+      "b": "LOOKING",
+      "c": "SQUAWK",
+      "d": "SCRAMBLE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "A form of aircraft mission control in which the aircraft commander selects his own speed, altitude, heading and appropriate tactics required to accomplish the assigned task.",
+    "respuestas": {
+      "a": "TIMBER",
+      "b": "LOOSE CONTROL",
+      "c": "BREAK",
+      "d": "NAKED"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "1. Previous contact is lost, provide target information. 2. Sensor information on a friendly aircraft is lost.",
+    "respuestas": {
+      "a": "FLANK",
+      "b": "DRY CONTACT",
+      "c": "LOST CONTACT",
+      "d": "ALLIGATOR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Target altitude is between 500 and 1000' MSD.",
+    "respuestas": {
+      "a": "LOW",
+      "b": "ON/OFF STATION",
+      "c": "CONTINUE",
+      "d": "ON THE DECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Visual AIM-120 launch. LANZO MISILES COMO PIEDRAS POR SI LE DOY A ALGO",
+    "respuestas": {
+      "a": "TALLY",
+      "b": "MADDOG",
+      "c": "PLAYTIME",
+      "d": "OKAY"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Specified group is maneuvering in azimuth, range and/or altitude.",
+    "respuestas": {
+      "a": "MANOEUVRE",
+      "b": "ZIPLIP",
+      "c": "SNIFF",
+      "d": "GOPHER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Eight or more aircraft.",
+    "respuestas": {
+      "a": "BANDIT",
+      "b": "MANY",
+      "c": "AS FRAGGED",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Establish(ed) holding at a specific point.",
+    "respuestas": {
+      "a": "MARSHALLING",
+      "b": "ON/OFF STATION",
+      "c": "ALFA CHECK",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Target altitude between 10000 ft MSD and 40000 ft. MSL",
+    "respuestas": {
+      "a": "PUMP",
+      "b": "CLEARED HOT",
+      "c": "MEDIUM",
+      "d": "ON TOP"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "1. Radar returns/tracks have come together. 2. Friendlies and targets have arrived in the same visual arena.",
+    "respuestas": {
+      "a": "SQUAWK",
+      "b": "Pogo",
+      "c": "MERGED",
+      "d": "DRAG"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Referencing the Have Quick Time of the Day (TOD) signal.",
+    "respuestas": {
+      "a": "MICKEY",
+      "b": "GINGERBREAD",
+      "c": "TALLY",
+      "d": "VISUAL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Informative C2 functions are no longer available (opposite of SUNRISE).",
+    "respuestas": {
+      "a": "MIDNIGHT",
+      "b": "NAKED",
+      "c": "BOGEY DOPE",
+      "d": "AUTHENTICATE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Completion of air-ground ordnance delivery. Generally used by the last striker in conjunction with a pre-coordinated egress plan.",
+    "respuestas": {
+      "a": "MILLER TIME (A-S)",
+      "b": "TIMECHECK",
+      "c": "GO CLEAR",
+      "d": "CONTINUE DRY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Radio frequency is becoming saturated, degraded or jammed and briefer transmissions must follow (see ZIPLIP).",
+    "respuestas": {
+      "a": "GOPHER",
+      "b": "MINIMIZE",
+      "c": "PACKAGE",
+      "d": "GO TACTICAL"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Maintain radar awareness on or assume responsibility for a specified group.",
+    "respuestas": {
+      "a": "MONITOR",
+      "b": "PLAYTIME",
+      "c": "BOGEY DOPE",
+      "d": "KILO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Manned or unmanned aircraft which can carry explosive, nuclear, biological or chemical payload or armed crewmembers to be considered as a possible asymmetric threat",
+    "respuestas": {
+      "a": "VISUAL",
+      "b": "MOSQUITO",
+      "c": "RESCAP",
+      "d": "GO CLEAR"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Electronic jamming.",
+    "respuestas": {
+      "a": "SPOOFING",
+      "b": "MUSIC",
+      "c": "BULLSEYE",
+      "d": "SNIFF"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "No RWR indications on the RWR scope. SIN ALERTA EN EL RWR",
+    "respuestas": {
+      "a": "PLAYMATE",
+      "b": "NAKED",
+      "c": "DRAG",
+      "d": "GOPHER"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "No sensor information is available on a friendly aircraft.",
+    "respuestas": {
+      "a": "NEGATIVE CONTACT",
+      "b": "STRANGLE",
+      "c": "BANDIT",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Used by controller or aircrew when tactical picture has changed. Supersedes all previous calls and re-establishes picture for all players.",
+    "respuestas": {
+      "a": "NEW PICTURE",
+      "b": "SCRAMBLE",
+      "c": "SNIFF",
+      "d": "ABORT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Not a threat.",
+    "respuestas": {
+      "a": "NO FACTOR",
+      "b": "ON TOP",
+      "c": "Pogo",
+      "d": "ON THE DECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "1. I have been unsuccessful or I have no information. 2. Aircrew does not have visual contact with the target/bandit/bogey/landmark or enemy position.",
+    "respuestas": {
+      "a": "VISUAL",
+      "b": "BINGO",
+      "c": "DRAG",
+      "d": "NO JOY"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Directive / Descriptive that an aircraft is manoeuvring defensively to position the bandit on the aircraft's wingline (\"WHITE 2, NOTCHING south\").",
+    "respuestas": {
+      "a": "NOTCH, NOTCHING",
+      "b": "GINGERBREAD",
+      "c": "CONTACT POSITION",
+      "d": "BUDDY (LASE/GUIDE)"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "MEZ is active (opposite of KOBOLD). CUANDO EN EW SE DETECTA QUE HAY ALGO EMITIENDO",
+    "respuestas": {
+      "a": "OKAY",
+      "b": "SQUAWK",
+      "c": "OILFIELD",
+      "d": "AS FRAGGED"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Equipment indicated is operative (cancels BENT)",
+    "respuestas": {
+      "a": "PACKAGE",
+      "b": "PLAYMATE",
+      "c": "OKAY",
+      "d": "GINGERBREAD"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "I have reached/left my assigned station.",
+    "respuestas": {
+      "a": "ON/OFF STATION",
+      "b": "TIMECHECK",
+      "c": "GOPHER",
+      "d": "PUMP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "At minimun altitude",
+    "respuestas": {
+      "a": "ON THE DECK",
+      "b": "NAKED",
+      "c": "SPOOFING",
+      "d": "PLAYMATE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "I am over target, object or position indicated.",
+    "respuestas": {
+      "a": "ON TOP",
+      "b": "SNIFF",
+      "c": "GINGERBREAD",
+      "d": "BREAK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Increasing in range or azimuth. AIR-AAO ORBIT(ING) Hold on current or indicated position.",
+    "respuestas": {
+      "a": "OPENING",
+      "b": "GOPHER",
+      "c": "GO TACTICAL",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Hold on current or indicated position",
+    "respuestas": {
+      "a": "ORBIT(ING)",
+      "b": "DRAG",
+      "c": "STRANGER",
+      "d": "GOPHER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Contact has met point of origin criteria for ROE.",
+    "respuestas": {
+      "a": "OUTLAW",
+      "b": "CHICKS",
+      "c": "STRANGLE",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Geographically isolated collection of groups/contacts/ formations.",
+    "respuestas": {
+      "a": "PACKAGE",
+      "b": "LEAD TRAIL",
+      "c": "DRAG",
+      "d": "ALFA CHECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fighters have found the end of the threat formation and are converting; given in range and bearing from the FAOR BULLSEYE (\"BLUE 4 is PACMAN 290/5\").",
+    "respuestas": {
+      "a": "PACMAN",
+      "b": "ANYFACE",
+      "c": "ZIPLIP",
+      "d": "GO SECURE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Interrogated group/radar contact that is responding with any of the specified IFF modes and correct codes established for the ID criteria.",
+    "respuestas": {
+      "a": "RESCAP",
+      "b": "PAINT",
+      "c": "SNOOZE",
+      "d": "GIMBALS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "A military IFF transponder.",
+    "respuestas": {
+      "a": "PARROT",
+      "b": "BRAA",
+      "c": "AS FRAGGED",
+      "d": "SNIFF"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A military IFF interrogator.",
+    "respuestas": {
+      "a": "PARROT INDIA",
+      "b": "CONTINUE DRY",
+      "c": "BULLSEYE",
+      "d": "DELAY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Two groups initially separated in range, decrease range and pass each other",
+    "respuestas": {
+      "a": "PASSING",
+      "b": "ON/OFF STATION",
+      "c": "FLANK",
+      "d": "ZIPLIP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Patrol in vicinity of present position or position indicated",
+    "respuestas": {
+      "a": "PATROL",
+      "b": "GINGERBREAD",
+      "c": "BREAK",
+      "d": "PLAYMATE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Request for/Informative to provide tactical situation status pertinent to mission. (picture CLARA north).",
+    "respuestas": {
+      "a": "PICTURE",
+      "b": "OKAY",
+      "c": "PLAYMATE",
+      "d": "GOPHER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Bearing and distance to base (or specified destination) Bearing is to be suffixed. True or magnetic.",
+    "respuestas": {
+      "a": "PIGEONS",
+      "b": "WEAPONS",
+      "c": "BUSTER",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The Active radar Missile is at MPRF active.",
+    "respuestas": {
+      "a": "PITBULL",
+      "b": "BINGO",
+      "c": "GIMBALS",
+      "d": "BOX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Friendly ship, submarine or aircraft with which I am co-operating",
+    "respuestas": {
+      "a": "PLAYMATE",
+      "b": "ANYFACE",
+      "c": "STRANGER",
+      "d": "RESCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Amount of time aircraft can remain on station, given in hours plus minutes (e.g. ONE PLUS THIRTY equals one hour and thirty minutes).",
+    "respuestas": {
+      "a": "PLAYTIME",
+      "b": "GO SECURE",
+      "c": "ON TOP",
+      "d": "ALLIGATOR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Switch to communications channel number preceding POGO. If unable to establish communications, switch to channel number following POGO. If no channel number is following POGO return to this channel.",
+    "respuestas": {
+      "a": "WEAVE",
+      "b": "ZIPLIP",
+      "c": "Pogo",
+      "d": "SPOOFING"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Point track of interest.",
+    "respuestas": {
+      "a": "POINT",
+      "b": "DRAG",
+      "c": "NAKED",
+      "d": "RENEGADE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Friendly aircraft has visual/contact on the Friendly package and is joining.",
+    "respuestas": {
+      "a": "ABORT",
+      "b": "POLAR BEAR",
+      "c": "BANDIT",
+      "d": "SCRAMBLE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "In clouds or area of reduced visibility",
+    "respuestas": {
+      "a": "POPEYE",
+      "b": "RESCAP",
+      "c": "ON TOP",
+      "d": "GIMBALS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "1. A contact that has suddenly appeared. 2. Informative call about a contact or group that has suddenly appeared inside decision range (DR).",
+    "respuestas": {
+      "a": "POP UP",
+      "b": "SCRAMBLE",
+      "c": "AS FRAGGED",
+      "d": "BINGO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "In clouds or area of reduced visibility.",
+    "respuestas": {
+      "a": "POPEYE",
+      "b": "GO SECURE",
+      "c": "ABORT",
+      "d": "TRESPASS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Friendly aircraft current position from a fixed reference point (i.e. CAP datum or BULLSEYE).",
+    "respuestas": {
+      "a": "POSIT",
+      "b": "RESCAP",
+      "c": "STRANGLE",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The controlling unit is responsible for taking actions for collision avoidance, such as ordering the necessary alterations to heading, SPEED and altitude to maintain separation criteria.",
+    "respuestas": {
+      "a": "AS FRAGGED",
+      "b": "POSITIVE CONTROL",
+      "c": "ON TOP",
+      "d": "BUSTER"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Desired direction after completion of intercept/engagement.",
+    "respuestas": {
+      "a": "POST ATTACK",
+      "b": "BREAK",
+      "c": "VISUAL",
+      "d": "GO TACTICAL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Valid non co-operative target recognition (NCTR) reply.",
+    "respuestas": {
+      "a": "PRINT",
+      "b": "RENEGADE",
+      "c": "TALLY",
+      "d": "GOPHER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The fighters are manoeuvring up to 180 degrees away from the threat with the intention of recommitting, depending on the tactical situation.",
+    "respuestas": {
+      "a": "PUMP",
+      "b": "TIMECHECK",
+      "c": "GO CLEAR",
+      "d": "BINGO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Switch to designated frequency, channel or TAD. Without response to the speaker.",
+    "respuestas": {
+      "a": "PUSH (FREQ/CH/TAD)",
+      "b": "GO ACTIVE",
+      "c": "BOGEY",
+      "d": "ANYFACE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Group(s) have turned cold and will continue to be monitored.",
+    "respuestas": {
+      "a": "PUSHING (GROUP/DESCRIPTION)",
+      "b": "BREAK AWAY",
+      "c": "GINGERBREAD",
+      "d": "BUSTER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Intercepted electronic emission which has been assigned to a number of the trackblock",
+    "respuestas": {
+      "a": "RACKET",
+      "b": "STRANGER",
+      "c": "GOPHER",
+      "d": "GO CLEAR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "1. The range to an object or target in hundreds of yards normally limited to less than 10,000 yards.",
+    "respuestas": {
+      "a": "RANGE",
+      "b": "RENEGADE",
+      "c": "ANYFACE",
+      "d": "WEAVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A two digit group denoting time (in minutes) required to get airbone.",
+    "respuestas": {
+      "a": "READINESS",
+      "b": "PLAYTIME",
+      "c": "KILO",
+      "d": "GINGERBREAD"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The alert state READY orders the immediate readiness of the indicated Force Weapon System",
+    "respuestas": {
+      "a": "READY",
+      "b": "OKAY",
+      "c": "BOX",
+      "d": "ABORT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fighter aircraft in condition of STANDBY",
+    "respuestas": {
+      "a": "READY CAP",
+      "b": "WEAVE",
+      "c": "GOPHER",
+      "d": "ON TOP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A civil platform that is assessed as operation in such a manner as to raise suspicion that it might be used as a weapon to perpetrate a terrorist attack.",
+    "respuestas": {
+      "a": "SQUAWK",
+      "b": "LEAD TRAIL",
+      "c": "RENEGADE",
+      "d": "FLANK"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Rescue Combat Air Patrol. Provides protection to rescue vehicles from HOSTILE forces during all phases of SAR.",
+    "respuestas": {
+      "a": "RESCAP",
+      "b": "DRAG",
+      "c": "GO CLEAR",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Withdraw/withdrawing in response to a threat, continue mission as able, may RESET/RESUME if threat is negated.",
+    "respuestas": {
+      "a": "RETROGRADE",
+      "b": "FLANK",
+      "c": "TRESPASS",
+      "d": "RENEGADE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A FRIENDLY aircraft with a nuclear weapon on board (also used as a suffix to an aircrafts callsign to indicate which aircraft have NBD's on board)",
+    "respuestas": {
+      "a": "RHINO",
+      "b": "RIDER",
+      "c": "ZIPLIP",
+      "d": "ON THE DECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A BOGEY that is complying with ACO/safe passage procedures.",
+    "respuestas": {
+      "a": "RIDER",
+      "b": "ALFA CHECK",
+      "c": "SQUAWK",
+      "d": "BUDDY (LASE/GUIDE)"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Indicates aircrew understands the radio transmission; does not indicate compliance or reaction.",
+    "respuestas": {
+      "a": "ROGER",
+      "b": "BOX",
+      "c": "SCRAMBLE",
+      "d": "TRESPASS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Time change in minutes from a given datum. The term \"plus\" will indicate later time and the term \"minus\" will indicate an earlier time (\"MISSION 4TK148, ROLEX PLUS 2\" means two minutes have been added to the datum times).",
+    "respuestas": {
+      "a": "ROLEX",
+      "b": "CONTACT",
+      "c": "GOPHER",
+      "d": "BREAK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A situation where an aircraft or element finds themselves between opposing aircraft or elements.",
+    "respuestas": {
+      "a": "SANDWICHED",
+      "b": "CLEARED HOT",
+      "c": "BOGEY DOPE",
+      "d": "BRAA"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Fly at best endurance speed.",
+    "respuestas": {
+      "a": "SAUNTER",
+      "b": "GO CLEAR",
+      "c": "Pogo",
+      "d": "FLANK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Take off as quickly as possible. (Usually followed by the appropriate instructions).",
+    "respuestas": {
+      "a": "SCRAMBLE",
+      "b": "RESCAP",
+      "c": "BINGO",
+      "d": "SQUAWK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Request for separation between two groups.",
+    "respuestas": {
+      "a": "SEPARATION",
+      "b": "OKAY",
+      "c": "SNIFF",
+      "d": "RESCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A command to set (or have set) a particular speed. May be in knots/indicated or in Mach, depending upon the controlled aircraft expressed as follows: knots indicated in three digits; Mach - two or three digits with the word POINT separating whole numbers from tenths and hundreds.",
+    "respuestas": {
+      "a": "SET __",
+      "b": "NAKED",
+      "c": "RIDER",
+      "d": "TRESPASS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The observation of an enemy unit or force, usually as a sequel to surveillance or reconnaissance for the purpose of reporting its composition, location movement and any other relevant information.",
+    "respuestas": {
+      "a": "SHADOWING",
+      "b": "BINGO",
+      "c": "ON THE DECK",
+      "d": "AS FRAGGED"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Aircraft is out of/or unable to employ active (FOX III) radar missiles.",
+    "respuestas": {
+      "a": "SKOSH",
+      "b": "ACTION",
+      "c": "GOPHER",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Am about to fire AA shells to burst at HOSTILE's estimated ALTITUDE and direction to indicate his approach",
+    "respuestas": {
+      "a": "SKYROCKET",
+      "b": "KILO",
+      "c": "CLEARED HOT",
+      "d": "BINGO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Time delay to individual flight/element event.",
+    "respuestas": {
+      "a": "SLIP",
+      "b": "AS FRAGGED",
+      "c": "TIMECHECK",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Pulse repetition rate in pulse per second",
+    "respuestas": {
+      "a": "SLOPE",
+      "b": "PUMP",
+      "c": "BUSTER",
+      "d": "CONTINUE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Target ground speed is below 200 kts.",
+    "respuestas": {
+      "a": "SLOW",
+      "b": "BRAA",
+      "c": "DELAY",
+      "d": "CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Turn on /off collision lights.",
+    "respuestas": {
+      "a": "SMASH",
+      "b": "GINGERBREAD",
+      "c": "ALFA CHECK",
+      "d": "BULLSEYE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Passive sensor indication of a radar emitter. (AWACS)",
+    "respuestas": {
+      "a": "SNIFF",
+      "b": "OKAY",
+      "c": "TRESPASS",
+      "d": "CONTINUE DRY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Initiation of EMCON procedures",
+    "respuestas": {
+      "a": "SNOOZE",
+      "b": "VISUAL",
+      "c": "LEAD TRAIL",
+      "d": "WEAVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "1. Equipment indicated is not operating efficiently (opposite of SWEET).",
+    "respuestas": {
+      "a": "SOUR",
+      "b": "BRAA",
+      "c": "GO TACTICAL",
+      "d": "GIMBALS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "An interrogated group/radar contact which lacks the Air Tasking Order (ATO) established (or equivalent) IFF modes and codes required for the ID criteria.",
+    "respuestas": {
+      "a": "SPADES",
+      "b": "RESCAP",
+      "c": "BARCAP",
+      "d": "CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "RWR indication of a HOSTILE AI radar lock-on (\"RED 4, SPIKED, right 2 o'clock\").",
+    "respuestas": {
+      "a": "RENEGADE",
+      "b": "SPIKED",
+      "c": "Pogo",
+      "d": "ON TOP"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Contact is dividing.",
+    "respuestas": {
+      "a": "SPLITTING",
+      "b": "DRY CONTACT",
+      "c": "GO CLEAR",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Voice deception is being employed",
+    "respuestas": {
+      "a": "PLAYMATE",
+      "b": "SPOOFING",
+      "c": "BOX",
+      "d": "BUSTER"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Operate IFF as indicated or IFF is operating as indicated",
+    "respuestas": {
+      "a": "SQUAWK",
+      "b": "TRESPASS",
+      "c": "PUMP",
+      "d": "ANYFACE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Two or more contacts within group criteria with an altitude separation in relation to each other.",
+    "respuestas": {
+      "a": "STACK",
+      "b": "KILO",
+      "c": "CLEARED HOT",
+      "d": "VISUAL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": ".Request for individual/group tactical situation",
+    "respuestas": {
+      "a": "STATUS",
+      "b": "BOGEY DOPE",
+      "c": "BREAK",
+      "d": "GINGERBREAD"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Three-ship inner group formation with two lead contacts line abreast and a single contact in trail.",
+    "respuestas": {
+      "a": "STINGER",
+      "b": "AS FRAGGED",
+      "c": "SQUAWK",
+      "d": "GOPHER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "An unknown contact not associated with action in progress (bearing, range and altitude relative to you).",
+    "respuestas": {
+      "a": "STRANGER",
+      "b": "GINGERBREAD",
+      "c": "PACKAGE",
+      "d": "TIMBER"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Switch off equipment indicated.",
+    "respuestas": {
+      "a": "STRANGLE",
+      "b": "PLAYTIME",
+      "c": "ALLIGATOR",
+      "d": "BUDDY (LASE/GUIDE)"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "The numerical strength of a track.",
+    "respuestas": {
+      "a": "STRENGTH",
+      "b": "BUSTER",
+      "c": "VISUAL",
+      "d": "DRY CONTACT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Radar indications of noise jamming.",
+    "respuestas": {
+      "a": "STROBE",
+      "b": "ZIPLIP",
+      "c": "RESCAP",
+      "d": "PUMP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "C2 functions are available (opposite of MIDNIGHT).",
+    "respuestas": {
+      "a": "SUNRISE",
+      "b": "BULLSEYE",
+      "c": "BINGO",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "1. Equipment indicated is operating efficiently. (Opposite of SOUR).",
+    "respuestas": {
+      "a": "SWEET",
+      "b": "TALLY",
+      "c": "BREAK",
+      "d": "BULLSEYE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Cease general searching and shift to the frequency of the specified racket.",
+    "respuestas": {
+      "a": "SWITCH",
+      "b": "GO SECURE",
+      "c": "OKAY",
+      "d": "GINGERBREAD"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Indicates an attacker is changing from one aircraft to another.",
+    "respuestas": {
+      "a": "SWITCH(ED)",
+      "b": "LEAD TRAIL",
+      "c": "BREAK AWAY",
+      "d": "RESCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Sighting of a target, bandit, bogey, landmark or enemy position; opposite of NO JOY.",
+    "respuestas": {
+      "a": "TALLY",
+      "b": "DRAG",
+      "c": "PACKAGE",
+      "d": "ACTION"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Target Area CAP",
+    "respuestas": {
+      "a": "TARCAP",
+      "b": "RIDER",
+      "c": "NAKED",
+      "d": "CONTACT POSITION"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "1. Assignment of targeting responsibilities.",
+    "respuestas": {
+      "a": "TARGET",
+      "b": "ABORT",
+      "c": "BUDDY (LASE/GUIDE)",
+      "d": "GO ACTIVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Group responsibility has been met.",
+    "respuestas": {
+      "a": "TARGETED",
+      "b": "SQUAWK",
+      "c": "ALLIGATOR",
+      "d": "GO ACTIVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "1. Cease local engagement without affecting the overall exercise. 2. Stop laser illumination of a target.",
+    "respuestas": {
+      "a": "TERMINATE",
+      "b": "DRAG",
+      "c": "ALFA CHECK",
+      "d": "ANYFACE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Untargeted bandit/bogey with prebriefed range/aspect of a friendly.",
+    "respuestas": {
+      "a": "THREAT",
+      "b": "WEAVE",
+      "c": "DRY CONTACT",
+      "d": "FLANK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Positive radar contact with element/aircraft",
+    "respuestas": {
+      "a": "TIED",
+      "b": "RENEGADE",
+      "c": "CONTACT POSITION",
+      "d": "NAKED"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "LINK 16 network.",
+    "respuestas": {
+      "a": "TIMBER",
+      "b": "KILO",
+      "c": "SNOOZE",
+      "d": "BOX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Check/change IFF code. MODO 1 NORMALMENTE CADA 30 MINUTOS",
+    "respuestas": {
+      "a": "TIMECHECK",
+      "b": "BULLSEYE",
+      "c": "SQUAWK",
+      "d": "BREAK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "3. Group/contact direction of flight/movement",
+    "respuestas": {
+      "a": "TRACKING",
+      "b": "FLANK",
+      "c": "SNOOZE",
+      "d": "BUDDY (LASE/GUIDE)"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Datalink information file",
+    "respuestas": {
+      "a": "TRACK NUMBER",
+      "b": "DELAY",
+      "c": "GINGERBREAD",
+      "d": "DRAG"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Flight is entering surface to air threat ring of a specific system at the stated location.",
+    "respuestas": {
+      "a": "TRESPASS",
+      "b": "FLANK",
+      "c": "KILO",
+      "d": "GO CLEAR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Cannot comply as requested or directed.",
+    "respuestas": {
+      "a": "UNABLE",
+      "b": "NAKED",
+      "c": "TIMECHECK",
+      "d": "GO SECURE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "HOSTILE anti-ship guided missile",
+    "respuestas": {
+      "a": "VAMPIRE",
+      "b": "PUMP",
+      "c": "AS FRAGGED",
+      "d": "GO ACTIVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Alter heading to magnetic heading indicated. (Use of true headings to be established before operation commences).",
+    "respuestas": {
+      "a": "VECTOR",
+      "b": "CONTACT",
+      "c": "DRAG",
+      "d": "PLAYTIME"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Target ground speed is greater than 900 kts/1.5M.",
+    "respuestas": {
+      "a": "VERY FAST",
+      "b": "GOPHER",
+      "c": "RESCAP",
+      "d": "SPOOFING"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Target altitude less than 500FT MSD",
+    "respuestas": {
+      "a": "VERY LOW",
+      "b": "STRANGER",
+      "c": "ON/OFF STATION",
+      "d": "ON TOP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Picture label with three groups with the single closest in range and two groups, azimuth split, in trail.",
+    "respuestas": {
+      "a": "VIC",
+      "b": "GO TACTICAL",
+      "c": "PLAYMATE",
+      "d": "GO CLEAR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Sighting of a friendly aircraft ground position; opposite of BLIND.",
+    "respuestas": {
+      "a": "VISUAL",
+      "b": "OKAY",
+      "c": "WEAVE",
+      "d": "ABORT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Picture label with three or more groups primarily split in azimuth.",
+    "respuestas": {
+      "a": "WALL",
+      "b": "BINGO",
+      "c": "STRANGER",
+      "d": "RESCAP"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "(RED/YELLOW/WHITE) Attack is imminent/probable/without adequate warning.",
+    "respuestas": {
+      "a": "WARNING",
+      "b": "GO SECURE",
+      "c": "RIDER",
+      "d": "GO ACTIVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "A surface picket whose main task is AAW.",
+    "respuestas": {
+      "a": "WATCHDOG",
+      "b": "BINGO",
+      "c": "BANDIT",
+      "d": "TRESPASS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "I have active, semi-active, IR missiles, gun ammunitions (PLUS/MINUS/ZERO) remaining, and chaff and/or flares.",
+    "respuestas": {
+      "a": "WEAPONS",
+      "b": "PACKAGE",
+      "c": "TIMECHECK",
+      "d": "ANYFACE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Continuous crossing of flight paths.",
+    "respuestas": {
+      "a": "WEAVE",
+      "b": "ABORT",
+      "c": "DRAG",
+      "d": "KILO"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Three ship inner group formation with a single contact closest in range and two trail contacts line abreast.",
+    "respuestas": {
+      "a": "WEDGE",
+      "b": "GO TACTICAL",
+      "c": "ON TOP",
+      "d": "RENEGADE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Separation between the farthest group in azimuth in a relative formation of three or more groups",
+    "respuestas": {
+      "a": "WIDE",
+      "b": "BUSTER",
+      "c": "CHICKS",
+      "d": "ALFA CHECK"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Will comply with received instructions.",
+    "respuestas": {
+      "a": "WILLCO",
+      "b": "DRY CONTACT",
+      "c": "GO CLEAR",
+      "d": "BULLSEYE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Directive or interrogative regarding further information or directives pertinent to mission.",
+    "respuestas": {
+      "a": "WORDS",
+      "b": "PUMP",
+      "c": "GIMBALS",
+      "d": "TALLY"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Limit transmissions to critical information only (see MINIMIZE)",
+    "respuestas": {
+      "a": "ZIPLIP",
+      "b": "GINGERBREAD",
+      "c": "GO CLEAR",
+      "d": "TALLY"
+    },
+    "correcta": "a"
+  }
+]
